@@ -1,0 +1,1967 @@
+{
+	"areas":[
+		{
+		"title":"Kitchen",
+		"miamiTitle":"aalimiihtwikaani",
+		"image":"/Areas/Kitchen/Kitchen/kitchen.png",
+		"info":[
+			{
+			"id":"chair",
+			"word":
+				{
+				"english":"Chair",
+				"miami":"naahkiipioni",
+				"mp3":"/Areas/Kitchen/Chair/naahkiipioni.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Get another chair!",
+				"miami":"kotaki naatilo naahkiipioni",
+				"mp3":"/Areas/Kitchen/Chair/kotaki_naatilo_naahkiipioni.mp3"
+				},
+			"phrase2":
+				{
+				"english":"You can sit in that chair",
+				"miami":"Ciinkweepilo iiniini naahkiipioninki",
+				"mp3":"/Areas/Kitchen/Chair/kotaki_naatilo_naahkiipioni.mp3"
+				},
+			"image":"/Areas/Kitchen/Chair/chair.png"
+			},
+			{
+			"id":"coffee",
+			"word":
+				{
+				"english":"Coffee",
+				"miami":"kociihsaapowi",
+				"mp3":"/Areas/Kitchen/Coffee/kociihsaapowi.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Coffee is ready",
+				"miami":"kociihsaapowi meehtiteeki",
+				"mp3":"/Areas/Kitchen/Coffee/kociihsaapowi_meehtiteeki.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Are you making coffee?",
+				"miami":"aalimiihtooyani-nko kociihsaapowi",
+				"mp3":"/Areas/Kitchen/Coffee/aalimiihtooyani-nko_kociihsaapowi.mp3"
+				},
+			"image":"/Areas/Kitchen/Coffee/coffee.png"
+			},
+			{
+			"id":"cookingpot",
+			"word":
+				{
+				"english":"Cooking Pot",
+				"miami":"ahkihkwi",
+				"mp3":"/Areas/Kitchen/CookingPot/ahkihkwi.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Put the pans away",
+				"miami":"wilahtoolo ahkihkwa",
+				"mp3":"/Areas/Kitchen/CookingPot/wilahtoolo_ahkihkwa.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Where is a pan I can use?",
+				"miami":"taanaaha ahkihkwi, kati ayoowaani",
+				"mp3":"/Areas/Kitchen/CookingPot/taanaaha_ahkihkwi_kati_ayoowaani.mp3"
+				},
+			"image":"/Areas/Kitchen/CookingPot/cooking_pot.png"
+			},
+			{
+			"id":"kitchen",
+			"word":
+				{
+				"english":"Kitchen",
+				"miami":"aalimiihtwikaani",
+				"mp3":"/Areas/Kitchen/Kitchen/aalimiihtwikaani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"I am in the kitchen",
+				"miami":"aalimiihtwikaaninki eepiaani",
+				"mp3":"/Areas/Kitchen/Kitchen/aalimiihtwikaaninki_eepiaani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"It's in the kitchen",
+				"miami":"aalimiihtwikaaninki eehteeki",
+				"mp3":"/Areas/Kitchen/Kitchen/aalimiihtwikaaninki_eehteeki.mp3"
+				},
+			"image":"/Areas/Kitchen/Kitchen/kitchen.png"
+			},
+			{
+			"id":"kitchensink",
+			"word":
+				{
+				"english":"Kitchen sink",
+				"miami":"kisihsalaakanaakani",
+				"mp3":"/Areas/Kitchen/KitchenSink/kisihsalaakanaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Put it in the sink",
+				"miami":"kisihsalaakanaakanenki ahtoolo",
+				"mp3":"/Areas/Kitchen/KitchenSink/kisihsalaakanaakanenki_ahtoolo.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Put your plate in the sink",
+				"miami":"kisihsalaakanaakanenki ahtoolo kitoolaakanemi",
+				"mp3":"/Areas/Kitchen/KitchenSink/kisihsalaakanaakanenki_ahtoolo_kitoolaakanemi.mp3"
+				},
+			"image":"/Areas/Kitchen/KitchenSink/kitchen_sink.png"
+			},
+			{
+			"id":"pepper",
+			"word":
+				{
+				"english":"Pepper",
+				"miami":"wiihsakaakani",
+				"mp3":"/Areas/Kitchen/Pepper/wiihsakaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Pass me the pepper",
+				"miami":"wiihsakaakani miililo",
+				"mp3":"/Areas/Kitchen/Pepper/wiihsakaakani_miililo.mp3"
+				},
+			"phrase2":
+				{
+				"english":" ",
+				"miami":" ",
+				"mp3":" "
+				},
+			"image":"/Areas/Kitchen/Pepper/pepper.png"
+			},
+			{
+			"id":"salt",
+			"word":
+				{
+				"english":"Salt",
+				"miami":"wiihkapaakani",
+				"mp3":"/Areas/Kitchen/Salt/wiihkapaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Pass me the salt",
+				"miami":"wiihkapaakani miililo",
+				"mp3":"/Areas/Kitchen/Salt/wiihkapaakani_miililo.mp3"
+				},
+			"phrase2":
+				{
+				"english":" ",
+				"miami":" ",
+				"mp3":" "
+				},
+			"image":"/Areas/Kitchen/Salt/salt.png"
+			},
+			{
+			"id":"soap",
+			"word":
+				{
+				"english":"Soap",
+				"miami":"waapahaakani",
+				"mp3":"/Areas/Kitchen/Soap/waapahaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Where is the soap?",
+				"miami":"taanaaha waapahaakani",
+				"mp3":"/Areas/Kitchen/Soap/taanaaha_waapahaakani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"The soap is gone",
+				"miami":"waapahaakani meeneehki",
+				"mp3":"/Areas/Kitchen/Soap/waapahaakani_meeneehki.mp3"
+				},
+			"image":"/Areas/Kitchen/Soap/soap.png"
+			},
+			{
+			"id":"stove",
+			"word":
+				{
+				"english":"Stove",
+				"miami":"kišaaphkaahkosaakani",
+				"mp3":"/Areas/Kitchen/Stove/ki$aaphkaahkosaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Heat up the oven!",
+				"miami":"kišaaphkisanto kišaaphkaahkosaakani",
+				"mp3":"/Areas/Kitchen/Stove/ki$aaphkisanto_ki$aaphkaahkosaakani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"The oven is hot",
+				"miami":"kiišaaphkiteeki kišaaphkaahkosaakani",
+				"mp3":"/Areas/Kitchen/Stove/ki$aaphkisanto_ki$aaphkaahkosaakani.mp3"
+				},
+			"image":"/Areas/Kitchen/Stove/stove.png"
+			},
+			{
+			"id":"table",
+			"word":
+				{
+				"english":"Table",
+				"miami":"atoohpooni",
+				"mp3":"/Areas/Kitchen/Table/atoohpooni.mp3"
+				},
+			"phrase1":
+				{
+				"english":"You set the table.",
+				"miami":"wilahtoolo atoohpooni",
+				"mp3":"/Areas/Kitchen/Table/wilahtoolo_atoohpooni.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Everything is on the table",
+				"miami":"atoohpooni weelahtoonki",
+				"mp3":"/Areas/Kitchen/Table/atoohpooni_weelahtoonki.mp3"
+				},
+			"image":"/Areas/Kitchen/Table/table.png"
+			},
+			{
+			"id":"tea",
+			"word":
+				{
+				"english":"Tea",
+				"miami":"mihšipakwaapowi",
+				"mp3":"/Areas/Kitchen/Tea/mih$ipakwaapowi.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Do you drink tea?",
+				"miami":"mihšipakwaapowi-nko minani",
+				"mp3":"/Areas/Kitchen/Tea/mih$ipakwaapowi-nko_minani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"I am warming up some tea",
+				"miami":"mihšipakwaapowi kiišaaphkisamaani",
+				"mp3":"/Areas/Kitchen/Tea/mih$ipakwaapowi_kii$aaphkisamaani.mp3"
+				},
+			"image":"/Areas/Kitchen/Tea/tea.png"
+			},
+			{
+			"id":"teakettle",
+			"word":
+				{
+				"english":"Tea Kettle",
+				"miami":"mihšipakwaapowahkhkwi",
+				"mp3":"/Areas/Kitchen/TeaKettle/mih$ipakwaapowahkhkwi.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Warm up the tea kettle",
+				"miami":"kišaaphkisanto mihšipakwaapowahkhkwi",
+				"mp3":"/Areas/Kitchen/TeaKettle/ki$aaphkisanto_mih$ipakwaapowahkhkwi.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Fill up the tea kettle",
+				"miami":"moohkinatoolo mihšipakwaapowahkhkwi",
+				"mp3":"/Areas/Kitchen/TeaKettle/moohkinatoolo_mih$ipakwaapowahkhkwi.mp3"
+				},
+			"image":"/Areas/Kitchen/TeaKettle/tea_kettle.png"
+			}
+		]
+		},
+		{
+		"title":"Bathroom",
+		"miamiTitle":"Aleeliikaani",
+		"image":"/Areas/Bathroom/Bathroom/bathroom.png",
+		"info":[
+			{
+			"id":"bathroom",
+			"word":
+				{
+				"english":"Bathroom",
+				"miami":"aleeliikaani",
+				"mp3":"/Areas/Bathroom/Bathroom/aleeliikaani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"I am going to the bathroom",
+				"miami":"aleeliikaaninkiši iiyaayaani",
+				"mp3":"/Areas/Bathroom/Bathroom/aleeliikaaninki$i_iiyaayaani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"I wipe my butt",
+				"miami":"kiisimitiwiaani",
+				"mp3":"/Areas/Bathroom/Bathroom/kiisimitiwiaani.mp3"
+				},
+			"image":"/Areas/Bathroom/Bathroom/bathroom.png"
+			},
+			{
+			"id":"bathtub",
+			"word":
+				{
+				"english":"Bathtub",
+				"miami":"aleeliihaakani",
+				"mp3":"/Areas/Bathroom/Bathtub/aleeliihaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Fill the bathtub",
+				"miami":"moohkinatoolo aleeliihaakani",
+				"mp3":"/Areas/Bathroom/Bathtub/moohkinatoolo_aleeliihaakani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Wipe out the bathtub",
+				"miami":"kisahanto aleeliihaakani",
+				"mp3":"/Areas/Bathroom/Bathtub/kisahanto_aleeliihaakani.mp3"
+				},
+			"image":"/Areas/Bathroom/Bathtub/bathtub.png"
+			},
+			{
+			"id":"coldwater",
+			"word":
+				{
+				"english":"It is cold water",
+				"miami":"teehkinkamiiki",
+				"mp3":"/Areas/Bathroom/ColdWater/teehkinkamiiki.mp3"
+				},
+			"phrase1":
+				{
+				"english":"The water is too cold",
+				"miami":"maalami teehkinkamiiki",
+				"mp3":"/Areas/Bathroom/ColdWater/maalami_teehkinkamiiki.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Use cold water",
+				"miami":"ayoolo tahkinkami",
+				"mp3":"/Areas/Bathroom/ColdWater/ayoolo_tahkinkami.mp3"
+				},
+			"image":"/Areas/Bathroom/ColdWater/cold_water.png"
+			},
+			{
+			"id":"comb",
+			"word":
+				{
+				"english":"Comb",
+				"miami":"pinahkwaani",
+				"mp3":"/Areas/Bathroom/Comb/pinahkwaani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"I broke the comb",
+				"miami":"pinahkwaani keehkinamaani",
+				"mp3":"/Areas/Bathroom/Comb/pinahkwaani_keehkinamaani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"This comb is worn out",
+				"miami":"ooniini pinahkwaani neekaaniwiki",
+				"mp3":"/Areas/Bathroom/Comb/ooniini_pinahkwaani_neekaaniwiki.mp3"
+				},
+			"image":"/Areas/Bathroom/Comb/comb.png"
+			},
+			{
+			"id":"hairbrush",
+			"word":
+				{
+				"english":"Hairbrush",
+				"miami":"piiwahaakani",
+				"mp3":"/Areas/Bathroom/Hairbrush/piiwahaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"The brush is dirty",
+				"miami":"piiwahaakani keehpahki",
+				"mp3":"/Areas/Bathroom/Hairbrush/piiwahaakani_keehpahki.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Clean out the brush",
+				"miami":"tatankonanto piiwahaakani",
+				"mp3":"/Areas/Bathroom/Hairbrush/tatankonanto_piiwahaakani.mp3"
+				},
+			"image":"/Areas/Bathroom/Hairbrush/hairbrush.png"
+			},
+			{
+			"id":"hotwater",
+			"word":
+				{
+				"english":"It is hot water",
+				"miami":"kiišaaphkamiiki",
+				"mp3":"/Areas/Bathroom/HotWater/kii$aaphkamiiki.mp3"
+				},
+			"phrase1":
+				{
+				"english":"The water is too hot",
+				"miami":"maalami kiišaaphkamiiki",
+				"mp3":"/Areas/Bathroom/HotWater/maalami_kii$aaphkamiiki.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Is the water hot?",
+				"miami":"kišaaphkamiiwi-nko",
+				"mp3":"/Areas/Bathroom/HotWater/ki$aapihkamiiwi-nko.mp3"
+				},
+			"image":"/Areas/Bathroom/HotWater/hot_water.png"
+			},
+			{
+			"id":"mirror",
+			"word":
+				{
+				"english":"Mirror",
+				"miami":"waapamooni",
+				"mp3":"/Areas/Bathroom/Mirror/waapamooni.mp3"
+				},
+			"phrase1":
+				{
+				"english":"The mirror is dirty",
+				"miami":"keehpahki waapamooni",
+				"mp3":"/Areas/Bathroom/Mirror/keehpahki_waapamooni.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Wash/Wipe the mirror!",
+				"miami":"kisahanto waapamooni",
+				"mp3":"/Areas/Bathroom/Mirror/kisahanto_waapamooni.mp3"
+				},
+			"image":"/Areas/Bathroom/Mirror/mirror.png"
+			},
+			{
+			"id":"sink",
+			"word":
+				{
+				"english":"Bathroom sink",
+				"miami":"kisihsiinkweekani",
+				"mp3":"/Areas/Bathroom/Sink/kisihsiinkweekani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Wash your hands!",
+				"miami":"kisihsinehkiilo",
+				"mp3":"/Areas/Bathroom/Sink/kisihsinehkiilo.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Wash your hands before you eat!",
+				"miami":"kisihsinehkiilo eehkwi wiihsinihsiiwani",
+				"mp3":"/Areas/Bathroom/Sink/kisihsinehkiilo_eehkwi_wiihsinihsiiwani.mp3"
+				},
+			"image":"/Areas/Bathroom/Sink/sink.png"
+			},
+			{
+			"id":"soap",
+			"word":
+				{
+				"english":"Soap",
+				"miami":"waapahaakani",
+				"mp3":"/Areas/Bathroom/Soap/waapahaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Where is the soap?",
+				"miami":"taanaaha waapahaakani",
+				"mp3":"/Areas/Bathroom/Soap/taanaaha_waapahaakani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"The soap is gone",
+				"miami":"waapahaakani meeneehki",
+				"mp3":"/Areas/Bathroom/Soap/waapahaakani_meeneehki.mp3"
+				},
+			"image":"/Areas/Bathroom/Soap/soap.png"
+			},
+			{
+			"id":"toilet",
+			"word":
+				{
+				"english":"Toilet",
+				"miami":"miisaakani",
+				"mp3":"/Areas/Bathroom/Toilet/miisaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"I am peeing, urinating",
+				"miami":"šeekiaani",
+				"mp3":"/Areas/Bathroom/Toilet/$eekiaani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"I am pooping, defecating",
+				"miami":"meesiaani",
+				"mp3":"/Areas/Bathroom/Toilet/meesiaani.mp3"
+				},
+			"image":"/Areas/Bathroom/Toilet/toilet.png"
+			},
+			{
+			"id":"toothbrush",
+			"word":
+				{
+				"english":"Toothbrush",
+				"miami":"kisaapiteehaakani",
+				"mp3":"/Areas/Bathroom/Toothbrush/kisaapiteehaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Where is my toothbrush?",
+				"miami":"taanaaha ninkisaapiteehaakanemi",
+				"mp3":"/Areas/Bathroom/Toothbrush/taanaaha_ninkisaapiteehaakanemi.mp3"
+				},
+			"phrase2":
+				{
+				"english":"You brush your teeth!",
+				"miami":"kisihsaapiteehikolo",
+				"mp3":"/Areas/Bathroom/Toothbrush/kisihsaapiteehikolo.mp3"
+				},
+			"image":"/Areas/Bathroom/Toothbrush/toothbrush.png"
+			},
+			{
+			"id":"toothpaste",
+			"word":
+				{
+				"english":"Toothpaste",
+				"miami":"awiipiti waapahaakani",
+				"mp3":"/Areas/Bathroom/Toothpaste/awiipiti_waapahaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"The toothpaste is gone",
+				"miami":"awiipiti waapahaakani meeneehwiki",
+				"mp3":"/Areas/Bathroom/Toothpaste/awiipiti_waapahaakani_meeneehwiki.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Do you have more toothpaste?",
+				"miami":"ayoolhka-nko ahtooyani awiipiti waapahaakani",
+				"mp3":"/Areas/Bathroom/Toothpaste/ayoolhka-nko_ahtooyani_awiipiti_waapahaakani.mp3"
+				},
+			"image":"/Areas/Bathroom/Toothpaste/toothpaste.png"
+			}
+		]
+		},
+		{
+		"title":"Bedroom",
+		"miamiTitle":"Nipaakaani",
+		"image":"/Areas/Bedroom/Bedroom/bedroom.png",
+		"info":[
+			{
+			"id":"bed",
+			"word":
+				{
+				"english":"Bed",
+				"miami":"apinayi",
+				"mp3":"/Areas/Bedroom/Bed/apinayi.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Look under the bed",
+				"miami":"aakwaahkwe apinayi aalaapilo",
+				"mp3":"/Areas/Bedroom/Bed/aakwaahkwe_apinayi_aalaapilo.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Get up it's morning!",
+				"miami":"waahseeki, pasekwiilo",
+				"mp3":"/Areas/Bedroom/Bed/waahseeki_pasekwiilo.mp3"
+				},
+			"image":"/Areas/Bedroom/Bed/bed.png"
+			},
+			{
+			"id":"bedroom",
+			"word":
+				{
+				"english":"Bedroom",
+				"miami":"nipaakaani",
+				"mp3":"/Areas/Bedroom/Bedroom/nipaakaani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"He/She is in the bedroom",
+				"miami":"nipaakaaninki eepici",
+				"mp3":"/Areas/Bedroom/Bedroom/nipaakaaninki_eepici.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Go look in the bedroom!",
+				"miami":"nipaakaaninki aalaapilo",
+				"mp3":"/Areas/Bedroom/Bedroom/nipaakaaninki_aalaapilo.mp3"
+				},
+			"image":"/Areas/Bedroom/Bedroom/bedroom.png"
+			},
+			{
+			"id":"blanket",
+			"word":
+				{
+				"english":"Blanket",
+				"miami":"waapimotayi",
+				"mp3":"/Areas/Bedroom/Blanket/waapimotayi.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Give me a blanket, I am cold.",
+				"miami":"waapimotayi miililo, šaakwaciaani",
+				"mp3":"/Areas/Bedroom/Blanket/waapimotayi_miililo_$aakwaciaani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"The blanket is dirty",
+				"miami":"waapimotayi keehpeekinki",
+				"mp3":"/Areas/Bedroom/Blanket/waapimotayi_keehpeekinki.mp3"
+				},
+			"image":"/Areas/Bedroom/Blanket/blanket.png"
+			},
+			{
+			"id":"book",
+			"word":
+				{
+				"english":"Book",
+				"miami":"wiintaakani",
+				"mp3":"/Areas/Bedroom/Book/wiintaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Where is my book?",
+				"miami":"taanaaha niwiintaakanemi",
+				"mp3":"/Areas/Bedroom/Book/taanaaha_nimenihkwaakanemi.mp3"
+				},
+			"phrase2":
+				{
+				"english":"I found it",
+				"miami":"meehkamaani",
+				"mp3":"/Areas/Bedroom/Book/meehkamaani.mp3"
+				},
+			"image":"/Areas/Bedroom/Book/book.png"
+			},
+			{
+			"id":"carpet",
+			"word":
+				{
+				"english":"Rug/Carpet",
+				"miami":"wilenaahkhtaakani",
+				"mp3":"/Areas/Bedroom/Carpet/wilenaahkihtaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"The carpet is dirty",
+				"miami":"keehpeekinki wilenaahkihtaakani",
+				"mp3":"/Areas/Bedroom/Carpet/keehpeekinki_wilenaahkhtaakani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"It spilled on the carpet",
+				"miami":"seekhkaaki wilenaahkhtaakanenki",
+				"mp3":"/Areas/Bedroom/Carpet/seekhkaaki_wilenaahkhtaakanenki.mp3"
+				},
+			"image":"/Areas/Bedroom/Carpet/carpet.png"
+			},
+			{
+			"id":"chair",
+			"word":
+				{
+				"english":"Chair",
+				"miami":"naahkiipioni",
+				"mp3":"/Areas/Bedroom/Chair/naahkiipioni.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Get another chair!",
+				"miami":"kotaki naatilo naahkipioni",
+				"mp3":"/Areas/Bedroom/Chair/kotaki_naatilo_naahkiipioni.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Sit in that chair",
+				"miami":"iiniini naahkiipioni ciinkweepilo",
+				"mp3":"/Areas/Bedroom/Chair/iiniini_naahkiipioni_ciinkweepilo.mp3"
+				},
+			"image":"/Areas/Bedroom/Chair/chair.png"
+			},
+			{
+			"id":"door",
+			"word":
+				{
+				"english":"Door",
+				"miami":"ahkwaanteemi",
+				"mp3":"/Areas/Bedroom/Door/ahkwaanteemi.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Shut the door!",
+				"miami":"ahkwaanteemi kipahanto",
+				"mp3":"/Areas/Bedroom/Door/ahkwaanteemi_kipahanto.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Leave the door open!",
+				"miami":"paahkhsence ahkwaanteemi",
+				"mp3":"/Areas/Bedroom/Door/paahkhsence_ahkwaanteemi.mp3"
+				},
+			"image":"/Areas/Bedroom/Door/door.png"
+			},
+			{
+			"id":"floor",
+			"word":
+				{
+				"english":"Floor",
+				"miami":"eenaahkiikameni",
+				"mp3":"/Areas/Bedroom/Floor/eenaahkiikameni.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Lie down on the floor!",
+				"miami":"taahtakiihšinto eenaahkiikameninki",
+				"mp3":"/Areas/Bedroom/Floor/taahtakiih$into_eenaahkiikameninki.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Sleep on the floor!",
+				"miami":"nipaalo eenaahkiikameninki",
+				"mp3":"/Areas/Bedroom/Floor/nipaalo_eenaahkiikameninki.mp3"
+				},
+			"image":"/Areas/Bedroom/Floor/floor.png"
+			},
+			{
+			"id":"lamp",
+			"word":
+				{
+				"english":"Lamp/light",
+				"miami":"waapantenaakani",
+				"mp3":"/Areas/Bedroom/Lamp/waapantenaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"You turn on the light!",
+				"miami":"waapantenanto",
+				"mp3":"/Areas/LivingRoom/Lamp/waapantenanto.mp3"
+				},
+			"phrase2":
+				{
+				"english":"You turn off the light!",
+				"miami":"aahteeleentanto",
+				"mp3":"/Areas/LivingRoom/Lamp/aahteeleentanto.mp3"
+				},
+			"image":"/Areas/Bedroom/Lamp/lamp.png"
+			},
+			{
+			"id":"pants",
+			"word":
+				{
+				"english":"Pants",
+				"miami":"wiihkweetioni",
+				"mp3":"/Areas/Bedroom/Pants/wiihkweetioni.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Put on pants!",
+				"miami":"wiihkweetiilo",
+				"mp3":"/Areas/Bedroom/Pants/wiihkweetiilo.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Put your pants in the clothes hamper!",
+				"miami":"kiihpeekinaakanenki ahtoolo kiwiihkweetionemi",
+				"mp3":"/Areas/Bedroom/Pants/kiihpeekinaakanenki_ahtoolo_kiwiihkweetionemi.mp3"
+				},
+			"image":"/Areas/Bedroom/Pants/pants.png"
+			},
+			{
+			"id":"pillow",
+			"word":
+				{
+				"english":"Pillow",
+				"miami":"mihkintaakani",
+				"mp3":"/Areas/Bedroom/Pillow/mihkintaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"The pillow is too hard",
+				"miami":"maalami soonkanki mihkintaakani",
+				"mp3":"/Areas/Bedroom/Pillow/maalami_soonkanki_mihkintaakani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"I sleep with two pillows",
+				"miami":"neepaani niišwi mihkintaakana",
+				"mp3":"/Areas/Bedroom/Pillow/neepaani_nii$wi_mihkintaakana.mp3"
+				},
+			"image":"/Areas/Bedroom/Pillow/pillow.png"
+			},
+			{
+			"id":"shirt",
+			"word":
+				{
+				"english":"Shirt",
+				"miami":"naapinaakani",
+				"mp3":"/Areas/Bedroom/Shirt/naapinaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"I like this shirt",
+				"miami":"ceeleelintamaani ooniini naapinaakani",
+				"mp3":"/Areas/Bedroom/Shirt/ceeleelintamaani_ooniini_naapinaakani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"My shirt is dirty",
+				"miami":"ninaapinaakani keehpeekinki",
+				"mp3":"/Areas/Bedroom/Shirt/ninaapinaakani_keehpeekinki.mp3"
+				},
+			"image":"/Areas/Bedroom/Shirt/shirt.png"
+			}
+		]
+		},
+		{
+		"title":"Dining room",
+		"miamiTitle":"wiihsinikaani",
+		"image":"/Areas/DiningRoom/DiningRoom/dining_room.png",
+		"info":[
+			{
+			"id":"chair",
+			"word":
+				{
+				"english":"Chair",
+				"miami":"naahkiipioni",
+				"mp3":"/Areas/DiningRoom/Chair/naahkiipioni.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Get another chair!",
+				"miami":"kotaki naatilo naahkiipioni",
+				"mp3":"/Areas/DiningRoom/Chair/kotaki_naatilo_naahkiipioni.mp3"
+				},
+			"phrase2":
+				{
+				"english":"You can sit in that chair",
+				"miami":"ciinkweepilo iiniini naahkiipioninki",
+				"mp3":"/Areas/DiningRoom/Chair/ciinkweepilo_iiniini_naahkiipioninki.mp3"
+				},
+			"image":"/Areas/DiningRoom/Chair/chair.png"
+			},
+			{
+			"id":"cup",
+			"word":
+				{
+				"english":"Cup",
+				"miami":"minehkwaakani",
+				"mp3":"/Areas/DiningRoom/Cup/minehkwaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Are you using this cup?",
+				"miami":"ayooyani-nko ooniini minehkwaakani",
+				"mp3":"/Areas/DiningRoom/Cup/ayooyani-nko_ooniini_minehkwaakani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Where is my cup?",
+				"miami":"taanaaha nimenihkwaakanemi",
+				"mp3":"/Areas/DiningRoom/Cup/taanaaha_nimenihkwaakanemi.mp3"
+				},
+			"image":"/Areas/DiningRoom/Cup/cup.png"
+			},
+			{
+			"id":"diningroom",
+			"word":
+				{
+				"english":"Dining Room",
+				"miami":"wiihsinikaani",
+				"mp3":"/Areas/DiningRoom/DiningRoom/wiihsinikaani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Let’s eat!",
+				"miami":"wiihsinitaawi",
+				"mp3":"/Areas/DiningRoom/DiningRoom/wiihsinitaawi.mp3"
+				},
+			"phrase2":
+				{
+				"english":" ",
+				"miami":" ",
+				"mp3":"/Areas/DiningRoom/DiningRoom/dining_room00_dining_room.mp3"
+				},
+			"image":"/Areas/DiningRoom/DiningRoom/dining_room.png"
+			},
+			{
+			"id":"fork",
+			"word":
+				{
+				"english":"Fork",
+				"miami":"neewikoleeki",
+				"mp3":"/Areas/DiningRoom/Fork/neewikoleeki.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Get me another fork!",
+				"miami":"kotaki naatawilo neewikoleeki",
+				"mp3":"/Areas/DiningRoom/Fork/kotaki_naatawilo_neewikoleeki.mp3"
+				},
+			"phrase2":
+				{
+				"english":"The fork is dirty",
+				"miami":"keehpahki neewikoleeki",
+				"mp3":"/Areas/DiningRoom/Fork/keehpahki_neewikoleeki.mp3"
+				},
+			"image":"/Areas/DiningRoom/Fork/fork.png"
+			},
+			{
+			"id":"knife",
+			"word":
+				{
+				"english":"Knife",
+				"miami":"maalhsi",
+				"mp3":"/Areas/DiningRoom/Knife/maalhsie.mp3"
+				},
+			"phrase1":
+				{
+				"english":"My knife is dull",
+				"miami":"nimaalhsemi meehkankweeki",
+				"mp3":"/Areas/DiningRoom/Knife/nimaalhsemi_meehkankweeki.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Let's use butter knives",
+				"miami":"pimi maalhsa ayootaawi",
+				"mp3":"/Areas/DiningRoom/Knife/pimi_maalhsa_ayootaawi.mp3"
+				},
+			"image":"/Areas/DiningRoom/Knife/knife.png"
+			},
+			{
+			"id":"milk",
+			"word":
+				{
+				"english":"Milk",
+				"miami":"noonaakanaapowi",
+				"mp3":"/Areas/DiningRoom/Milk/noonaakanaapowi.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Do you mix milk with your coffee?",
+				"miami":"kilekaapoohkiiyani-nko noonaakanaapowi kociihsaapoonki",
+				"mp3":"/Areas/DiningRoom/Milk/kilekaapoohkiiyani-nko_noonaakanaapowi_kociihsaapoonki.mp3"
+				},
+			"phrase2":
+				{
+				"english":"You should buy some milk at the store",
+				"miami":"noonaakanaapowi mamoohkani ataaweekaaninki",
+				"mp3":"/Areas/DiningRoom/Milk/noonaakanaapowi_mamoohkani_ataaweekaaninki.mp3"
+				},
+			"image":"/Areas/DiningRoom/Milk/milk.png"
+			},
+			{
+			"id":"plate",
+			"word":
+				{
+				"english":"Plate",
+				"miami":"alaakani",
+				"mp3":"/Areas/DiningRoom/Plate/alaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"I am using that plate",
+				"miami":"eeyoowaani iiniini alaakani",
+				"mp3":"/Areas/DiningRoom/Plate/eeyoowaani_iiniini_alaakani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Put your plate on the table",
+				"miami":"atoohpooninki ahtoolo kitoolaakanemi ",
+				"mp3":"/Areas/DiningRoom/Plate/atoohpooninki_ahtoolo_kitoolaakanemi.mp3"
+				},
+			"image":"/Areas/DiningRoom/Plate/plate.png"
+			},
+			{
+			"id":"soupbowl",
+			"word":
+				{
+				"english":"Soup bowl",
+				"miami":"nipoopilaakani",
+				"mp3":"/Areas/DiningRoom/SoupBowl/nipoopilaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Are all the soup bowls dirty?",
+				"miami":"ceeki-nko nipoopilaakana kiihpatwi",
+				"mp3":"/Areas/DiningRoom/SoupBowl/ceeki-nko_nipoopilaakana_kiihpatwi.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Give me another soup bowl!",
+				"miami":"kotaki miililo nipoopilaakani ",
+				"mp3":"/Areas/DiningRoom/SoupBowl/kotaki_miililo_nipoopilaakani.mp3"
+				},
+			"image":"/Areas/DiningRoom/SoupBowl/soup_bowl.png"
+			},
+			{
+			"id":"spoon",
+			"word":
+				{
+				"english":"Spoon",
+				"miami":"kookaani",
+				"mp3":"/Areas/DiningRoom/Spoon/kookaani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Use a bigger spoon!",
+				"miami":"ayoolhka meehšaaki kookaani ayoolo",
+				"mp3":"/Areas/DiningRoom/Spoon/ayoolhka_meeh$aaki_kookaani_ayoolo.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Bring six spoons",
+				"miami":"kaakaathswi piitoolo kookaana",
+				"mp3":"/Areas/DiningRoom/Spoon/kaakaathswi_piitoolo_kookaana.mp3"
+				},
+			"image":"/Areas/DiningRoom/Spoon/spoon.png"
+			},
+			{
+			"id":"table",
+			"word":
+				{
+				"english":"Table",
+				"miami":"atoohpooni",
+				"mp3":"/Areas/DiningRoom/Table/atoohpooni.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Let's set the table",
+				"miami":"wilahtootaawi atoohpooni",
+				"mp3":"/Areas/DiningRoom/Table/wilahtootaawi_atoohpooni.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Everything is on the table",
+				"miami":"atoohpooni weelahtoonki",
+				"mp3":"/Areas/DiningRoom/Table/atoohpooni_weelahtoonki.mp3"
+				},
+			"image":"/Areas/DiningRoom/Table/table.png"
+			},
+			{
+			"id":"water",
+			"word":
+				{
+				"english":"Water",
+				"miami":"nipi",
+				"mp3":"/Areas/DiningRoom/Water/nipi.mp3"
+				},
+			"phrase1":
+				{
+				"english":"I will only drink water",
+				"miami":"neehtawi meenaani nipi",
+				"mp3":"/Areas/DiningRoom/Water/neehtawi_meenaani_nipi.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Can I get something for you to drink?",
+				"miami":"kiikoo-nko kati minahilaani",
+				"mp3":"/Areas/DiningRoom/Water/kiikoo-nko_kati_minahilaani.mp3"
+				},
+			"image":"/Areas/DiningRoom/Water/water.png"
+			}
+		]
+		},
+		{
+		"title":"Living Room",
+		"miamiTitle":"ciinkweepikaani",
+		"image":"/Areas/LivingRoom/LivingRoom/living_room.png",
+		"info":[
+			{
+			"id":"book",
+			"word":
+				{
+				"english":"Book",
+				"miami":"wiintaakani",
+				"mp3":"/Areas/LivingRoom/Book/wiintaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Where is my book?",
+				"miami":"taanaaha niwiintaakanemi",
+				"mp3":"/Areas/LivingRoom/Book/taanaaha_niwiintaakanemi.mp3"
+				},
+			"phrase2":
+				{
+				"english":"The book is on the shelf",
+				"miami":"teehsooninki eehteeki wiintaakani",
+				"mp3":"/Areas/LivingRoom/Book/teehsooninki_eehteeki_wiintaakani.mp3"
+				},
+			"image":"/Areas/LivingRoom/Book/book.png"
+			},
+			{
+			"id":"books",
+			"word":
+				{
+				"english":"Books",
+				"miami":"wiintaakana",
+				"mp3":"/Areas/LivingRoom/Books/wiintaakana.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Do you have a book I can read?",
+				"miami":"wiintaakani-nko ahtooyani, kati wiintamaani",
+				"mp3":"/Areas/LivingRoom/Books/wiintaakani-nko_ahtooyani_kati_wiintamaani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"You read it!",
+				"miami":"wiintanto",
+				"mp3":"/Areas/LivingRoom/Books/wiintanto.mp3"
+				},
+			"image":"/Areas/LivingRoom/Books/books.png"
+			},
+			{
+			"id":"Bookshelf",
+			"word":
+				{
+				"english":"Bookshelf",
+				"miami":"wiintaakani teehsooni",
+				"mp3":"/Areas/LivingRoom/Bookshelf/wiintaakani_teehsooni.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Put the book on the bookshelf!",
+				"miami":"teehsooninki ahtoolo wiintaakani",
+				"mp3":"/Areas/LivingRoom/Bookshelf/teehsooninki_ahtoolo_wiintaakani_09.mp3"
+				},
+			"phrase2":
+				{
+				"english":"It's on the bookshelf",
+				"miami":"wiintaakani teehsooninki eehteeki",
+				"mp3":"/Areas/LivingRoom/Bookshelf/wiintaakani_teehsooninki_eehteeki.mp3"
+				},
+			"image":"/Areas/LivingRoom/Bookshelf/bookshelf.png"
+			},
+			{
+			"id":"carpet",
+			"word":
+				{
+				"english":"Rug/Carpet",
+				"miami":"wilenaahkhtaakani",
+				"mp3":"/Areas/LivingRoom/Carpet/wilenaahkhtaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"The carpet is dirty",
+				"miami":"keehpeekinki wilenaahkhtaakani",
+				"mp3":"/Areas/LivingRoom/Carpet/keehpeekinki_wilenaahkhtaakani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"It spilled on the carpet",
+				"miami":"seekhkaaki wilenaahkhtaakanenki",
+				"mp3":"/Areas/LivingRoom/Carpet/seekhkaaki_wilenaahkhtaakanenki.mp3"
+				},
+			"image":"/Areas/LivingRoom/Carpet/carpet.png"
+			},
+			{
+			"id":"chair",
+			"word":
+				{
+				"english":"Chair",
+				"miami":"naahkiipioni",
+				"mp3":"/Areas/LivingRoom/Chair/naahkiipioni.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Get another chair!",
+				"miami":"kotaki naatilo naahkiipioni",
+				"mp3":"/Areas/LivingRoom/Chair/kotaki_naatilo_naahkiipioni.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Sit in that chair!",
+				"miami":"iiniini naahkiipioni ciinkweepilo",
+				"mp3":"/Areas/LivingRoom/Chair/iiniini_naahkiipioni_ciinkweepilo.mp3"
+				},
+			"image":"/Areas/LivingRoom/Chair/chair.png"
+			},
+			{
+			"id":"coffeetable",
+			"word":
+				{
+				"english":"Coffee Table",
+				"miami":"weelhpiki atoohpooni",
+				"mp3":"/Areas/LivingRoom/CoffeeTable/weelhpiki_atoohpooni.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Take your feet off the coffee table",
+				"miami":"pinekaateelo weelhpiki atoohpooninkonci",
+				"mp3":"/Areas/LivingRoom/CoffeeTable/pinekaateelo_weelhpiki_atoohpooninkonci.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Use the coffee table!",
+				"miami":"weelhpiki atoohpooni ayoolo",
+				"mp3":"/Areas/LivingRoom/CoffeeTable/weelhpiki_atoohpooni_ayoolo.mp3"
+				},
+			"image":"/Areas/LivingRoom/CoffeeTable/coffee_table.png"
+			},
+			{
+			"id":"computer",
+			"word":
+				{
+				"english":"Computer",
+				"miami":"kiinteelintaakani",
+				"mp3":"/Areas/LivingRoom/Computer/kiinteelintaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Turn off the computer",
+				"miami":"aahteeleentanto kiinteelintaakani",
+				"mp3":"/Areas/LivingRoom/Computer/aahteeleentanto_kiinteelintaakani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Can I use your computer?",
+				"miami":"teepi-nko-hka ayoowaani kikiinteelintaakanemi",
+				"mp3":"/Areas/LivingRoom/Computer/teepi-nko-hka_ayoowaani_kikiinteelintaakanemi.mp3"
+				},
+			"image":"/Areas/LivingRoom/Computer/computer.png"
+			},
+			{
+			"id":"couch",
+			"word":
+				{
+				"english":"Couch/Sofa",
+				"miami":"apineensi",
+				"mp3":"/Areas/LivingRoom/Couch/apineensi.mp3"
+				},
+			"phrase1":
+				{
+				"english":"The couch is worn out (is old)",
+				"miami":"neekaaniwiki apineensi",
+				"mp3":"/Areas/LivingRoom/Couch/neekaaniwiki_apineensi.mp3"
+				},
+			"phrase2":
+				{
+				"english":"You must sleep on the couch!",
+				"miami":"nipaahkani apineensinki",
+				"mp3":"/Areas/LivingRoom/Couch/nipaahkani_apineensinki.mp3"
+				},
+			"image":"/Areas/LivingRoom/Couch/couch.png"
+			},
+			{
+			"id":"endtable",
+			"word":
+				{
+				"english":"End Table",
+				"miami":"atoohpooneensi",
+				"mp3":"/Areas/LivingRoom/EndTable/atoohpooneensi.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Put your cup on the end table!",
+				"miami":"atoohpooneensinki ahtoolo kimenhkwaakanemi",
+				"mp3":"/Areas/LivingRoom/EndTable/atoohpooneensinki_ahtoolo_kimenihkwaakanemi.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Move the end table here!",
+				"miami":"oowaaha aantahtoolo atoohpooneensi",
+				"mp3":"/Areas/LivingRoom/EndTable/oowaaha_aantahtoolo_atoohpooneensi.mp3"
+				},
+			"image":"/Areas/LivingRoom/EndTable/end_table.png"
+			},
+			{
+			"id":"fireplace",
+			"word":
+				{
+				"english":"Fireplace",
+				"miami":"koteewikaani",
+				"mp3":"/Areas/LivingRoom/Fireplace/koteewikaani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"The fireplace is hot",
+				"miami":"kiišaaphkiteeki koteewikaani",
+				"mp3":"/Areas/LivingRoom/Fireplace/kii$aaphkiteeki_koteewikaani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Clean out the fireplace",
+				"miami":"tatankonanto koteewikaani",
+				"mp3":"/Areas/LivingRoom/Fireplace/tatankonanto_koteewikaani.mp3"
+				},
+			"image":"/Areas/LivingRoom/Fireplace/fireplace.png"
+			},
+			{
+			"id":"lamp",
+			"word":
+				{
+				"english":"Lamp/Light",
+				"miami":"waapantenaakani",
+				"mp3":"/Areas/LivingRoom/Lamp/waapantenaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"You turn on the light!",
+				"miami":"waapantenanto",
+				"mp3":"/Areas/LivingRoom/Lamp/waapantenanto.mp3"
+				},
+			"phrase2":
+				{
+				"english":"You turn off the light!",
+				"miami":"aahteeleentanto",
+				"mp3":"/Areas/LivingRoom/Lamp/aahteeleentanto.mp3"
+				},
+			"image":"/Areas/LivingRoom/Lamp/lamp.png"
+			},
+			{
+			"id":"livingroom",
+			"word":
+				{
+				"english":"Living Room",
+				"miami":"ciinkweepikaani",
+				"mp3":"/Areas/LivingRoom/LivingRoom/ciinkweepikaani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"You sit!",
+				"miami":"ciinkweepilo",
+				"mp3":"/Areas/LivingRoom/LivingRoom/ciinkweepilo.mp3"
+				},
+			"phrase2":
+				{
+				"english":" ",
+				"miami":" ",
+				"mp3":" "
+				},
+			"image":"/Areas/LivingRoom/LivingRoom/living_room.png"
+			}	
+		]
+		},
+		{
+		"title":"Outside",
+		"miamiTitle":"ahkinki",
+		"image":"/Areas/Outside/Outside/outside00_outside.mp3",
+		"info":[
+			{
+			"id":"dog",
+			"word":
+				{
+				"english":"Dog",
+				"miami":"alemwa",
+				"mp3":"/Areas/Outside/Dog/alemwa.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Call the dog!",
+				"miami":"natomi alemwa",
+				"mp3":"/Areas/Outside/Dog/natomi_alemwa.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Where is the dog leash?",
+				"miami":"taanaaha alemwaapiikwi",
+				"mp3":"/Areas/Outside/Dog/taanaaha_alemwaapiikwi.mp3"
+				},
+			"image":"/Areas/Outside/Dog/dog.png"
+			},
+			{
+			"id":"fence",
+			"word":
+				{
+				"english":"Fence",
+				"miami":"niimhkikantaakani",
+				"mp3":"/Areas/Outside/Fence/niimhkikantaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"The fence broke, fell down",
+				"miami":"niimhkikantaakani paapintenki",
+				"mp3":"/Areas/Outside/Fence/niimhkikantaakani_paapintenki.mp3"
+				},
+			"phrase2":
+				{
+				"english":"I repaired the fence",
+				"miami":"aanchtwaani niimhkikantaakani",
+				"mp3":"/Areas/Outside/Fence/aanchtwaani_niimhkikantaakani.mp3"
+				},
+			"image":"/Areas/Outside/Fence/fence.png"
+			},
+			{
+			"id":"garden",
+			"word":
+				{
+				"english":"Garden",
+				"miami":"ahki",
+				"mp3":"/Areas/Outside/Garden/ahki.mp3"
+				},
+			"phrase1":
+				{
+				"english":"He/She is in the garden",
+				"miami":"ahkeenki eepici",
+				"mp3":"/Areas/Outside/Garden/ahkeenki_eepici.mp3"
+				},
+			"phrase2":
+				{
+				"english":"He/She is rototilling the garden",
+				"miami":"noohkapišanki ahkeenki",
+				"mp3":"/Areas/Outside/Garden/noohkapi$anki_ahkeenki.mp3"
+				},
+			"image":"/Areas/Outside/Garden/garden.png"
+			},
+			{
+			"id":"grass",
+			"word":
+				{
+				"english":"Grass",
+				"miami": "ihkipakahkatwi",
+				"mp3":"/Areas/Outside/Grass/ihkipakahkatwi.mp3"
+				},
+			"phrase1":
+				{
+				"english":"The grass is tall, high",
+				"miami":"ihkipakahkatwi iihpiiki",
+				"mp3":"/Areas/Outside/Grass/ihkipakahkatwi_iihpiiki.mp3"
+				},
+			"phrase2":
+				{
+				"english":"I must cut the grass",
+				"miami":"aalime kiihkišahkiaani",
+				"mp3":"/Areas/Outside/Grass/aalime_kiihki$ahkiaani.mp3"
+				},
+			"image":"/Areas/Outside/Grass/grass.png"
+			},
+			{
+			"id":"pileatedwoodpecker",
+			"word":
+				{
+				"english":"Pileated Woodpecker",
+				"miami": "kwaahkwa",
+				"mp3":"/Areas/Outside/PileatedWoodpecker/kwaahkwa.mp3"
+				},
+			"phrase1":
+				{
+				"english":"I hear a Pileated Woodpecker",
+				"miami":"kwaahkwa noontawaki",
+				"mp3":"/Areas/Outside/PileatedWoodpecker/kwaahkwa_noontawaki.mp3"
+				},
+			"phrase2":
+				{
+				"english":"The Pileated Woodpeckers are making a nest",
+				"miami":"kwaahkwaki eešihseeciki",
+				"mp3":"/Areas/Outside/PileatedWoodpecker/kwaahkwaki_ee$ihseeciki.mp3"
+				},
+			"image":"/Areas/Outside/PileatedWoodpecker/pileated_woodpecker.png"
+			},
+			{
+			"id":"leaves",
+			"word":
+				{
+				"english":"Leaves",
+				"miami": "mihšipakooki",
+				"mp3":"/Areas/Outside/Leaves/mih$ipakooki.mp3"
+				},
+			"phrase1":
+				{
+				"english":"The leaves are falling",
+				"miami":"peenipakahki",
+				"mp3":"/Areas/Outside/Leaves/peenipakahki.mp3"
+				},
+			"phrase2":
+				{
+				"english":"The leaves are budding",
+				"miami":"saakipakahki",
+				"mp3":"/Areas/Outside/Leaves/saakipakahki.mp3"
+				},
+			"image":"/Areas/Outside/Leaves/leaves.png"
+			},
+			{
+			"id":"outside",
+			"word":
+				{
+				"english":"Outside",
+				"miami": "ahkinki",
+				"mp3":"/Areas/Outside/Outside/ahkinki.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Let’s run!",
+				"miami":"mimekwiitaawi",
+				"mp3":"/Areas/Outside/Outside/mimekwiitaawi.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Let’s walk!",
+				"miami":"pimpaalitaawi",
+				"mp3":"/Areas/Outside/Outside/pimpaalitaawi.mp3"
+				},
+			"image":"/Areas/Outside/Outside/outside.png"
+			},
+			{
+			"id":"shed/garage",
+			"word":
+				{
+				"english":"Shed/Garage",
+				"miami": "teehsikaani",
+				"mp3":"/Areas/Outside/Shed/teehsikaani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"It's hanging in the garage",
+				"miami":"teehsikaaninki akootinki",
+				"mp3":"/Areas/Outside/Shed/teehsikaaninki_akootinki.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Look for it in the garage",
+				"miami":"natawaapantanto teehsikaaninki",
+				"mp3":"/Areas/Outside/Shed/natawaapantanto_teehsikaaninki.mp3"
+				},
+			"image":"/Areas/Outside/Shed/shed.png"
+			},
+			{
+			"id":"downywoodpecker",
+			"word":
+				{
+				"english":"Downy Woodpecker",
+				"miami": "kalaakalaala ",
+				"mp3":"/Areas/Outside/DownyWoodpecker/kalaakalaala.mp3"
+				},
+			"phrase1":
+				{
+				"english":"There are lots of Downy Woodpeckers",
+				"miami":"kalaakalaalaki meehšiiliciki",
+				"mp3":"/Areas/Outside/DownyWoodpecker/kalaakalaalaki_meeh$iiliciiki.mp3"
+				},
+			"phrase2":
+				{
+				"english":"The cat caught the Downy Woodpecker",
+				"miami":"pinšiwa seekiinaaci kalaakalaalali",
+				"mp3":"/Areas/Outside/DownyWoodpecker/pin$iwa_seekiinaaci_kalaakalaalali.mp3"
+				},
+			"image":"/Areas/Outside/DownyWoodpecker/downy_woodpecker.png"
+			},
+			{
+			"id":"squirrel",
+			"word":
+				{
+				"english":"Squirrel",
+				"miami": "anikwa",
+				"mp3":"/Areas/Outside/Squirrel/squirrel00_squirrel.mp3"
+				},
+			"phrase1":
+				{
+				"english":"The squirrel is climbing the tree",
+				"miami":"anikwa eehkwaamaahkweeci",
+				"mp3":"/Areas/Outside/Squirrel/anikwa.mp3"
+				},
+			"phrase2":
+				{
+				"english":"There is a squirrel nest in the tree",
+				"miami":"anikwa eešihseeci ahtawaaninki",
+				"mp3":"/Areas/Outside/Squirrel/anikwa_ee$ihseeci_ahtawaaninki.mp3"
+				},
+			"image":"/Areas/Outside/Squirrel/squirrel.png"
+			},
+			{
+			"id":"tree",
+			"word":
+				{
+				"english":"Tree",
+				"miami": "ahtawaani",
+				"mp3":"/Areas/Outside/Tree/ahtawaani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"A pretty, nice looking tree",
+				"miami":"peehkaahkatwi ahtawaani",
+				"mp3":"/Areas/Outside/Tree/peehkaahkwahki_ahtawaani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Let's climb a tree!",
+				"miami":"ahkwaamaahkweetaawi",
+				"mp3":"/Areas/Outside/Tree/ahkwaamaahkweetaawi.mp3"
+				},
+			"image":"/Areas/Outside/Tree/tree.png"
+			},
+			{
+			"id":"shoes",
+			"word":
+				{
+				"english":"Shoes",
+				"miami": "mahkisina",
+				"mp3":"/Areas/Outside/Shoes/mahkisina.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Put on your shoes!",
+				"miami":"pisehkanto",
+				"mp3":"/Areas/Outside/Shoes/pisehkanto.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Where are your shoes?",
+				"miami":"taani kimahkisena",
+				"mp3":"/Areas/Outside/Shoes/taani_kimahkisina.mp3"
+				},
+			"image":"/Areas/Outside/Shoes/shoes.png"
+			},
+			{
+			"id":"coat",
+			"word":
+				{
+				"english":"Coat",
+				"miami": "kinwaakwaani",
+				"mp3":"/Areas/Outside/Coat/kinwaakwaani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Put your coat on!",
+				"miami":"kikinwaakwaanimi naapinanto",
+				"mp3":"/Areas/Outside/Coat/kikinwaakwaanimi_naapinanto.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Where is your coat?",
+				"miami":"taani kikinwaakwaanimi",
+				"mp3":"/Areas/Outside/Coat/taani_kikinwaakwaanimi.mp3"
+				},
+			"image":"/Areas/Outside/Coat/coat.png"
+			}
+		]
+		},
+		{
+		"title":"Nursery",
+		"miamiTitle":"piloohsikaani",
+		"image":"/Areas/Nursery/Nursery/nursery.png",
+		"info":[
+			{
+			"id":"nursery",
+			"word":
+				{
+				"english":"Nursery",
+				"miami":"piloohsikaani",
+				"mp3":"/Areas/Nursery/Nursery/piloohsikaani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Goodnight",
+				"miami":"nahi nipaalo",
+				"mp3":"/Areas/Nursery/Nursery/nahi_nipaalo.mp3"
+				},
+			"phrase2":
+				{
+				"english":"I wipe his nose",
+				"miami":"seenitikoleenaki",
+				"mp3":"/Areas/Nursery/Nursery/seenitikoleenaki.mp3"
+				},
+			"image":"/Areas/Nursery/Nursery/nursery.png"
+			},
+			{
+			"id":"crib",
+			"word":
+				{
+				"english":"Crib",
+				"miami":"piloohsa apineensi",
+				"mp3":"/Areas/Nursery/Crib/piloohsa_apineensi.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Go to bed",
+				"miami":"wišihšinto",
+				"mp3":"/Areas/Nursery/Crib/wi$ih$into.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Go to sleep",
+				"miami":"nipaalo",
+				"mp3":"/Areas/Nursery/Crib/nipaalo.mp3"
+				},
+			"image":"/Areas/Nursery/Crib/crib.png"
+			},
+			{
+			"id":"rockingchair",
+			"word":
+				{
+				"english":"Rocking chair",
+				"miami":"weeweephsaaki naahkiipioni",
+				"mp3":"/Areas/Nursery/RockingChair/weeweephsaaki_naahkiipioni.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Let’s rock together",
+				"miami":"maamawi weeweephsaataawi",
+				"mp3":"/Areas/Nursery/RockingChair/maamawi_weeweephsaataawi.mp3"
+				},
+			"phrase2":
+				{
+				"english":" ",
+				"miami":" ",
+				"mp3":" "
+				},
+			"image":"/Areas/Nursery/RockingChair/rocking-chair.png"
+			},
+			{
+			"id":"changingtable",
+			"word":
+				{
+				"english":"Changing table/place",
+				"miami":"eehi aancimotayinki",
+				"mp3":"/Areas/Nursery/ChangingTable/eehi_aancimotayinki.mp3"
+				},
+			"phrase1":
+				{
+				"english":"I change your diaper",
+				"miami":"paankonelaani",
+				"mp3":"/Areas/Nursery/ChangingTable/paankonelaani.mp3"
+				},
+			"phrase2":
+				{
+				"english":" ",
+				"miami":" ",
+				"mp3":" "
+				},
+			"image":"/Areas/Nursery/ChangingTable/changing-table.png"
+			},
+			{
+			"id":"shirt",
+			"word":
+				{
+				"english":"Shirt",
+				"miami":"naapinaakani",
+				"mp3":"/Areas/Nursery/Shirt/naapinaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"I dress you",
+				"miami":"naapinamohelaani",
+				"mp3":"/Areas/Nursery/Shirt/naapinamohelaani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Change your clothes",
+				"miami":"aancimotayilo",
+				"mp3":"/Areas/Nursery/Shirt/aancimotayilo.mp3"
+				},
+			"image":"/Areas/Nursery/Shirt/shirt.png"
+			},
+			{
+			"id":"skirt",
+			"word":
+				{
+				"english":"Her skirt",
+				"miami":"akootayi",
+				"mp3":"/Areas/Nursery/Skirt/akootayi.mp3"
+				},
+			"phrase1":
+				{
+				"english":"I dress you",
+				"miami":"naapinamohelaani",
+				"mp3":"/Areas/Nursery/Skirt/naapinamohelaani.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Change your clothes",
+				"miami":"aancimotayilo",
+				"mp3":"/Areas/Nursery/Skirt/aancimotayilo.mp3"
+				},
+			"image":"/Areas/Nursery/Skirt/skirt.png"
+			},
+			{
+			"id":"bottle",
+			"word":
+				{
+				"english":"Bottle",
+				"miami":"sakinteewi",
+				"mp3":"/Areas/Nursery/Bottle/sakinteewi.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Where is the bottle?",
+				"miami":"taani sakinteewi",
+				"mp3":"/Areas/Nursery/Bottle/taani_sakinteewi.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Drink",
+				"miami":"minto",
+				"mp3":"/Areas/Nursery/Bottle/minto.mp3"
+				},
+			"image":"/Areas/Nursery/Bottle/bottle.png"
+			},
+			{
+			"id":"doll",
+			"word":
+				{
+				"english":"Doll",
+				"miami":"oohsemima",
+				"mp3":"/Areas/Nursery/Doll/oohsemima.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Where is the doll?",
+				"miami":"taana oohsemima",
+				"mp3":"/Areas/Nursery/Doll/taana_oohsemima.mp3"
+				},
+			"phrase2":
+				{
+				"english":" ",
+				"miami":" ",
+				"mp3":" "
+				},
+			"image":"/Areas/Nursery/Doll/doll.png"
+			},
+			{
+			"id":"plaything",
+			"word":
+				{
+				"english":"Plaything",
+				"miami":"paahphtoonki",
+				"mp3":"/Areas/Nursery/Plaything/paahphtoonki.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Clean up your toys/playthings",
+				"miami":"paahphtoonkia wilahtoolo",
+				"mp3":"/Areas/Nursery/Plaything/paahphtoonkia_wilahtoolo.mp3"
+				},
+			"phrase2":
+				{
+				"english":" ",
+				"miami":" ",
+				"mp3":" "
+				},
+			"image":"/Areas/Nursery/Plaything/plaything-toy.png"
+			},
+			{
+			"id":"rattle",
+			"word":
+				{
+				"english":"Rattle",
+				"miami":"šiihšiikwani",
+				"mp3":"/Areas/Nursery/Rattle/$iih$iikwani.mp3"
+				},
+			"phrase1":
+				{
+				"english":" ",
+				"miami":" ",
+				"mp3":" "
+				},
+			"phrase2":
+				{
+				"english":" ",
+				"miami":" ",
+				"mp3":" "
+				},
+			"image":"/Areas/Nursery/Rattle/rattle.png"
+			},
+			{
+			"id":"diaperbag",
+			"word":
+				{
+				"english":"Diaper bag",
+				"miami":"kiišaani",
+				"mp3":"/Areas/Nursery/DiaperBag/kii$aani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Put it in the diaper bag",
+				"miami":"kiišaaninki ahtoolo",
+				"mp3":"/Areas/Nursery/DiaperBag/kii$aaninki_ahtoolo.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Bring the diaper bag",
+				"miami":"kiišaani piitoolo",
+				"mp3":"/Areas/Nursery/DiaperBag/kii$aani_piitoolo.mp3"
+				},
+			"image":"/Areas/Nursery/DiaperBag/diaper-bag.png"
+			},
+			{
+			"id":"book",
+			"word":
+				{
+				"english":"Book",
+				"miami":"wiintaakani",
+				"mp3":"/Areas/Nursery/Book/wiintaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Grab a book",
+				"miami":"wiintaakani manto",
+				"mp3":"/Areas/Nursery/Book/wiintaakani_manto.mp3"
+				},
+			"phrase2":
+				{
+				"english":"Let’s read it!",
+				"miami":"wiintantaawi",
+				"mp3":"/Areas/Nursery/Book/wiintantaawi.mp3"
+				},
+			"image":"/Areas/Nursery/Book/book.png"
+			},
+			{
+			"id":"bookshelf",
+			"word":
+				{
+				"english":"Bookshelf",
+				"miami":"wiintaakani teehsooni",
+				"mp3":"/Areas/Nursery/Bookshelf/wiintaakani_ahtwaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Put the book away",
+				"miami":"wiintaakani wilahtoolo",
+				"mp3":"/Areas/Nursery/Bookshelf/wiintaakani_wilahtoolo.mp3"
+				},
+			"phrase2":
+				{
+				"english":" ",
+				"miami":" ",
+				"mp3":" "
+				},
+			"image":"/Areas/Nursery/Bookshelf/bookshelf.png"
+			},
+			{
+			"id":"blanket",
+			"word":
+				{
+				"english":"Blanket",
+				"miami":"waapimotayi",
+				"mp3":"/Areas/Nursery/Blanket/waapimotayi.mp3"
+				},
+			"phrase1":
+				{
+				"english":"Where is the blanket?",
+				"miami":"taani waapimotayi",
+				"mp3":"/Areas/Nursery/Blanket/taani_waapimotayi.mp3"
+				},
+			"phrase2":
+				{
+				"english":" ",
+				"miami":" ",
+				"mp3":" "
+				},
+			"image":"/Areas/Nursery/Blanket/blanket.png"
+			},
+			{
+			"id":"diaper",
+			"word":
+				{
+				"english":"Diaper",
+				"miami":"paankonaakani",
+				"mp3":"/Areas/Nursery/Diaper/paankonaakani.mp3"
+				},
+			"phrase1":
+				{
+				"english":"",
+				"miami":"",
+				"mp3":""
+				},
+			"phrase2":
+				{
+				"english":" ",
+				"miami":" ",
+				"mp3":" "
+				},
+			"image":"/Areas/Nursery/Diaper/diaper.png"
+			}
+			]
+			}
+	]
+}

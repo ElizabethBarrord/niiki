@@ -1,0 +1,9 @@
+/**
+ * Appcelerator Titanium
+ * this is a generated file - DO NOT EDIT
+ */
+
+"masterView" = "Master View";
+"detailView" = "Detail View";
+"select" = "Please Enter A Value";
+"youEntered" = "You Entered: %@";

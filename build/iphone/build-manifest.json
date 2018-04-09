@@ -1,0 +1,5807 @@
+{
+	"files": {
+		"Info.plist": {
+			"hash": "80acb3345815603e78868e1b9fd4345c",
+			"mtime": 0,
+			"size": 1643
+		},
+		"6.2.1.GA/iphone/libTiCore.a": {
+			"hash": null,
+			"mtime": "2017-09-20T16:51:31.000Z",
+			"size": 34042504
+		},
+		"6.2.1.GA/iphone/libtiverify.a": {
+			"hash": null,
+			"mtime": "2017-09-20T16:51:31.000Z",
+			"size": 259624
+		},
+		"6.2.1.GA/iphone/libti_ios_debugger.a": {
+			"hash": null,
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 992720
+		},
+		"6.2.1.GA/iphone/libti_ios_profiler.a": {
+			"hash": null,
+			"mtime": "2017-09-20T16:51:28.000Z",
+			"size": 388376
+		},
+		"6.2.1.GA/iphone/Classes/AFOpenFlow/AFItemView.h": {
+			"hash": "de6b8aea9a3bf075dda21df77066e973",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1816
+		},
+		"6.2.1.GA/iphone/Classes/AFOpenFlow/AFItemView.m": {
+			"hash": "5db9241a0553f0c4512ccc584cbbc3d6",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 2948
+		},
+		"6.2.1.GA/iphone/Classes/AFOpenFlow/AFOpenFlowConstants.h": {
+			"hash": "3b88e7170c0491343ef808539a55bf1d",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1327
+		},
+		"6.2.1.GA/iphone/Classes/AFOpenFlow/AFOpenFlowView.h": {
+			"hash": "148646c0f086063a2045b9f6ad081dc2",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 2931
+		},
+		"6.2.1.GA/iphone/Classes/AFOpenFlow/AFOpenFlowView.m": {
+			"hash": "fbf699320f65932dbc567d145580c4dc",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 18323
+		},
+		"6.2.1.GA/iphone/Classes/AFOpenFlow/AFUIImageReflection.h": {
+			"hash": "25292af7a3750945339809a4f15b9423",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1532
+		},
+		"6.2.1.GA/iphone/Classes/AFOpenFlow/AFUIImageReflection.m": {
+			"hash": "c6220e3cea8a618e1c40abb988c870af",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 4527
+		},
+		"6.2.1.GA/iphone/Classes/AFOpenFlow/UIImageExtras.h": {
+			"hash": "e22e7a87b21022876023356ce25d4672",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1543
+		},
+		"6.2.1.GA/iphone/Classes/AFOpenFlow/UIImageExtras.m": {
+			"hash": "397185ccc9be492d3cd6b858a585a7a7",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 3169
+		},
+		"6.2.1.GA/iphone/Classes/APIModule.h": {
+			"hash": "3acf574556c34467612b99712c902627",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 392
+		},
+		"6.2.1.GA/iphone/Classes/APIModule.m": {
+			"hash": "4089c8a060efe22b45b0f85d289159c1",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3346
+		},
+		"6.2.1.GA/iphone/Classes/APSAnalytics/APSAnalytics.h": {
+			"hash": "76cd94f1da9ff5918b2d3928080ce735",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 2830
+		},
+		"6.2.1.GA/iphone/Classes/APSAnalytics/libAPSAnalytics.a": {
+			"hash": "28a74e4e5457f27241e119d2fd352b35",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 2178520
+		},
+		"6.2.1.GA/iphone/Classes/APSHTTPClient/APSHTTPClient.h": {
+			"hash": "9fbc4d54ad9fbd4bbf90bddbce993d29",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 499
+		},
+		"6.2.1.GA/iphone/Classes/APSHTTPClient/APSHTTPHelper.h": {
+			"hash": "00825c2db2adbafa3d8c269707adbca1",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 921
+		},
+		"6.2.1.GA/iphone/Classes/APSHTTPClient/APSHTTPPostForm.h": {
+			"hash": "157e9f4dfff6a03e173d50faf1280fed",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1314
+		},
+		"6.2.1.GA/iphone/Classes/APSHTTPClient/APSHTTPRequest.h": {
+			"hash": "29409c5269514b6de3a61e72ca8430bc",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 3870
+		},
+		"6.2.1.GA/iphone/Classes/APSHTTPClient/APSHTTPResponse.h": {
+			"hash": "f63e2978c16d2edbd4cd4c81c59bc064",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 2900
+		},
+		"6.2.1.GA/iphone/Classes/APSHTTPClient/libAPSHTTPClient.a": {
+			"hash": "b6154fcee135c92695cb333207568c52",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1109648
+		},
+		"6.2.1.GA/iphone/Classes/AccelerometerModule.h": {
+			"hash": "b70d942b9eb22978290ae4418341259d",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 518
+		},
+		"6.2.1.GA/iphone/Classes/AccelerometerModule.m": {
+			"hash": "c274943219d6f4babebf74fb0c6acba0",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2483
+		},
+		"6.2.1.GA/iphone/Classes/AnalyticsModule.h": {
+			"hash": "b57176350d7e8a6d3218f12f770852f0",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 352
+		},
+		"6.2.1.GA/iphone/Classes/AnalyticsModule.m": {
+			"hash": "d76855d2819b96430e6f71c1a5f8822b",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 5277
+		},
+		"6.2.1.GA/iphone/Classes/AppModule.h": {
+			"hash": "ae7948dd5470f34ef61b76e7770616ba",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1803
+		},
+		"6.2.1.GA/iphone/Classes/AppModule.m": {
+			"hash": "595cb296f8ff3b77e6032bbf088d983b",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 15496
+		},
+		"6.2.1.GA/iphone/Classes/ApplicationDefaults.h": {
+			"hash": "6a9bbeb766ec050f14e50f1e693307e4",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 482
+		},
+		"6.2.1.GA/iphone/Classes/ApplicationDefaults.m": {
+			"hash": "ed3e36a01e67e71eafba623f9c0ee950",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 419
+		},
+		"6.2.1.GA/iphone/Classes/ApplicationMods.h": {
+			"hash": "93592487b17df28a8d62111a91868054",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 219
+		},
+		"6.2.1.GA/iphone/Classes/ApplicationMods.m": {
+			"hash": "77020f23932b409be15bf5c16de95351",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 221
+		},
+		"6.2.1.GA/iphone/Classes/ApplicationRouting.h": {
+			"hash": "32751179afb245b52205e79e58ce6820",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 368
+		},
+		"6.2.1.GA/iphone/Classes/AsyncSocket.h": {
+			"hash": "1157ace78ea368b2dbab25fe47572bfa",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 31367
+		},
+		"6.2.1.GA/iphone/Classes/AsyncSocket.m": {
+			"hash": "48f51c01311fd691e6718603ab2d2cb1",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 125663
+		},
+		"6.2.1.GA/iphone/Classes/AsyncUdpSocket.h": {
+			"hash": "45ddd5b8b610e3ea8742b370edb14fab",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 14306
+		},
+		"6.2.1.GA/iphone/Classes/AsyncUdpSocket.m": {
+			"hash": "f481f0109c446aceea38cf637a348f57",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 66335
+		},
+		"6.2.1.GA/iphone/Classes/AudioStreamer/AudioStreamer.h": {
+			"hash": "db165a56772b746251c8fdcb92185826",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 4516
+		},
+		"6.2.1.GA/iphone/Classes/AudioStreamer/AudioStreamer.m": {
+			"hash": "86a4b7311d18e47f3e3ef93ed91fbfea",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 6554
+		},
+		"6.2.1.GA/iphone/Classes/AudioStreamer/AudioStreamerCUR.h": {
+			"hash": "31a500af84b9bc9ffaa8d7061e8f3315",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 3973
+		},
+		"6.2.1.GA/iphone/Classes/AudioStreamer/AudioStreamerCUR.m": {
+			"hash": "0c338199592ab81a90b3fe03b30bf79e",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 43999
+		},
+		"6.2.1.GA/iphone/Classes/Base64Transcoder.c": {
+			"hash": "9ec0f7458deb9d32d7ba96ef78059645",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 9459
+		},
+		"6.2.1.GA/iphone/Classes/Base64Transcoder.h": {
+			"hash": "ac2b19b653c899278070a2a7a3fadfad",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1732
+		},
+		"6.2.1.GA/iphone/Classes/Bridge.h": {
+			"hash": "b3e8181c6e7420e1150df1ac6483f2ec",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 616
+		},
+		"6.2.1.GA/iphone/Classes/Bridge.m": {
+			"hash": "0edada9cc32cdbfb4c4ff3580d6e596f",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1338
+		},
+		"6.2.1.GA/iphone/Classes/CalendarModule.h": {
+			"hash": "2977505ec774b90abf5b3f03da7ee872",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3321
+		},
+		"6.2.1.GA/iphone/Classes/CalendarModule.m": {
+			"hash": "7b408e97864aa7f3c743a3e8624dead6",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 12914
+		},
+		"6.2.1.GA/iphone/Classes/CodecModule.h": {
+			"hash": "8a819eb41b3394084ce11f43e67e66be",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1369
+		},
+		"6.2.1.GA/iphone/Classes/CodecModule.m": {
+			"hash": "75c51b1e6075f314712e641ab9a314ba",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 13082
+		},
+		"6.2.1.GA/iphone/Classes/ContactsModule.h": {
+			"hash": "1d035553b0c517a387ffbfb3f8c337ce",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2155
+		},
+		"6.2.1.GA/iphone/Classes/ContactsModule.m": {
+			"hash": "3216fcce02655cb50c3a00620aa70025",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 43373
+		},
+		"6.2.1.GA/iphone/Classes/DatabaseModule.h": {
+			"hash": "e5c487e0f102af4d8c1fa3494d0b64ca",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 467
+		},
+		"6.2.1.GA/iphone/Classes/DatabaseModule.m": {
+			"hash": "24db3f7c74ffe816ea5e9bf456d16652",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1224
+		},
+		"6.2.1.GA/iphone/Classes/FilesystemModule.h": {
+			"hash": "ae20e30c601c8809598fb6252de4f70a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1235
+		},
+		"6.2.1.GA/iphone/Classes/FilesystemModule.m": {
+			"hash": "09247e6305e368e7552fe8595c18f1e6",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 7155
+		},
+		"6.2.1.GA/iphone/Classes/GDataXMLNode.h": {
+			"hash": "047de64dd277b8ed10a7510b33c50739",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 8023
+		},
+		"6.2.1.GA/iphone/Classes/GDataXMLNode.m": {
+			"hash": "a5fb72c12c88dba999dc18ce77448331",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 51012
+		},
+		"6.2.1.GA/iphone/Classes/GeolocationModule.h": {
+			"hash": "bda2043b9b72f6eac432a0b8b073bf02",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 4048
+		},
+		"6.2.1.GA/iphone/Classes/GeolocationModule.m": {
+			"hash": "6b5ae221151d84fa3d65d2ab120c5a30",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 37649
+		},
+		"6.2.1.GA/iphone/Classes/GestureModule.h": {
+			"hash": "61d0c4f03d0cf5591741147144a83319",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 793
+		},
+		"6.2.1.GA/iphone/Classes/GestureModule.m": {
+			"hash": "3e16e423536ad0694afb0e037591aa32",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3923
+		},
+		"6.2.1.GA/iphone/Classes/ImageLoader.h": {
+			"hash": "193c4a1dd92b4ae33df296eda62df48e",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 5376
+		},
+		"6.2.1.GA/iphone/Classes/ImageLoader.m": {
+			"hash": "a6cc6af582a20a6e60f95bc2ef511bc2",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 23391
+		},
+		"6.2.1.GA/iphone/Classes/KrollBridge.h": {
+			"hash": "fbf0fa5d10838f360f65aac650709fa8",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2360
+		},
+		"6.2.1.GA/iphone/Classes/KrollBridge.m": {
+			"hash": "0c3597f98eb722a14d8d0b1059edfdb5",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 43223
+		},
+		"6.2.1.GA/iphone/Classes/KrollCallback.h": {
+			"hash": "f7109826dbc02181bb7c235f85f79617",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2825
+		},
+		"6.2.1.GA/iphone/Classes/KrollCallback.m": {
+			"hash": "925409c3f99ad37a2dc43f6565e637e8",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 6919
+		},
+		"6.2.1.GA/iphone/Classes/KrollContext.h": {
+			"hash": "01b0b1744eb46bd9fdc0bc561f9812e4",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 5152
+		},
+		"6.2.1.GA/iphone/Classes/KrollContext.m": {
+			"hash": "409efd31c99e7a2a3fc1c61585b6ec70",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 48164
+		},
+		"6.2.1.GA/iphone/Classes/KrollCoverage.h": {
+			"hash": "fb1bd974a2b2dd2311eccc0535eb6a1e",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2204
+		},
+		"6.2.1.GA/iphone/Classes/KrollCoverage.m": {
+			"hash": "ad76eef3cae3f54420de7722fc80d214",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 8601
+		},
+		"6.2.1.GA/iphone/Classes/KrollMethod.h": {
+			"hash": "af6d1b47d38577f2b27a8a7c086bb20c",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1486
+		},
+		"6.2.1.GA/iphone/Classes/KrollMethod.m": {
+			"hash": "e5bd1e4a5aec9326a240006ca30ecedd",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 12889
+		},
+		"6.2.1.GA/iphone/Classes/KrollMethodDelegate.h": {
+			"hash": "3e4fbe959afdda71c16ff97b3c0bea17",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 686
+		},
+		"6.2.1.GA/iphone/Classes/KrollMethodDelegate.m": {
+			"hash": "e8561373742aabb303dda5df9a5d39ff",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 668
+		},
+		"6.2.1.GA/iphone/Classes/KrollObject.h": {
+			"hash": "0492258af6baa5abbde026132135890d",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 3588
+		},
+		"6.2.1.GA/iphone/Classes/KrollObject.m": {
+			"hash": "124f2365929605be23bacf7216b636b0",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 44790
+		},
+		"6.2.1.GA/iphone/Classes/KrollPropertyDelegate.h": {
+			"hash": "bc1e4b45346a1595dc8b748e5f80e197",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 648
+		},
+		"6.2.1.GA/iphone/Classes/KrollPropertyDelegate.m": {
+			"hash": "ba433db52cfba48ccc66cbcbd7a7a447",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 607
+		},
+		"6.2.1.GA/iphone/Classes/KrollTimer.h": {
+			"hash": "a332ff6a8cb0560e6dfe2df732df5ea2",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 862
+		},
+		"6.2.1.GA/iphone/Classes/KrollTimer.m": {
+			"hash": "dc47b5f13f615f558de8b4d4b0721c1c",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3742
+		},
+		"6.2.1.GA/iphone/Classes/LauncherButton.h": {
+			"hash": "aabebf3d2b6bf3f0f5a364687aec4b2f",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1479
+		},
+		"6.2.1.GA/iphone/Classes/LauncherButton.m": {
+			"hash": "568aaad5e4985155fd9492285a6b3567",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 8554
+		},
+		"6.2.1.GA/iphone/Classes/LauncherItem.h": {
+			"hash": "dc006755761f760edea8b5d7586a26d2",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1746
+		},
+		"6.2.1.GA/iphone/Classes/LauncherItem.m": {
+			"hash": "3536e2564dbc6f7535c906d256cd2901",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2133
+		},
+		"6.2.1.GA/iphone/Classes/LauncherView.h": {
+			"hash": "b0fbd7637db1e65080157f4f265c2eba",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 3185
+		},
+		"6.2.1.GA/iphone/Classes/LauncherView.m": {
+			"hash": "11fae3efa563c6953323606976e21668",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 25022
+		},
+		"6.2.1.GA/iphone/Classes/Layout/TiLayoutDimension.h": {
+			"hash": "12a8eb444718e510fc505f7708a7c937",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 6277
+		},
+		"6.2.1.GA/iphone/Classes/Layout/TiLayoutDimension.m": {
+			"hash": "2d23a13794b21cd0f9c52e0fa051f116",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 6167
+		},
+		"6.2.1.GA/iphone/Classes/Layout/TiLayoutView.h": {
+			"hash": "a2149466e6b5f770f61dd0bac4bbdc75",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2227
+		},
+		"6.2.1.GA/iphone/Classes/Layout/TiLayoutView.m": {
+			"hash": "37fa3bcfe2377d43a547344bae1dc5c2",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 51234
+		},
+		"6.2.1.GA/iphone/Classes/LayoutConstraint.h": {
+			"hash": "50724a8710f89d578c4ec4995dd7294c",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3009
+		},
+		"6.2.1.GA/iphone/Classes/LayoutConstraint.m": {
+			"hash": "a9e92b54f04fad87ecebecab3513c38a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 15138
+		},
+		"6.2.1.GA/iphone/Classes/ListenerEntry.h": {
+			"hash": "9b641817f1e47deda78f48755d97eca2",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 602
+		},
+		"6.2.1.GA/iphone/Classes/ListenerEntry.m": {
+			"hash": "59d5f4a0b925c701ee87cc04aed86d1c",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 873
+		},
+		"6.2.1.GA/iphone/Classes/LocaleModule.h": {
+			"hash": "92438e91ec26c416d937df97f70148de",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 316
+		},
+		"6.2.1.GA/iphone/Classes/LocaleModule.m": {
+			"hash": "55bf54f77208b6d8db8a62bce011b735",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2041
+		},
+		"6.2.1.GA/iphone/Classes/MediaModule.h": {
+			"hash": "44bde5a781e86e4dcdd5c66537fe22a3",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 11096
+		},
+		"6.2.1.GA/iphone/Classes/MediaModule.m": {
+			"hash": "6850d0cba03183054036d8c4e22af39c",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 87088
+		},
+		"6.2.1.GA/iphone/Classes/Mimetypes.h": {
+			"hash": "c15d46991c22feb74ef01a3a21371089",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 431
+		},
+		"6.2.1.GA/iphone/Classes/Mimetypes.m": {
+			"hash": "f0181649b4b07f1d456dd9f19f011771",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2334
+		},
+		"6.2.1.GA/iphone/Classes/NSData+Additions.h": {
+			"hash": "e5931a55fa7f3b3e82890660d37e0213",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 460
+		},
+		"6.2.1.GA/iphone/Classes/NSData+Additions.m": {
+			"hash": "41bfd6b46eddd8ae10c8437681d115b8",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 5632
+		},
+		"6.2.1.GA/iphone/Classes/NetworkModule.h": {
+			"hash": "74601ec275ecd1679df6b7213fc83691",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 2215
+		},
+		"6.2.1.GA/iphone/Classes/NetworkModule.m": {
+			"hash": "8ed818224a5bb75f0d47590f7822b204",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 13703
+		},
+		"6.2.1.GA/iphone/Classes/OperationQueue.h": {
+			"hash": "9235e29bd4a235aeb7ac1f0f1e0c2d8d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1126
+		},
+		"6.2.1.GA/iphone/Classes/OperationQueue.m": {
+			"hash": "da909229b8cd9b43dfce460d180fe1ad",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 2525
+		},
+		"6.2.1.GA/iphone/Classes/PlatformModule.h": {
+			"hash": "5168cba81127139219c1d65b044969cf",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1780
+		},
+		"6.2.1.GA/iphone/Classes/PlatformModule.m": {
+			"hash": "a5f956adb7c7db2d7a3066037aff70a6",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 10791
+		},
+		"6.2.1.GA/iphone/Classes/PlausibleDatabase/PLDatabase.h": {
+			"hash": "4c10eba9387993b1ed3d4104e7907985",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 8454
+		},
+		"6.2.1.GA/iphone/Classes/PlausibleDatabase/PLPreparedStatement.h": {
+			"hash": "17bb95fb5a0938a55dbf583d7330753e",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 5315
+		},
+		"6.2.1.GA/iphone/Classes/PlausibleDatabase/PLResultSet.h": {
+			"hash": "da773de8eb5883e8762279714cbdcd08",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 7984
+		},
+		"6.2.1.GA/iphone/Classes/PlausibleDatabase/PLSqliteDatabase.h": {
+			"hash": "e1d1ddf8889ba45b29e72e66977bb60a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2432
+		},
+		"6.2.1.GA/iphone/Classes/PlausibleDatabase/PLSqliteDatabase.m": {
+			"hash": "dc970dbe125242986671930d32d27ae2",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 15491
+		},
+		"6.2.1.GA/iphone/Classes/PlausibleDatabase/PLSqlitePreparedStatement.h": {
+			"hash": "83913d1efdacea9fb1967e4f4dddd729",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2534
+		},
+		"6.2.1.GA/iphone/Classes/PlausibleDatabase/PLSqlitePreparedStatement.m": {
+			"hash": "29306e22d91fd3b73a2e6e37b50c8958",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 15318
+		},
+		"6.2.1.GA/iphone/Classes/PlausibleDatabase/PLSqliteResultSet.h": {
+			"hash": "c0e6be76eeb116732ff01cde4d398e71",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2264
+		},
+		"6.2.1.GA/iphone/Classes/PlausibleDatabase/PLSqliteResultSet.m": {
+			"hash": "6a18bd7426e17a22ec07fdbf5b25763b",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 11165
+		},
+		"6.2.1.GA/iphone/Classes/PlausibleDatabase/PlausibleDatabase.h": {
+			"hash": "1753f723a158a8347769046cfe5237ec",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 8516
+		},
+		"6.2.1.GA/iphone/Classes/PlausibleDatabase/PlausibleDatabase.m": {
+			"hash": "34b37e1bd7b3e14da46ecba8bb8070c6",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 4117
+		},
+		"6.2.1.GA/iphone/Classes/Reachability.h": {
+			"hash": "17f4f8054cd2e992c08708ac807ae163",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 7424
+		},
+		"6.2.1.GA/iphone/Classes/Reachability.m": {
+			"hash": "ca30379cfaadd012aee705cc63a1cb5a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 24107
+		},
+		"6.2.1.GA/iphone/Classes/SCListener.h": {
+			"hash": "89ac930ec6d7e5580cad515fe68b426a",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 654
+		},
+		"6.2.1.GA/iphone/Classes/SCListener.m": {
+			"hash": "3007d130fba67bd0e308e82c189392c5",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 4231
+		},
+		"6.2.1.GA/iphone/Classes/StreamModule.h": {
+			"hash": "84b62c846b42df9c42c24c7b0439b2ab",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 965
+		},
+		"6.2.1.GA/iphone/Classes/StreamModule.m": {
+			"hash": "d580b718dc3658c840d8980b91c78313",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 10749
+		},
+		"6.2.1.GA/iphone/Classes/TIDOMCharacterDataProxy.h": {
+			"hash": "8d6208fcf95ad84b4504390470c6b860",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 670
+		},
+		"6.2.1.GA/iphone/Classes/TIDOMCharacterDataProxy.m": {
+			"hash": "b715c17257d8f56c7904c0560c604859",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3503
+		},
+		"6.2.1.GA/iphone/Classes/TIDOMDOMImplementationProxy.h": {
+			"hash": "1a6b49b3e784209013e1a48b046b5cb2",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 392
+		},
+		"6.2.1.GA/iphone/Classes/TIDOMDOMImplementationProxy.m": {
+			"hash": "f35fba92472f9184ebb04d6f1e870ada",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 4330
+		},
+		"6.2.1.GA/iphone/Classes/TIDOMDocumentTypeProxy.h": {
+			"hash": "d3048fa38f002377629cacbc5327f775",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 672
+		},
+		"6.2.1.GA/iphone/Classes/TIDOMDocumentTypeProxy.m": {
+			"hash": "8e5625379e4aec7cf76b9b73c38adcc7",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1644
+		},
+		"6.2.1.GA/iphone/Classes/TIUIiOSAlertDialogStyleProxy.h": {
+			"hash": "317e609be81e4ecfe25f5739d32e9f68",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 605
+		},
+		"6.2.1.GA/iphone/Classes/TIUIiOSAlertDialogStyleProxy.m": {
+			"hash": "f98a8590b20e42bd4db1dbc6a93b3187",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 770
+		},
+		"6.2.1.GA/iphone/Classes/ThirdpartyNS.h": {
+			"hash": "2fe5757935d41c00c94b11f9794d65c2",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 7113
+		},
+		"6.2.1.GA/iphone/Classes/Ti2DMatrix.h": {
+			"hash": "889e472e186d9673235e6c0e5135c460",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1292
+		},
+		"6.2.1.GA/iphone/Classes/Ti2DMatrix.m": {
+			"hash": "cacfb864663e63b67399b5de7048a1fe",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2862
+		},
+		"6.2.1.GA/iphone/Classes/Ti3DMatrix.h": {
+			"hash": "38c3f9bf5caac08d0a56060ce184be04",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1528
+		},
+		"6.2.1.GA/iphone/Classes/Ti3DMatrix.m": {
+			"hash": "22886cac94b294bf6983047ae972396d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3113
+		},
+		"6.2.1.GA/iphone/Classes/TiAction.h": {
+			"hash": "6abbb2e24b9547beb233a0c6079796ec",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1058
+		},
+		"6.2.1.GA/iphone/Classes/TiAction.m": {
+			"hash": "093247d41e78f5c3fbd879537eba880c",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 696
+		},
+		"6.2.1.GA/iphone/Classes/TiAnchorAttachBehavior.h": {
+			"hash": "255b130221b2c75f88fe5199f7516e56",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 969
+		},
+		"6.2.1.GA/iphone/Classes/TiAnchorAttachBehavior.m": {
+			"hash": "aec38537df48db499aa6d1e1993c04f3",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 5247
+		},
+		"6.2.1.GA/iphone/Classes/TiAnimation.h": {
+			"hash": "ca83229d954c9620591918461c08ee5b",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 4685
+		},
+		"6.2.1.GA/iphone/Classes/TiAnimation.m": {
+			"hash": "fc4e65c0e12397cb14e73714ae352040",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 26903
+		},
+		"6.2.1.GA/iphone/Classes/TiAnimatorProxy.h": {
+			"hash": "1e88e161a9e942d9abb983c68bdccb1a",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 993
+		},
+		"6.2.1.GA/iphone/Classes/TiAnimatorProxy.m": {
+			"hash": "23f3e778a333115a45c3d02eee2d6857",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 6178
+		},
+		"6.2.1.GA/iphone/Classes/TiApp.h": {
+			"hash": "7c96f340f8c7ac6541bd03c9b4517cf6",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 6101
+		},
+		"6.2.1.GA/iphone/Classes/TiApp.m": {
+			"hash": "9af088f30fc0548a2892cdba66ab1f77",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 52219
+		},
+		"6.2.1.GA/iphone/Classes/TiAppPropertiesProxy.h": {
+			"hash": "0900701b9ebc72133c448f1505fa91fb",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 759
+		},
+		"6.2.1.GA/iphone/Classes/TiAppPropertiesProxy.m": {
+			"hash": "cbd126dc64094adbd45053a2c1deed59",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 7454
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSBackgroundServiceProxy.h": {
+			"hash": "01ac2eca635c65af77c27967ecf0a28f",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 457
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSBackgroundServiceProxy.m": {
+			"hash": "e642b214bbd0c225a2d07e6a100a79a4",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1347
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSLocalNotificationProxy.h": {
+			"hash": "7e8db4f849b5a180bc9638fa4289f5db",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 488
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSLocalNotificationProxy.m": {
+			"hash": "214c3adef7d9d4f594e36b7bdac84b9c",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 827
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSNotificationActionProxy.h": {
+			"hash": "311838287349d6f0ab5f13b9fe0369f5",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 592
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSNotificationActionProxy.m": {
+			"hash": "0cadbb0f95a675ebd6286faec76aa3fc",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1325
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSNotificationCategoryProxy.h": {
+			"hash": "9b5e12d24efe1f5bab92dc9a40b4fffd",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 489
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSNotificationCategoryProxy.m": {
+			"hash": "3454c4bd1b6e268b83b65c958e066f31",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 812
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSProxy.h": {
+			"hash": "b0d59428d29b30ba87a8d2af56e084bd",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 585
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSProxy.m": {
+			"hash": "0057e563a09f2ded9a4ad8ac2492f713",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 33871
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSSearchQueryProxy.h": {
+			"hash": "18e20d5a9dfaa2ee1ca979beab972281",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 711
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSSearchQueryProxy.m": {
+			"hash": "f9f96cbe221938251f1df6176e64f767",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3063
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSSearchableIndexProxy.h": {
+			"hash": "6ad4e5316e521816c1f4217072723460",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 397
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSSearchableIndexProxy.m": {
+			"hash": "85553e0245394dd9bac0fe3b1f778696",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 4543
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSSearchableItemAttributeSetProxy.h": {
+			"hash": "f74e291102344ceb87ae647764deac51",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 802
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSSearchableItemAttributeSetProxy.m": {
+			"hash": "b7df664213286da53af52c57bdfb77dc",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 34566
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSSearchableItemProxy.h": {
+			"hash": "a1ce08e94dc583e96c02cbe316238507",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 679
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSSearchableItemProxy.m": {
+			"hash": "c75dd6f319684a8175ed9bdb90336d18",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 2782
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSUserActivityProxy.h": {
+			"hash": "fbd9fbb3b48f1655ba55b389ddea78d3",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 535
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSUserActivityProxy.m": {
+			"hash": "e54ac8a41da97d5683bf08545216ab28",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 11214
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSUserDefaultsProxy.h": {
+			"hash": "c039567e399923b53e28fd3c265d0bbe",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 780
+		},
+		"6.2.1.GA/iphone/Classes/TiAppiOSUserDefaultsProxy.m": {
+			"hash": "004da61da2c976e913ab40d52b25a4cb",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 5422
+		},
+		"6.2.1.GA/iphone/Classes/TiBase.h": {
+			"hash": "d40cd73e425266195f3d084921c3de04",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 20229
+		},
+		"6.2.1.GA/iphone/Classes/TiBase.m": {
+			"hash": "2793283a57f83450f1d171995da1d02f",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 13605
+		},
+		"6.2.1.GA/iphone/Classes/TiBindingEvent.h": {
+			"hash": "e6c1d80e777dbf588d73014a7e87367a",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1675
+		},
+		"6.2.1.GA/iphone/Classes/TiBindingEvent.m": {
+			"hash": "e0dd020247fa6cd28ca5aa22ac8828b7",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 12159
+		},
+		"6.2.1.GA/iphone/Classes/TiBindingRunLoop.h": {
+			"hash": "0426895f6a2fe9540d46f53c2e2cbf77",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1419
+		},
+		"6.2.1.GA/iphone/Classes/TiBindingRunLoop.m": {
+			"hash": "963bf5faebcf7c4f8b099a07adaedfe6",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2223
+		},
+		"6.2.1.GA/iphone/Classes/TiBindingTiValue.h": {
+			"hash": "b085fdd7dd10a3076c7ba55d1cc4b04f",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 728
+		},
+		"6.2.1.GA/iphone/Classes/TiBindingTiValue.m": {
+			"hash": "f8485d4b0bd5f9a3160fc6d62ac7c3be",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 12259
+		},
+		"6.2.1.GA/iphone/Classes/TiBlob.h": {
+			"hash": "4766240d3fc990165bacb76b93545360",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 3546
+		},
+		"6.2.1.GA/iphone/Classes/TiBlob.m": {
+			"hash": "036307b408d68fbcf1a86c9a8ae9444e",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 10303
+		},
+		"6.2.1.GA/iphone/Classes/TiBuffer.h": {
+			"hash": "0381a9cd13c47364f7c9523e7c80e9d0",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1519
+		},
+		"6.2.1.GA/iphone/Classes/TiBuffer.m": {
+			"hash": "b0ff61f5240a69e07bf72648e4a39caa",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 14415
+		},
+		"6.2.1.GA/iphone/Classes/TiButtonUtil.h": {
+			"hash": "7cebfdb541a42ed9356d726f4b1ed3f0",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 364
+		},
+		"6.2.1.GA/iphone/Classes/TiButtonUtil.m": {
+			"hash": "077733760d69d827f5f5467cbcefc22d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1251
+		},
+		"6.2.1.GA/iphone/Classes/TiCalendarAlert.h": {
+			"hash": "4ccdc70552853230e1575b1b97c3d9ca",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 619
+		},
+		"6.2.1.GA/iphone/Classes/TiCalendarAlert.m": {
+			"hash": "9baca5b74d9f4d5c701f7ec35daaf009",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1279
+		},
+		"6.2.1.GA/iphone/Classes/TiCalendarAttendee.h": {
+			"hash": "1f72ec69bfd73e69fb7a21b96ac0b62e",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 494
+		},
+		"6.2.1.GA/iphone/Classes/TiCalendarAttendee.m": {
+			"hash": "43c5d89c12782fc3f9289bd979190ac5",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1339
+		},
+		"6.2.1.GA/iphone/Classes/TiCalendarCalendar.h": {
+			"hash": "f2145bfd8537619f241aecb37228db6a",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 661
+		},
+		"6.2.1.GA/iphone/Classes/TiCalendarCalendar.m": {
+			"hash": "1402e76e5999a85ea867d44adbcde2bf",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 9571
+		},
+		"6.2.1.GA/iphone/Classes/TiCalendarEvent.h": {
+			"hash": "b7617e4376506084f7eb449c0e5a2fd7",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 760
+		},
+		"6.2.1.GA/iphone/Classes/TiCalendarEvent.m": {
+			"hash": "c36b3b120d7107ec6b75c30ec1c82329",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 19651
+		},
+		"6.2.1.GA/iphone/Classes/TiCalendarRecurrenceRule.h": {
+			"hash": "39490e023148d3710aeace00040a74f2",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 566
+		},
+		"6.2.1.GA/iphone/Classes/TiCalendarRecurrenceRule.m": {
+			"hash": "099fc8f2bb00cd920dcb2d5e3798f281",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3098
+		},
+		"6.2.1.GA/iphone/Classes/TiCalendarReminder.h": {
+			"hash": "a4078a2c1fb67ee0e71bf14526ba6900",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 339
+		},
+		"6.2.1.GA/iphone/Classes/TiCalendarReminder.m": {
+			"hash": "b4b37efe5fa24fdbc5865d3b7a2c74fa",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 402
+		},
+		"6.2.1.GA/iphone/Classes/TiCollisionBehavior.h": {
+			"hash": "d7fceb815a8c8909994addbfa2e42222",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1164
+		},
+		"6.2.1.GA/iphone/Classes/TiCollisionBehavior.m": {
+			"hash": "4402922fb8cc4f0064e339291fb630b7",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 11499
+		},
+		"6.2.1.GA/iphone/Classes/TiColor.h": {
+			"hash": "e163ab266f76465c761d0cb5426a52fe",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1174
+		},
+		"6.2.1.GA/iphone/Classes/TiColor.m": {
+			"hash": "2e42e7e02676ef291764cf306eb2c3ed",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1763
+		},
+		"6.2.1.GA/iphone/Classes/TiComplexValue.h": {
+			"hash": "4215650af3e4c1c3020826d207a32161",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 994
+		},
+		"6.2.1.GA/iphone/Classes/TiComplexValue.m": {
+			"hash": "2893bde762d9487db07e44baed5ac136",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 630
+		},
+		"6.2.1.GA/iphone/Classes/TiConsole.h": {
+			"hash": "0e156d496e7541b7a3434e35322c9e49",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 621
+		},
+		"6.2.1.GA/iphone/Classes/TiConsole.m": {
+			"hash": "886226fdb04a1ae6edd20c582d7029da",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 371
+		},
+		"6.2.1.GA/iphone/Classes/TiContactsGroup.h": {
+			"hash": "d4ad15e31d6baef31b407b184200b952",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1000
+		},
+		"6.2.1.GA/iphone/Classes/TiContactsGroup.m": {
+			"hash": "ede32a89194e962c2b3819ab619b367c",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 11739
+		},
+		"6.2.1.GA/iphone/Classes/TiContactsPerson.h": {
+			"hash": "436b35b93b5200ebc27ce9363c1fb0cd",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2112
+		},
+		"6.2.1.GA/iphone/Classes/TiContactsPerson.m": {
+			"hash": "781c71d9643610038e68b235ddbfbf79",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 37201
+		},
+		"6.2.1.GA/iphone/Classes/TiController.h": {
+			"hash": "908ec50c81b2664aa3eaf8247737342e",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 413
+		},
+		"6.2.1.GA/iphone/Classes/TiControllerProtocols.h": {
+			"hash": "87db35a425e56d2f3662965205f0de28",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3485
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMAttrProxy.h": {
+			"hash": "22ebe990bcec38ce5edaba5556e3e2de",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 805
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMAttrProxy.m": {
+			"hash": "27494ad16f2ece6b98d353dd40992bb6",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2182
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMCDATANodeProxy.h": {
+			"hash": "b205036f822b6197b6cf56ed37b38c58",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 388
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMCDATANodeProxy.m": {
+			"hash": "39e696500e9db31fcb9750ce863c7393",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 430
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMCommentProxy.h": {
+			"hash": "98d3b3dfc7903078990063d74689b3ae",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 396
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMCommentProxy.m": {
+			"hash": "b36858bf7d1173d0e6d784ef0094ed3d",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 420
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMDocFragProxy.h": {
+			"hash": "2b92b23d61b2916970c17dda6017a7c1",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 435
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMDocFragProxy.m": {
+			"hash": "2016e6076f60e9f866d1a3f4e3416122",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 575
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMDocumentProxy.h": {
+			"hash": "20ecd053312d65fe494dd4dd034f91c8",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 474
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMDocumentProxy.m": {
+			"hash": "88ab75bf039b89b66b0c71b235f7ce52",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 15655
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMElementProxy.h": {
+			"hash": "048bee3c083fa21c0680ffe1884c6490",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 720
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMElementProxy.m": {
+			"hash": "c3141851492165ca3ee8858f0fcd7b81",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 23343
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMEntityProxy.h": {
+			"hash": "5136c3b47856cff830f8613a5dd007c0",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 516
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMEntityProxy.m": {
+			"hash": "f012d32626d1f64808f1c6c3264584d4",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 672
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMEntityRefProxy.h": {
+			"hash": "073862a288c591b9efabe9a27bcabde9",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 379
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMEntityRefProxy.m": {
+			"hash": "390cc2f10e62337174a444949de52324",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 520
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMNamedNodeMapProxy.h": {
+			"hash": "53319221c9544fb57ea7c6468424a481",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 805
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMNamedNodeMapProxy.m": {
+			"hash": "b12efaaaecca9cdf8864c8eb909e3873",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 3375
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMNodeListProxy.h": {
+			"hash": "3532451efa5c6b8022967373e56b2d17",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 656
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMNodeListProxy.m": {
+			"hash": "fe7a65bfb67b047b98348455c5ff455a",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1399
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMNodeProxy.h": {
+			"hash": "a7237f99a10e8b90e2bcabd123e9a61f",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 2659
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMNodeProxy.m": {
+			"hash": "1bce6e66e56b1a36fcbf8ba1d758865b",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 17289
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMNotationProxy.h": {
+			"hash": "e447496803d75533475179c600ea2c6a",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 472
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMNotationProxy.m": {
+			"hash": "52f13dbedea608673b3a79a0c5eaf0f4",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 621
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMPIProxy.h": {
+			"hash": "1a684d2894afe650ae7e6034f7fc7aa3",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 545
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMPIProxy.m": {
+			"hash": "283e565c69c341e5021c4a9c719c70e7",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 768
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMTextNodeProxy.h": {
+			"hash": "55302c8444f22cf47e7f78efd6fcb6c3",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 475
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMTextNodeProxy.m": {
+			"hash": "18f7020376e3977b953ef4244d9bbdd1",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2374
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMValidator.h": {
+			"hash": "334271bbcae4aba307b897dd4412e63a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 550
+		},
+		"6.2.1.GA/iphone/Classes/TiDOMValidator.m": {
+			"hash": "cd536224add950160926d764c7b48699",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1238
+		},
+		"6.2.1.GA/iphone/Classes/TiDataStream.h": {
+			"hash": "cb0365b2efc49f5c439a102c71bfcaf6",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 599
+		},
+		"6.2.1.GA/iphone/Classes/TiDataStream.m": {
+			"hash": "e223ad15bc9768b0c0806bda525bc770",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 11616
+		},
+		"6.2.1.GA/iphone/Classes/TiDatabaseProxy.h": {
+			"hash": "7e4421f74679e2e04174ec7d4bb29d02",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 805
+		},
+		"6.2.1.GA/iphone/Classes/TiDatabaseProxy.m": {
+			"hash": "4c05e1adcdf0a3c3b4bfedb781d3b602",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 7781
+		},
+		"6.2.1.GA/iphone/Classes/TiDatabaseResultSetProxy.h": {
+			"hash": "7341382ae8b1002ed39c97a5035177f6",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 725
+		},
+		"6.2.1.GA/iphone/Classes/TiDatabaseResultSetProxy.m": {
+			"hash": "288484ab6279d926b548488bf6e4f166",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 6059
+		},
+		"6.2.1.GA/iphone/Classes/TiDebugger.h": {
+			"hash": "d6ef736514374d8bfcf6cc5dfd5c7b03",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1009
+		},
+		"6.2.1.GA/iphone/Classes/TiDimension.h": {
+			"hash": "1ad4a1eb1878f561a0b33b83356b4008",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 4184
+		},
+		"6.2.1.GA/iphone/Classes/TiDimension.m": {
+			"hash": "852462de908ca6baf86637827f6d3f04",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 5625
+		},
+		"6.2.1.GA/iphone/Classes/TiDynamicItemBehavior.h": {
+			"hash": "b9d6d530ce4450668daf475c601e11e4",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1360
+		},
+		"6.2.1.GA/iphone/Classes/TiDynamicItemBehavior.m": {
+			"hash": "bc0a0dd211a5693582c5826fdafb4509",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 10647
+		},
+		"6.2.1.GA/iphone/Classes/TiErrorController.h": {
+			"hash": "be559c341272c3b3254b76c7284ce256",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 491
+		},
+		"6.2.1.GA/iphone/Classes/TiErrorController.m": {
+			"hash": "a6ba799db751379200c06462b0dba6ea",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 13311
+		},
+		"6.2.1.GA/iphone/Classes/TiEvaluator.h": {
+			"hash": "bbd0253e74424158cd55d87cf495a89a",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1237
+		},
+		"6.2.1.GA/iphone/Classes/TiExceptionHandler.h": {
+			"hash": "6aa32605f7e33b1dd619482c97af7d16",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2444
+		},
+		"6.2.1.GA/iphone/Classes/TiExceptionHandler.m": {
+			"hash": "a1d619c28b53efd2ec002e1b12ce68bc",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 5396
+		},
+		"6.2.1.GA/iphone/Classes/TiFile.h": {
+			"hash": "ddd34716b7a4b0ee964ce15de56f302a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1664
+		},
+		"6.2.1.GA/iphone/Classes/TiFile.m": {
+			"hash": "ba449129116c1753893eafa63ee30b15",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 2520
+		},
+		"6.2.1.GA/iphone/Classes/TiFilesystemBlobProxy.h": {
+			"hash": "2599b4dea93c78c40cdbaeb5aef91442",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 428
+		},
+		"6.2.1.GA/iphone/Classes/TiFilesystemBlobProxy.m": {
+			"hash": "0bcea15042a3527fc0bd3117d5d51804",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2338
+		},
+		"6.2.1.GA/iphone/Classes/TiFilesystemFileProxy.h": {
+			"hash": "54ac80cc2c9fe75cc05b105757de0a2f",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 894
+		},
+		"6.2.1.GA/iphone/Classes/TiFilesystemFileProxy.m": {
+			"hash": "b84847c8875bea4d10837f4fad766f24",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 14007
+		},
+		"6.2.1.GA/iphone/Classes/TiFilesystemFileStreamProxy.h": {
+			"hash": "c88549398df4f3dd4be7ca6d876a8a8c",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 494
+		},
+		"6.2.1.GA/iphone/Classes/TiFilesystemFileStreamProxy.m": {
+			"hash": "1ba6352db4225df858c6f0b0b9ebe196",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 14685
+		},
+		"6.2.1.GA/iphone/Classes/TiGradient.h": {
+			"hash": "4009427ef6de378638445c1b905178ba",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1225
+		},
+		"6.2.1.GA/iphone/Classes/TiGradient.m": {
+			"hash": "1f36e2c30fc2faf007f0c37fa754ff38",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 6409
+		},
+		"6.2.1.GA/iphone/Classes/TiGravityBehavior.h": {
+			"hash": "bbebc839f05a2cc5a7e119d23a61dffc",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 902
+		},
+		"6.2.1.GA/iphone/Classes/TiGravityBehavior.m": {
+			"hash": "8893bad66b2066d54e6765dbe933e9fc",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 4724
+		},
+		"6.2.1.GA/iphone/Classes/TiHost.h": {
+			"hash": "a31c427cb62e18b784dc2dbbc349e5f7",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1359
+		},
+		"6.2.1.GA/iphone/Classes/TiHost.m": {
+			"hash": "d45f1bf2ca388deebea48e8170363ad7",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 4426
+		},
+		"6.2.1.GA/iphone/Classes/TiLayoutQueue.h": {
+			"hash": "f7e85a2799acc61631ac8f9427c7875a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 697
+		},
+		"6.2.1.GA/iphone/Classes/TiLayoutQueue.m": {
+			"hash": "3a8abffd28178809c16414de46823c64",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3011
+		},
+		"6.2.1.GA/iphone/Classes/TiLocale.h": {
+			"hash": "ee7a4d6384691d9971d59c20fc1bc98d",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 964
+		},
+		"6.2.1.GA/iphone/Classes/TiLocale.m": {
+			"hash": "912faa72681468a86dbf8ef9fbdef021",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1659
+		},
+		"6.2.1.GA/iphone/Classes/TiLogServer.h": {
+			"hash": "fc681631af247d811fce421decce8479",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 501
+		},
+		"6.2.1.GA/iphone/Classes/TiLogServer.m": {
+			"hash": "6a2c62f9ff906c513840e0cbbbb8bb4a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 10418
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaAudioPlayerProxy.h": {
+			"hash": "f54207a1eda9eabd5a51467d91522ca7",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1645
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaAudioPlayerProxy.m": {
+			"hash": "e5d169a9dee43ccbeb1ab12c7af77bf2",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 7898
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaAudioRecorderProxy.h": {
+			"hash": "786f8e12505632c1a8a1a4ef295fdc8f",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1061
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaAudioRecorderProxy.mm": {
+			"hash": "ef66f37f5cb4fb3ec331b19c5c50bd40",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 8574
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaAudioSession.h": {
+			"hash": "9fa5565fa0701c5f28117a4cb5eb089b",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 984
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaAudioSession.m": {
+			"hash": "d9b804a077c7796d0bfdb99aa35467ed",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 10524
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaItem.h": {
+			"hash": "43aa3c3bc424cb1b88e0946a6042411e",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 776
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaItem.m": {
+			"hash": "ab4183d33823f6837f2146f7ea2f0125",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1501
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaMusicPlayer.h": {
+			"hash": "763cc32d363bf98da793d872d57090a5",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1172
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaMusicPlayer.m": {
+			"hash": "79d053c2a0e0fd8cc8bd6edbae93eeea",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 7254
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaSoundProxy.h": {
+			"hash": "e58ab5683d644654e09477351cfcbbb3",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 995
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaSoundProxy.m": {
+			"hash": "c42c71460a70b46cf52ef74e8a5ff3f3",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 8577
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaSystemAlertProxy.h": {
+			"hash": "c66dcc9fc8ad56759ae68980eea0c993",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 496
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaSystemAlertProxy.m": {
+			"hash": "8901542fd6e50744d0d4526c4a7445ec",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2214
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaVideoPlayer.h": {
+			"hash": "34db9eb78982ec1e955aec99756048f5",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 662
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaVideoPlayer.m": {
+			"hash": "f23d5fb3ccd48aff646372b0ff77df8c",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 3839
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaVideoPlayerProxy.h": {
+			"hash": "bc3b1d40c2c8cdb75dca80f718d64d1b",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1804
+		},
+		"6.2.1.GA/iphone/Classes/TiMediaVideoPlayerProxy.m": {
+			"hash": "1338ebfdb05b80872ec8bc00980184b9",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 25513
+		},
+		"6.2.1.GA/iphone/Classes/TiModule.h": {
+			"hash": "b30e576ba59de80a5249b52c1c25e821",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1846
+		},
+		"6.2.1.GA/iphone/Classes/TiModule.m": {
+			"hash": "35828df4f066fff29075974c922e70a6",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 7419
+		},
+		"6.2.1.GA/iphone/Classes/TiNetworkBonjourBrowserProxy.h": {
+			"hash": "2635bca19b6277cea1338adbac88b013",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 974
+		},
+		"6.2.1.GA/iphone/Classes/TiNetworkBonjourBrowserProxy.m": {
+			"hash": "bd002d683d12b61ee37e6574b7de265f",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 5032
+		},
+		"6.2.1.GA/iphone/Classes/TiNetworkBonjourServiceProxy.h": {
+			"hash": "135b4a46be6c56f1287630266c203708",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1523
+		},
+		"6.2.1.GA/iphone/Classes/TiNetworkBonjourServiceProxy.m": {
+			"hash": "64b88b1392e02e82dd5ea37c3a677b22",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 12020
+		},
+		"6.2.1.GA/iphone/Classes/TiNetworkCookieProxy.h": {
+			"hash": "cae9a0976792f1f5258553b24f1f6582",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 498
+		},
+		"6.2.1.GA/iphone/Classes/TiNetworkCookieProxy.m": {
+			"hash": "9bfc6a85a5d06fd98eb9e4b3afc0795e",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3902
+		},
+		"6.2.1.GA/iphone/Classes/TiNetworkHTTPClientProxy.h": {
+			"hash": "26dd01dfc0d23b144f0f7f9790fd1d56",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2412
+		},
+		"6.2.1.GA/iphone/Classes/TiNetworkHTTPClientProxy.m": {
+			"hash": "be0301649e0024a39218d02ff742c1cc",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 18864
+		},
+		"6.2.1.GA/iphone/Classes/TiNetworkSocketProxy.h": {
+			"hash": "a782b28a9060605d880580598c5e6623",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 866
+		},
+		"6.2.1.GA/iphone/Classes/TiNetworkSocketProxy.m": {
+			"hash": "54bf4e585cf16786f466fde25f74dc5d",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 828
+		},
+		"6.2.1.GA/iphone/Classes/TiNetworkSocketTCPProxy.h": {
+			"hash": "2baff1d889c3557789422d53014b3bdc",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2964
+		},
+		"6.2.1.GA/iphone/Classes/TiNetworkSocketTCPProxy.m": {
+			"hash": "ab936d231846f0a12b72dd081f75b601",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 33567
+		},
+		"6.2.1.GA/iphone/Classes/TiNetworkTCPSocketProxy.h": {
+			"hash": "2bc4a0bbf9dfc3532abe9073fa2d8ca4",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1101
+		},
+		"6.2.1.GA/iphone/Classes/TiNetworkTCPSocketProxy.m": {
+			"hash": "beb8a6637306fe490894d2a95bfad9a3",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 23725
+		},
+		"6.2.1.GA/iphone/Classes/TiPlatformDisplayCaps.h": {
+			"hash": "2c26cc8b3a679f27513463d34dae0175",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 614
+		},
+		"6.2.1.GA/iphone/Classes/TiPlatformDisplayCaps.m": {
+			"hash": "99bbcdccee23b1699ea547a961a189eb",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1690
+		},
+		"6.2.1.GA/iphone/Classes/TiPoint.h": {
+			"hash": "a70b9236fe9e29d0c37922063c0adecd",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1090
+		},
+		"6.2.1.GA/iphone/Classes/TiPoint.m": {
+			"hash": "ffb35fdbc9454958e790f065448719f6",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1368
+		},
+		"6.2.1.GA/iphone/Classes/TiPreviewingDelegate.h": {
+			"hash": "f3eeb363096813244df706eaf04eace6",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1202
+		},
+		"6.2.1.GA/iphone/Classes/TiPreviewingDelegate.m": {
+			"hash": "7c4936f67bd3239a5826dbb1cb8c972b",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 5766
+		},
+		"6.2.1.GA/iphone/Classes/TiProfiler/TiProfiler.h": {
+			"hash": "ded4082579ec052d3461928eef799def",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 701
+		},
+		"6.2.1.GA/iphone/Classes/TiProxy.h": {
+			"hash": "3d8060ca79513695eaffc5575243874d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 11362
+		},
+		"6.2.1.GA/iphone/Classes/TiProxy.m": {
+			"hash": "ffc674692da100f135a520de4bd8a37d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 37970
+		},
+		"6.2.1.GA/iphone/Classes/TiPublicAPI.h": {
+			"hash": "89cdf59ba627f63c746cc3698e36e2c5",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2664
+		},
+		"6.2.1.GA/iphone/Classes/TiPublicAPI.m": {
+			"hash": "d46c2a50bed6243bde6b6dbf8f428469",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 265
+		},
+		"6.2.1.GA/iphone/Classes/TiPushBehavior.h": {
+			"hash": "d8a3e587d8712b41b0e6bb6654861b0b",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1030
+		},
+		"6.2.1.GA/iphone/Classes/TiPushBehavior.m": {
+			"hash": "acdf5db094f6bbc064dbcd8c8c4a2fce",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 5726
+		},
+		"6.2.1.GA/iphone/Classes/TiRect.h": {
+			"hash": "fa6fd93fe94efacc6397781ca806ba32",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1116
+		},
+		"6.2.1.GA/iphone/Classes/TiRect.m": {
+			"hash": "b1fdf646afb0a9cdea738549d71f4d46",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2751
+		},
+		"6.2.1.GA/iphone/Classes/TiRootViewController.h": {
+			"hash": "910ad964c7e4e686b14127fcec5bf69c",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 2995
+		},
+		"6.2.1.GA/iphone/Classes/TiRootViewController.m": {
+			"hash": "7c8128570e075edc0ba92939648fd384",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 54588
+		},
+		"6.2.1.GA/iphone/Classes/TiSelectedCellbackgroundView.h": {
+			"hash": "a9912eaae561ad83b273929321e411b0",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 817
+		},
+		"6.2.1.GA/iphone/Classes/TiSelectedCellbackgroundView.m": {
+			"hash": "32a29bc18173383ee884d790ecce7d69",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 4276
+		},
+		"6.2.1.GA/iphone/Classes/TiSnapBehavior.h": {
+			"hash": "e40d98884952cf6d0919dc63096f81c8",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 764
+		},
+		"6.2.1.GA/iphone/Classes/TiSnapBehavior.m": {
+			"hash": "4d4ed8a04f2146692b25ea2ecd461589",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3514
+		},
+		"6.2.1.GA/iphone/Classes/TiStreamProxy.h": {
+			"hash": "c7b480030751e757e81e704aecbd77e6",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1895
+		},
+		"6.2.1.GA/iphone/Classes/TiStreamProxy.m": {
+			"hash": "cb0f0163bd80d75e4e14e8dccd5a0cfa",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 5601
+		},
+		"6.2.1.GA/iphone/Classes/TiStylesheet.h": {
+			"hash": "da81d34ddf5ea21e74bacdddf872c557",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 696
+		},
+		"6.2.1.GA/iphone/Classes/TiStylesheet.m": {
+			"hash": "cb6bf0af7b1b347dc2787a5b44f48dde",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 4021
+		},
+		"6.2.1.GA/iphone/Classes/TiTab.h": {
+			"hash": "9505aee51c4b73f2f78a3e50ab8137ca",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 930
+		},
+		"6.2.1.GA/iphone/Classes/TiTabGroup.h": {
+			"hash": "6890de70578d62b1c746ac38a406a415",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 415
+		},
+		"6.2.1.GA/iphone/Classes/TiThreading.h": {
+			"hash": "f0a0ac9ac1dbfda9e4f0863aa62f4f48",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 2547
+		},
+		"6.2.1.GA/iphone/Classes/TiThreading.m": {
+			"hash": "f5393e8fe110ff489ddebceb19c4be34",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 267
+		},
+		"6.2.1.GA/iphone/Classes/TiToJS.h": {
+			"hash": "d397adabf159d23860b6b855e824e8b6",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 5632
+		},
+		"6.2.1.GA/iphone/Classes/TiToolbar.h": {
+			"hash": "a3ebbd99c8b269acf89ad0eaa33d43d8",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 469
+		},
+		"6.2.1.GA/iphone/Classes/TiToolbarButton.h": {
+			"hash": "9a33f6ff1e8ba048aace9d5d57b2893d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 845
+		},
+		"6.2.1.GA/iphone/Classes/TiUIActivityIndicator.h": {
+			"hash": "12c45ec798ac8660616356802f288924",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 731
+		},
+		"6.2.1.GA/iphone/Classes/TiUIActivityIndicator.m": {
+			"hash": "cd2f878513f3797b207c09bd163dfaa4",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 8372
+		},
+		"6.2.1.GA/iphone/Classes/TiUIActivityIndicatorProxy.h": {
+			"hash": "0669570adfdebd0b92702d89f46ec963",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 391
+		},
+		"6.2.1.GA/iphone/Classes/TiUIActivityIndicatorProxy.m": {
+			"hash": "c619b46e3d32ea54a5d35a91e413bbdb",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1295
+		},
+		"6.2.1.GA/iphone/Classes/TiUIActivityIndicatorStyleProxy.h": {
+			"hash": "d7c0c21d6ec5d20667728878d85303e4",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 509
+		},
+		"6.2.1.GA/iphone/Classes/TiUIActivityIndicatorStyleProxy.m": {
+			"hash": "f64061819e9e30674f8ba700d3d7ab41",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 635
+		},
+		"6.2.1.GA/iphone/Classes/TiUIAlertDialogProxy.h": {
+			"hash": "72103958acc0a7ef8724406f8240d8e5",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 524
+		},
+		"6.2.1.GA/iphone/Classes/TiUIAlertDialogProxy.m": {
+			"hash": "8ba82ad7e0847e8ace942d62b540ff55",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 10486
+		},
+		"6.2.1.GA/iphone/Classes/TiUIAttributedStringProxy.h": {
+			"hash": "5ec82a3eac8144bc12559f4fbc5df80c",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1292
+		},
+		"6.2.1.GA/iphone/Classes/TiUIAttributedStringProxy.m": {
+			"hash": "7fa1c0f11c9b365e20f43819c48288c0",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 8691
+		},
+		"6.2.1.GA/iphone/Classes/TiUIButton.h": {
+			"hash": "e58ea78120fa223e1b172bda71b848e7",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 784
+		},
+		"6.2.1.GA/iphone/Classes/TiUIButton.m": {
+			"hash": "f5ff20946f3f0ca0e8585a3e4ca2d315",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 12901
+		},
+		"6.2.1.GA/iphone/Classes/TiUIButtonBar.h": {
+			"hash": "b56b0aa18f02ea6fbdd5d5193232e1b6",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 501
+		},
+		"6.2.1.GA/iphone/Classes/TiUIButtonBar.m": {
+			"hash": "8431249654e2ff45734c45dcf152900c",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 5826
+		},
+		"6.2.1.GA/iphone/Classes/TiUIButtonBarProxy.h": {
+			"hash": "5d5c0aaf2083d3f63b1460ffaccd1dfd",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 317
+		},
+		"6.2.1.GA/iphone/Classes/TiUIButtonBarProxy.m": {
+			"hash": "ecee5a5a35c6639209f5d1debcc1711b",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 982
+		},
+		"6.2.1.GA/iphone/Classes/TiUIButtonProxy.h": {
+			"hash": "73f2586c690da9f38c7cbc93c54c67de",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 536
+		},
+		"6.2.1.GA/iphone/Classes/TiUIButtonProxy.m": {
+			"hash": "f1ee5017477f8661aa26278a859475cf",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3557
+		},
+		"6.2.1.GA/iphone/Classes/TiUICanvasView.h": {
+			"hash": "10ae9309dea8facee41c3d55648e0937",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 443
+		},
+		"6.2.1.GA/iphone/Classes/TiUICanvasView.m": {
+			"hash": "7c01d9f323a0d5e782cedb6a8194ee5d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 10203
+		},
+		"6.2.1.GA/iphone/Classes/TiUICanvasViewProxy.h": {
+			"hash": "8c592e14439b0090ce58fb7e34ca5e6a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 351
+		},
+		"6.2.1.GA/iphone/Classes/TiUICanvasViewProxy.m": {
+			"hash": "702352ee221dd70c06774c475ef7e145",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 574
+		},
+		"6.2.1.GA/iphone/Classes/TiUIClipboardProxy.h": {
+			"hash": "2f4d5da4cb832a92963b784962d63a3a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 758
+		},
+		"6.2.1.GA/iphone/Classes/TiUIClipboardProxy.m": {
+			"hash": "c639278631dab4fd572a98db07e053d3",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 10784
+		},
+		"6.2.1.GA/iphone/Classes/TiUIDashboardItem.h": {
+			"hash": "1a6cfa391ad2f62a307a01973261cbba",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 360
+		},
+		"6.2.1.GA/iphone/Classes/TiUIDashboardItem.m": {
+			"hash": "81338b3ebc94b82a8d48cb9ed1016606",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 815
+		},
+		"6.2.1.GA/iphone/Classes/TiUIDashboardItemProxy.h": {
+			"hash": "d6e6b1fa952c0fd25cfe71fd34d83789",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 474
+		},
+		"6.2.1.GA/iphone/Classes/TiUIDashboardItemProxy.m": {
+			"hash": "e5d661894b6c0c41c4c11b0e98ddbe75",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2250
+		},
+		"6.2.1.GA/iphone/Classes/TiUIDashboardView.h": {
+			"hash": "717e356b5b8bfa1d61a5af6e79e486e0",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 495
+		},
+		"6.2.1.GA/iphone/Classes/TiUIDashboardView.m": {
+			"hash": "c8e63a16baecbb8a5ea73076fe8f1fde",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 6872
+		},
+		"6.2.1.GA/iphone/Classes/TiUIDashboardViewProxy.h": {
+			"hash": "130848a896dad25338ab27ee3a8ced73",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 360
+		},
+		"6.2.1.GA/iphone/Classes/TiUIDashboardViewProxy.m": {
+			"hash": "4bd4cdc284473c560adf6504e75b95f0",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 2471
+		},
+		"6.2.1.GA/iphone/Classes/TiUIEmailDialogProxy.h": {
+			"hash": "2ebf1fd3d572ddec100e291d0d8205e1",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 752
+		},
+		"6.2.1.GA/iphone/Classes/TiUIEmailDialogProxy.m": {
+			"hash": "36e041d32b1bd7a4bd5f98679ea69a2f",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 5208
+		},
+		"6.2.1.GA/iphone/Classes/TiUIImageView.h": {
+			"hash": "f597786cc823ef8455ed9b4dc6bd6d45",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1116
+		},
+		"6.2.1.GA/iphone/Classes/TiUIImageView.m": {
+			"hash": "df21aeadfc4ee19f702e53683078407d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 23879
+		},
+		"6.2.1.GA/iphone/Classes/TiUIImageViewProxy.h": {
+			"hash": "6e45a71cafd0ec6084395463131f6c19",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 708
+		},
+		"6.2.1.GA/iphone/Classes/TiUIImageViewProxy.m": {
+			"hash": "129de384de88447e51ffcbc9119e677b",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 6081
+		},
+		"6.2.1.GA/iphone/Classes/TiUILabel.h": {
+			"hash": "b5941fee5b904185b0f5ed7e54c7e911",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 666
+		},
+		"6.2.1.GA/iphone/Classes/TiUILabel.m": {
+			"hash": "e08a96f31158fc37efe9f4c5d7c4e224",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 18940
+		},
+		"6.2.1.GA/iphone/Classes/TiUILabelProxy.h": {
+			"hash": "5f48053206aff22466a0de2e80deed94",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 344
+		},
+		"6.2.1.GA/iphone/Classes/TiUILabelProxy.m": {
+			"hash": "f5395743205073355d7d7e27c14ad6bd",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1848
+		},
+		"6.2.1.GA/iphone/Classes/TiUIListItem.h": {
+			"hash": "3e4ec7ff9bc45e0ba98ad830576fc337",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1212
+		},
+		"6.2.1.GA/iphone/Classes/TiUIListItem.m": {
+			"hash": "6afe1b1f4717b8cd4660b082ea0b311d",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 22304
+		},
+		"6.2.1.GA/iphone/Classes/TiUIListItemProxy.h": {
+			"hash": "2592008e9dbdeac78e053075c86ed2ce",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 717
+		},
+		"6.2.1.GA/iphone/Classes/TiUIListItemProxy.m": {
+			"hash": "ece37419182f872fe5c01cf9bf062cba",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 4254
+		},
+		"6.2.1.GA/iphone/Classes/TiUIListSectionProxy.h": {
+			"hash": "d1b5747ffab0227dc374658b4d595916",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1363
+		},
+		"6.2.1.GA/iphone/Classes/TiUIListSectionProxy.m": {
+			"hash": "9c081541919e34955bfeeee3c6be1e23",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 14747
+		},
+		"6.2.1.GA/iphone/Classes/TiUIListView.h": {
+			"hash": "bc8875a2cb55d4cedc171b5f81738e4c",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1404
+		},
+		"6.2.1.GA/iphone/Classes/TiUIListView.m": {
+			"hash": "3a70f41f970b86ebe456f05ab4b4b08d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 90587
+		},
+		"6.2.1.GA/iphone/Classes/TiUIListViewProxy.h": {
+			"hash": "2133e9992e3feece70e4a34c76c55499",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 739
+		},
+		"6.2.1.GA/iphone/Classes/TiUIListViewProxy.m": {
+			"hash": "aa226214443c52e31709cec61cd907b2",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 19885
+		},
+		"6.2.1.GA/iphone/Classes/TiUIMaskedImage.h": {
+			"hash": "837290fd62a57d2c0aa6974aa3f965a7",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 462
+		},
+		"6.2.1.GA/iphone/Classes/TiUIMaskedImage.m": {
+			"hash": "be67b3eed453626833235d18a00cb79d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2883
+		},
+		"6.2.1.GA/iphone/Classes/TiUIMaskedImageProxy.h": {
+			"hash": "4833b19fe2b6dec102afadae73adf516",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 367
+		},
+		"6.2.1.GA/iphone/Classes/TiUIMaskedImageProxy.m": {
+			"hash": "5c738207a91e98021eed2548f90fb0aa",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 641
+		},
+		"6.2.1.GA/iphone/Classes/TiUINavBarButton.h": {
+			"hash": "a975faf4db05719ca8204a771054c772",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 532
+		},
+		"6.2.1.GA/iphone/Classes/TiUINavBarButton.m": {
+			"hash": "37778b99b0e0bc5e708c4d85b4fa07ac",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 6702
+		},
+		"6.2.1.GA/iphone/Classes/TiUIOptionDialogProxy.h": {
+			"hash": "8dce84d4407214eb6584050a111bbfab",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 794
+		},
+		"6.2.1.GA/iphone/Classes/TiUIOptionDialogProxy.m": {
+			"hash": "e06301e816365f3283a9a4b2777d4756",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 10825
+		},
+		"6.2.1.GA/iphone/Classes/TiUIPicker.h": {
+			"hash": "cb60fa313a9ffe60bccb07153c9dbabf",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 875
+		},
+		"6.2.1.GA/iphone/Classes/TiUIPicker.m": {
+			"hash": "185f569e073530fb13bfcbedd415c4fb",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 13826
+		},
+		"6.2.1.GA/iphone/Classes/TiUIPickerColumnProxy.h": {
+			"hash": "22b440d8ae9ef09a8a2ec3022d079b83",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 634
+		},
+		"6.2.1.GA/iphone/Classes/TiUIPickerColumnProxy.m": {
+			"hash": "a12625cf4111b2a724d3dc203281c9f2",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1153
+		},
+		"6.2.1.GA/iphone/Classes/TiUIPickerProxy.h": {
+			"hash": "5d45d549916b1e9bcee69f9f07a728c0",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 445
+		},
+		"6.2.1.GA/iphone/Classes/TiUIPickerProxy.m": {
+			"hash": "ad76262a9401421972720c96e3452d1f",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 9380
+		},
+		"6.2.1.GA/iphone/Classes/TiUIPickerRowProxy.h": {
+			"hash": "c4ff0b11277d7f4ee63b947f1ecf429a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 454
+		},
+		"6.2.1.GA/iphone/Classes/TiUIPickerRowProxy.m": {
+			"hash": "52275c948dfece9ae9350d8edae7fa03",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 3950
+		},
+		"6.2.1.GA/iphone/Classes/TiUIProgressBar.h": {
+			"hash": "afb6eedc7e9b18bfa459a69f9ef940da",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 679
+		},
+		"6.2.1.GA/iphone/Classes/TiUIProgressBar.m": {
+			"hash": "77afa28fc1b10e30d1eb3585017ddba4",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 5901
+		},
+		"6.2.1.GA/iphone/Classes/TiUIProgressBarProxy.h": {
+			"hash": "a297067732746d2a4bed6cf95c5ce905",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 356
+		},
+		"6.2.1.GA/iphone/Classes/TiUIProgressBarProxy.m": {
+			"hash": "1c40392c98094e2f93ce05005556431e",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1123
+		},
+		"6.2.1.GA/iphone/Classes/TiUIRefreshControlProxy.h": {
+			"hash": "dfc8a31527b4f8ec5423c27f558178fb",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 450
+		},
+		"6.2.1.GA/iphone/Classes/TiUIRefreshControlProxy.m": {
+			"hash": "9ec331a871b9587ae8bca12430ee74c7",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 2529
+		},
+		"6.2.1.GA/iphone/Classes/TiUIScrollView.h": {
+			"hash": "d0848a62a12d199c440b20d5468f4be8",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1474
+		},
+		"6.2.1.GA/iphone/Classes/TiUIScrollView.m": {
+			"hash": "78ab8c9b14b2bdcf2ca819482477120d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 16437
+		},
+		"6.2.1.GA/iphone/Classes/TiUIScrollViewProxy.h": {
+			"hash": "3636dab20d934a25f27507d04e2d0364",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 520
+		},
+		"6.2.1.GA/iphone/Classes/TiUIScrollViewProxy.m": {
+			"hash": "71c8a14f90889107e0cf52743b7a3251",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 15284
+		},
+		"6.2.1.GA/iphone/Classes/TiUIScrollableView.h": {
+			"hash": "70962dbeae4f20818a0e49d9ccb74d94",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1611
+		},
+		"6.2.1.GA/iphone/Classes/TiUIScrollableView.m": {
+			"hash": "716ee5619da9d20039c650125ad76c61",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 29450
+		},
+		"6.2.1.GA/iphone/Classes/TiUIScrollableViewProxy.h": {
+			"hash": "5712bf1bb80fc0f778af3a6888cdc0d5",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 631
+		},
+		"6.2.1.GA/iphone/Classes/TiUIScrollableViewProxy.m": {
+			"hash": "ac6666ab0cbe26536ace93852dcbd42c",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 9932
+		},
+		"6.2.1.GA/iphone/Classes/TiUISearchBar.h": {
+			"hash": "e629baca266ce0030520f21fd3410998",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 719
+		},
+		"6.2.1.GA/iphone/Classes/TiUISearchBar.m": {
+			"hash": "e2807b755f85ba6c1fb2e887bcd71b32",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 8914
+		},
+		"6.2.1.GA/iphone/Classes/TiUISearchBarProxy.h": {
+			"hash": "a1604669fb0236c1ef86abb112c645a4",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 895
+		},
+		"6.2.1.GA/iphone/Classes/TiUISearchBarProxy.m": {
+			"hash": "9fd260f08be3c0090b1c63d2801fd1c3",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2756
+		},
+		"6.2.1.GA/iphone/Classes/TiUISlider.h": {
+			"hash": "64e526e055540e7d2811dc9071375f08",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 911
+		},
+		"6.2.1.GA/iphone/Classes/TiUISlider.m": {
+			"hash": "6bd7d938e69195a79e9ebdb89abe97fb",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 10204
+		},
+		"6.2.1.GA/iphone/Classes/TiUISliderProxy.h": {
+			"hash": "d6839e17624a3fa473e297a6064e581e",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 347
+		},
+		"6.2.1.GA/iphone/Classes/TiUISliderProxy.m": {
+			"hash": "5b052131091ea019ad320670ebbd823b",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1820
+		},
+		"6.2.1.GA/iphone/Classes/TiUISwitch.h": {
+			"hash": "cd73adb69b14e6cb33124ceda37a0b7a",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 447
+		},
+		"6.2.1.GA/iphone/Classes/TiUISwitch.m": {
+			"hash": "60c2abdb5e471a254d1e872047ed807a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 4584
+		},
+		"6.2.1.GA/iphone/Classes/TiUISwitchProxy.h": {
+			"hash": "c7220035ab74db9c562a9a1c3a1efad0",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 314
+		},
+		"6.2.1.GA/iphone/Classes/TiUISwitchProxy.m": {
+			"hash": "9e4ad6cd42a2cbb104bfbd2afd03926d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1093
+		},
+		"6.2.1.GA/iphone/Classes/TiUITabGroup.h": {
+			"hash": "2850b50205dc14e335c77806c618cf37",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1261
+		},
+		"6.2.1.GA/iphone/Classes/TiUITabGroup.m": {
+			"hash": "160e81b629444c9db663774a947d73c2",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 22591
+		},
+		"6.2.1.GA/iphone/Classes/TiUITabGroupProxy.h": {
+			"hash": "7dc2212d1132335268e31c9306a53584",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 563
+		},
+		"6.2.1.GA/iphone/Classes/TiUITabGroupProxy.m": {
+			"hash": "2771d502dd994903e0a3d0158e99f33c",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 8303
+		},
+		"6.2.1.GA/iphone/Classes/TiUITabProxy.h": {
+			"hash": "1fe4aae0dec8104d9c1f565d464c2532",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1610
+		},
+		"6.2.1.GA/iphone/Classes/TiUITabProxy.m": {
+			"hash": "25cb3b0a3dd960fd39ca18750200b51a",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 26595
+		},
+		"6.2.1.GA/iphone/Classes/TiUITableView.h": {
+			"hash": "c483e55f24126164ced951b78be37cd1",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 3763
+		},
+		"6.2.1.GA/iphone/Classes/TiUITableView.m": {
+			"hash": "fdc97859714d10db6cacab339dbdc43b",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 96054
+		},
+		"6.2.1.GA/iphone/Classes/TiUITableViewAction.h": {
+			"hash": "d8ead7a24401205fd4bae863ead1ec2c",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1232
+		},
+		"6.2.1.GA/iphone/Classes/TiUITableViewAction.m": {
+			"hash": "b4c17b0e6866377ad25ed04507b4299c",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1191
+		},
+		"6.2.1.GA/iphone/Classes/TiUITableViewProxy.h": {
+			"hash": "793872ffd28f9cfd08e37bcaf95f75d4",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1387
+		},
+		"6.2.1.GA/iphone/Classes/TiUITableViewProxy.m": {
+			"hash": "900d6d28418fdbb42871a7cd6eaddc62",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 34518
+		},
+		"6.2.1.GA/iphone/Classes/TiUITableViewRowProxy.h": {
+			"hash": "3422bb52ac23c46fdf04291dd3ea820f",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1948
+		},
+		"6.2.1.GA/iphone/Classes/TiUITableViewRowProxy.m": {
+			"hash": "dab52b27a0f1f9870e422b99a9d0e459",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 30079
+		},
+		"6.2.1.GA/iphone/Classes/TiUITableViewSectionProxy.h": {
+			"hash": "4720283a65460443ce3b57e991eca92d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1040
+		},
+		"6.2.1.GA/iphone/Classes/TiUITableViewSectionProxy.m": {
+			"hash": "0cb6ac1bb514f92c011349132c441fcf",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3486
+		},
+		"6.2.1.GA/iphone/Classes/TiUITextArea.h": {
+			"hash": "8c07aad3aee2b8542a7715b69bf41ab0",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 753
+		},
+		"6.2.1.GA/iphone/Classes/TiUITextArea.m": {
+			"hash": "6d64b7ad9a2363fbbd54ad48a2a00d6f",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 14521
+		},
+		"6.2.1.GA/iphone/Classes/TiUITextAreaProxy.h": {
+			"hash": "4365e8a67899b87c90870bce5fe826dd",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 368
+		},
+		"6.2.1.GA/iphone/Classes/TiUITextAreaProxy.m": {
+			"hash": "6679aa5ef69881cfb9ee876b1fe576f8",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 953
+		},
+		"6.2.1.GA/iphone/Classes/TiUITextField.h": {
+			"hash": "0939ece0b4e19f43f654d7422ff94f18",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 989
+		},
+		"6.2.1.GA/iphone/Classes/TiUITextField.m": {
+			"hash": "8878023e8cf7bff93c0a15765f4032bb",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 16745
+		},
+		"6.2.1.GA/iphone/Classes/TiUITextFieldProxy.h": {
+			"hash": "acfa3637f085aca6ccf709c305754861",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 371
+		},
+		"6.2.1.GA/iphone/Classes/TiUITextFieldProxy.m": {
+			"hash": "afbdd5abf3f3a74e3e1783e23e10ca91",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1877
+		},
+		"6.2.1.GA/iphone/Classes/TiUITextWidget.h": {
+			"hash": "d95742f08ae275beba0f1fb7493bdbb5",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1075
+		},
+		"6.2.1.GA/iphone/Classes/TiUITextWidget.m": {
+			"hash": "bce66301af24740dff36e32b3faa0a0e",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 7960
+		},
+		"6.2.1.GA/iphone/Classes/TiUITextWidgetProxy.h": {
+			"hash": "536b85ea8f2bd5644053a77198cf6519",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1023
+		},
+		"6.2.1.GA/iphone/Classes/TiUITextWidgetProxy.m": {
+			"hash": "b4f11121ad3f9dac0ab7cc747bcec377",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 9081
+		},
+		"6.2.1.GA/iphone/Classes/TiUIToolbar.h": {
+			"hash": "aca1c7ac9e9b03edd7c00164c5d683b8",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 627
+		},
+		"6.2.1.GA/iphone/Classes/TiUIToolbar.m": {
+			"hash": "34d3eee2747adc099c225335c44a3547",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 5321
+		},
+		"6.2.1.GA/iphone/Classes/TiUIToolbarProxy.h": {
+			"hash": "8a896f78d8c333aaf17d18b5aa52b2bd",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 564
+		},
+		"6.2.1.GA/iphone/Classes/TiUIToolbarProxy.m": {
+			"hash": "e4daf365fe0783c80a2d27d1a8e61f09",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 2515
+		},
+		"6.2.1.GA/iphone/Classes/TiUIView.h": {
+			"hash": "f0c839bd099aa09d016958eb4f558438",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 8788
+		},
+		"6.2.1.GA/iphone/Classes/TiUIView.m": {
+			"hash": "2f8f12c83b1dec0cb245f3f9456c7eb6",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 46378
+		},
+		"6.2.1.GA/iphone/Classes/TiUIViewProxy.h": {
+			"hash": "24d5a30d9d682684aa425156244883ef",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 314
+		},
+		"6.2.1.GA/iphone/Classes/TiUIViewProxy.m": {
+			"hash": "0cffe8bd23c96e018ed224d7e241a382",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 354
+		},
+		"6.2.1.GA/iphone/Classes/TiUIWebView.h": {
+			"hash": "5d40150298c2322160f97c62b119b222",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1494
+		},
+		"6.2.1.GA/iphone/Classes/TiUIWebView.m": {
+			"hash": "d53d68cd1f018043e7c8c47868592db7",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 36016
+		},
+		"6.2.1.GA/iphone/Classes/TiUIWebViewProxy.h": {
+			"hash": "f24c9f79a2a56c71ccdc2df17ce96ae5",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 594
+		},
+		"6.2.1.GA/iphone/Classes/TiUIWebViewProxy.m": {
+			"hash": "d39546039130ab976193e0d7a36eac15",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 7059
+		},
+		"6.2.1.GA/iphone/Classes/TiUIWindow.h": {
+			"hash": "809fd7e9abe220c29ddb46d54e286a88",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 304
+		},
+		"6.2.1.GA/iphone/Classes/TiUIWindow.m": {
+			"hash": "3ffca956005a50bac41a1946acc33b73",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1199
+		},
+		"6.2.1.GA/iphone/Classes/TiUIWindowProxy.h": {
+			"hash": "097fae52c85abda748789cd64a357d40",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 751
+		},
+		"6.2.1.GA/iphone/Classes/TiUIWindowProxy.m": {
+			"hash": "a1e66a27fd004aa07906d3eb9a35ebb5",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 30578
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSAdView.h": {
+			"hash": "89fb55bb1e5e27d2292033125043518f",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 635
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSAdView.m": {
+			"hash": "82bbfebb43a182e9476f456419c21676",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 4943
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSAdViewProxy.h": {
+			"hash": "d80043a46d023422b90aeb572215bed1",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 571
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSAdViewProxy.m": {
+			"hash": "a3988078de10ffc437cb8049fca4afc4",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2723
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSAnimationStyleProxy.h": {
+			"hash": "d724e3e1b67c96ce525adc6d150db88e",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 626
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSAnimationStyleProxy.m": {
+			"hash": "a0c63b237ba4be9f43707e0ba46043fd",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1095
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSApplicationShortcutsProxy.h": {
+			"hash": "81e71b55902273df9eafb2b7bbb6f73a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 364
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSApplicationShortcutsProxy.m": {
+			"hash": "b00dfc137a3fec22b13e38db222be3a5",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 8201
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSBlurView.h": {
+			"hash": "56e49ac1681ad09288b05a0aabb01736",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 475
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSBlurView.m": {
+			"hash": "68f315a1a9492deea1c88fc87fdaaacf",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 3576
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSBlurViewProxy.h": {
+			"hash": "43c002c7f0c331028b426f3d4af067bc",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 355
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSBlurViewProxy.m": {
+			"hash": "a3ce67229ef81037b1e15044de930500",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 630
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSCoverFlowView.h": {
+			"hash": "b97757ed87f33574eef454b9f9d34051",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 683
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSCoverFlowView.m": {
+			"hash": "f1efb581c1328a2e28780ec67dda4dee",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 8018
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSCoverFlowViewProxy.h": {
+			"hash": "a2da4964874537a08fa5bb411e09fd92",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 367
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSCoverFlowViewProxy.m": {
+			"hash": "85b3ea97d564297b23e3acec9cc7f047",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 972
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSDocumentViewerProxy.h": {
+			"hash": "c7bdefe194cb0c74b20d4848470f06a8",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 584
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSDocumentViewerProxy.m": {
+			"hash": "f801e482340186aa5567b1dbacbe3cd9",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 4233
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSFeedbackGeneratorProxy.h": {
+			"hash": "3a175ead36a6d25335263c3a737e651d",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1793
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSFeedbackGeneratorProxy.m": {
+			"hash": "bc30b406db30f08733db62104f643885",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 3347
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSLivePhoto.h": {
+			"hash": "b2f697fe630522bac08d927a35b4d7a5",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 382
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSLivePhoto.m": {
+			"hash": "66820839f36493d3d5b3ee0ae4ba8705",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 600
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSLivePhotoView.h": {
+			"hash": "cecf6fd0b383c3b5f3358aafd0554ca3",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 592
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSLivePhotoView.m": {
+			"hash": "0e71de98bc52ce80d7e7b8bf041c4224",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 4647
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSLivePhotoViewProxy.h": {
+			"hash": "f7bfdc8983fc6262b4695b2cf2387717",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 807
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSLivePhotoViewProxy.m": {
+			"hash": "ae80882b7103275796f4df67bdc59f86",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1719
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSMenuPopup.h": {
+			"hash": "2b9babea1364b9db5d0e483c05ef4b81",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 506
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSMenuPopup.m": {
+			"hash": "85f9601ddf88638a4c547d0ce95dd87a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3166
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSMenuPopupProxy.h": {
+			"hash": "333828b7171da89cc41fbb627f87161b",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 722
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSMenuPopupProxy.m": {
+			"hash": "8bdde562c27769f139aa90965e4d6a54",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2862
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSNavWindow.h": {
+			"hash": "e6269bfbee53e003919e468b3b55e98c",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 347
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSNavWindow.m": {
+			"hash": "0991141f0f888cdd50ee31a50ec648d0",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 553
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSNavWindowProxy.h": {
+			"hash": "8abfd9e78bb34df495944c1806b0ba48",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 675
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSNavWindowProxy.m": {
+			"hash": "14ef07377af1d13cd16bcf81cf8dea92",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 15288
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSPreviewActionGroupProxy.h": {
+			"hash": "a95289580b21991c37e1565eb032f7d1",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 931
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSPreviewActionGroupProxy.m": {
+			"hash": "29248401737cfa339630165ccd5f8871",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1385
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSPreviewActionProxy.h": {
+			"hash": "5e8f0ab6ff0d93caf5248e85293d820a",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1128
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSPreviewActionProxy.m": {
+			"hash": "422093edf35520e4f807821814a91c29",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1989
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSPreviewContextProxy.h": {
+			"hash": "266def6be7ccd78621aa5787189d5fb3",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 920
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSPreviewContextProxy.m": {
+			"hash": "41168aa74c986ef553ddf0aa47f10cc1",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2538
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSProgressBarStyleProxy.h": {
+			"hash": "6104121056d8af5313582c373964342d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 511
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSProgressBarStyleProxy.m": {
+			"hash": "efb7f979a0f58c90101353a9f13c8f2c",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 614
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSProxy.h": {
+			"hash": "bfbbf1a99cc9cf5233e4acb268cfe805",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 7927
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSProxy.m": {
+			"hash": "b10000a49ba9948441ccc8ac148253b1",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 25823
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSRowAnimationStyleProxy.h": {
+			"hash": "213eb1eca77445a661607d5e9a1fd671",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 795
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSRowAnimationStyleProxy.m": {
+			"hash": "6674101bb860a08dae5da49f4d893805",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 910
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSScrollIndicatorStyleProxy.h": {
+			"hash": "ff0f6ec3ba26a86315935e24c13b7c5f",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 535
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSScrollIndicatorStyleProxy.m": {
+			"hash": "755a498bb83adb63f2113ccc715ac68a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 655
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSSplitWindow.h": {
+			"hash": "e42d434ab4313d7c302b0c4978a74d9a",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 846
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSSplitWindow.m": {
+			"hash": "de9f581c0feefad99cb821fb96bde095",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 11457
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSSplitWindowProxy.h": {
+			"hash": "6ec29fcb2e9027b3f92552dc9cfb5aa8",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 358
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSSplitWindowProxy.m": {
+			"hash": "53b2ee37ea23dd7a3944a953b60e59a5",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 8270
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSStatusBarProxy.h": {
+			"hash": "00283d186ce377dcc99b28a7d3f9946a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 741
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSStatusBarProxy.m": {
+			"hash": "3237d9d20f2c9d1fc148b6f0295a9fc0",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 844
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSStepper.h": {
+			"hash": "943f07a77886fb3e783db30e5e486a97",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 452
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSStepper.m": {
+			"hash": "916687cd4fd1ce12898ba4e31e08f962",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 8778
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSStepperProxy.h": {
+			"hash": "498cd458d868302475e2872c0fcaa74c",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 347
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSStepperProxy.m": {
+			"hash": "92b8427a55b7d815dc04ebe123ae29fe",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 788
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSSystemButtonProxy.h": {
+			"hash": "6e9e1df9438bd816dbd9e2911e775bff",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1708
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSSystemButtonProxy.m": {
+			"hash": "38c89dd281331f2afeab7d6ee543ebf2",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1951
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSSystemButtonStyleProxy.h": {
+			"hash": "3d42fd86178e4650bd803ae79fdca632",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 515
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSSystemButtonStyleProxy.m": {
+			"hash": "18a190208df92bdf2301ed37c3e7f3f9",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 623
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSSystemIconProxy.h": {
+			"hash": "66ee94c59c3aabd9401c97ea17b5a42a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 960
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSSystemIconProxy.m": {
+			"hash": "fc2dc4cb43f5ebeb7506cf8e2596b213",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1170
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSTabbedBarProxy.h": {
+			"hash": "b5a4107fa76063f245f3da51659a822a",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 355
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSTabbedBarProxy.m": {
+			"hash": "7fdd2e7eae0ef92d3f1baf0413d7f87a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1043
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSTableViewCellSelectionStyleProxy.h": {
+			"hash": "360dd13c863b1bc87de9131056de4f20",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 588
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSTableViewCellSelectionStyleProxy.m": {
+			"hash": "47dc05a250e1d286ce2c3ccdf298eafc",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 740
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSTableViewScrollPositionProxy.h": {
+			"hash": "1239a556f53afa2fa4c0c464ec1a9d9c",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 638
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSTableViewScrollPositionProxy.m": {
+			"hash": "d3394fcaafad2a7bd20d4f07055193ee",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 772
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSTableViewStyleProxy.h": {
+			"hash": "78aede1fcfe9ef138a64ff35e218a244",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 501
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSTableViewStyleProxy.m": {
+			"hash": "51e6583ec7dd932c9085b39eed9ed67d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 595
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSTransitionAnimationProxy.h": {
+			"hash": "12747cf605302a1b961d3f746437d644",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 644
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiOSTransitionAnimationProxy.m": {
+			"hash": "5652efc53dd0bfcd3cfbeed6e5fd94b3",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 5992
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPadPopoverProxy.h": {
+			"hash": "45e7a65a1f4ca8314eb6c79a7c656c3e",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1206
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPadPopoverProxy.m": {
+			"hash": "940452f04d609b0e17a02bc03a9b7aa2",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 16188
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPadProxy.h": {
+			"hash": "1baca75d8a402339f809f0fc335f0f75",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 903
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPadProxy.m": {
+			"hash": "9ceadea04ed05e6f73ddf1c158d672fd",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1263
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneActivityIndicatorStyleProxy.h": {
+			"hash": "94d4e7bd12fd6a6c6353c4c1ccc57dd1",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 522
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneActivityIndicatorStyleProxy.m": {
+			"hash": "1a6decdcf95bf38419adf1c9fdd88ac3",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1000
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneAlertDialogStyleProxy.h": {
+			"hash": "281bf5b1e65df3c8890ff05677c3cd05",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 608
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneAlertDialogStyleProxy.m": {
+			"hash": "f14ab35d59e52d427a74540dead9c074",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1226
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneAnimationStyleProxy.h": {
+			"hash": "d06f3cb3cd38ec928ce7dbed9c6414d6",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 629
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneAnimationStyleProxy.m": {
+			"hash": "a5b7b75587758d9aee7f5586a0770b54",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1386
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneListViewCellSelectionStyleProxy.h": {
+			"hash": "b2243f996ed48a50f5e14b85e3e370b0",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 540
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneListViewCellSelectionStyleProxy.m": {
+			"hash": "3451af75e2440562974ade68ad2ca1ce",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1049
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneListViewScrollPositionProxy.h": {
+			"hash": "a7ec2f4a1658b2be6bebedcd07d9fc42",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 581
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneListViewScrollPositionProxy.m": {
+			"hash": "1e0c1ffe31fa7462659c634cad32f779",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1165
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneListViewSeparatorStyleProxy.h": {
+			"hash": "2fcf241f72cb8abeee1bf3bbe7b18674",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 483
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneListViewSeparatorStyleProxy.m": {
+			"hash": "63bbd2e1b070760bdc1594c651646d91",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 942
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneListViewStyleProxy.h": {
+			"hash": "51aa70bcc70f2bd6bb328d509aeeaf21",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 462
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneListViewStyleProxy.m": {
+			"hash": "e91148180fb3e0e519144036df7c6207",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 748
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneProgressBarStyleProxy.h": {
+			"hash": "d2061cb585a2b9d40cf6481ddc7de28c",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 513
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneProgressBarStyleProxy.m": {
+			"hash": "f72030ce0dea745c0c246ad758b5f4af",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 920
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneProxy.h": {
+			"hash": "82930a0ed18930d30617a1d48ebae7cd",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 4415
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneProxy.m": {
+			"hash": "52a3f2bef694aa2a3a1761a1f95f9673",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 10904
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneRowAnimationStyleProxy.h": {
+			"hash": "0bea45dacd6863ef19856ec469ca5f75",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 797
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneRowAnimationStyleProxy.m": {
+			"hash": "f523ce62f9a193f6f84301c9dd4e1e33",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1515
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneScrollIndicatorStyleProxy.h": {
+			"hash": "52ec4f6bbaae0ffbb215df58ebd0f939",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 533
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneScrollIndicatorStyleProxy.m": {
+			"hash": "ca7dfefea26104b4c367449fd0281c82",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 989
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneStatusBarProxy.h": {
+			"hash": "5ae495a94e7414da9d3339065ad16a60",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 856
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneStatusBarProxy.m": {
+			"hash": "db3768222fbe0b7b71c7d26fcfdc24e5",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1916
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneSystemButtonProxy.h": {
+			"hash": "6c7235bb0d11ddaf295d5c9eac40f994",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1710
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneSystemButtonProxy.m": {
+			"hash": "7ad1faecbf5cf5495ad3ef416db43b59",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 4565
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneSystemButtonStyleProxy.h": {
+			"hash": "3bc24fe63a12a8e642a57a5647ea1065",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 583
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneSystemButtonStyleProxy.m": {
+			"hash": "5a361cc3f9727b3d01dfadae5caaaad0",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 941
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneSystemIconProxy.h": {
+			"hash": "55989de212127e9222e026b63216e08d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 962
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneSystemIconProxy.m": {
+			"hash": "973b55d37a30d4bedd60dfef41c9ff1d",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 2253
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneTableViewCellSelectionStyleProxy.h": {
+			"hash": "c2cc7222e07ea224fb70c071d86ca957",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 602
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneTableViewCellSelectionStyleProxy.m": {
+			"hash": "fa5b6db2a8a1a7725b0b340de37821b5",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1120
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneTableViewScrollPositionProxy.h": {
+			"hash": "28bed05915c375b6d927df51453ddb35",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 639
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneTableViewScrollPositionProxy.m": {
+			"hash": "aa1458d11e83ccb903f6a5f44fd96405",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1233
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneTableViewSeparatorStyleProxy.h": {
+			"hash": "2456b2d29ca30adb088116e6bff6f49c",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 541
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneTableViewSeparatorStyleProxy.m": {
+			"hash": "24d88f20e9a0c67a5f1dc0df8613b26a",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1004
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneTableViewStyleProxy.h": {
+			"hash": "6e0194d5d22bee3fb59fe821580a05e9",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 510
+		},
+		"6.2.1.GA/iphone/Classes/TiUIiPhoneTableViewStyleProxy.m": {
+			"hash": "0b5845c2047e825615a1010ae3d7e8c2",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 802
+		},
+		"6.2.1.GA/iphone/Classes/TiUtils.h": {
+			"hash": "2ebaf1f7de1fc2942425db3cbe908fde",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 24440
+		},
+		"6.2.1.GA/iphone/Classes/TiUtils.m": {
+			"hash": "02e57a95e240c673747cace02ce6775a",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 64265
+		},
+		"6.2.1.GA/iphone/Classes/TiViewAttachBehavior.h": {
+			"hash": "6c3b246d843a72ddbccc0061dbd78698",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1083
+		},
+		"6.2.1.GA/iphone/Classes/TiViewAttachBehavior.m": {
+			"hash": "d453627befc70665a6f22f966b223648",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 6425
+		},
+		"6.2.1.GA/iphone/Classes/TiViewController.h": {
+			"hash": "1f8edffbdb7fcaf6bed937b27c9477b5",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 551
+		},
+		"6.2.1.GA/iphone/Classes/TiViewController.m": {
+			"hash": "5fb9c674c79e91d1ba791c03aee1d535",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 7261
+		},
+		"6.2.1.GA/iphone/Classes/TiViewProxy.h": {
+			"hash": "73fe8b078ba5653d8211a0b7a666dce4",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 16324
+		},
+		"6.2.1.GA/iphone/Classes/TiViewProxy.m": {
+			"hash": "d0265cc27502431c983ce9310c13a05e",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 94875
+		},
+		"6.2.1.GA/iphone/Classes/TiViewTemplate.h": {
+			"hash": "63c39a035c6d9450b45d2c6915b6da17",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 653
+		},
+		"6.2.1.GA/iphone/Classes/TiViewTemplate.m": {
+			"hash": "6f3c461687d89c944bf2a4855a371107",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 3695
+		},
+		"6.2.1.GA/iphone/Classes/TiWindowProxy.h": {
+			"hash": "aa42e4026cc98213890ccb78dd26204a",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 1273
+		},
+		"6.2.1.GA/iphone/Classes/TiWindowProxy.m": {
+			"hash": "7d9f03c79c2bdf7fabf4018a0e50bd14",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 27473
+		},
+		"6.2.1.GA/iphone/Classes/TopTiModule.h": {
+			"hash": "120c56df0c1a64756460608e29c6fe89",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 306
+		},
+		"6.2.1.GA/iphone/Classes/TopTiModule.m": {
+			"hash": "c6097f9c9f9b8d8442a51f467bec1ec8",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 5286
+		},
+		"6.2.1.GA/iphone/Classes/UIImage+Alpha.h": {
+			"hash": "a967af1a413cd1225cb17669602b3a41",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 590
+		},
+		"6.2.1.GA/iphone/Classes/UIImage+Alpha.m": {
+			"hash": "23468a44f66f08477c82d27979a86dd9",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 5886
+		},
+		"6.2.1.GA/iphone/Classes/UIImage+Resize.h": {
+			"hash": "79b2820f9e1b00b281a2ecbaf1798baf",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1261
+		},
+		"6.2.1.GA/iphone/Classes/UIImage+Resize.m": {
+			"hash": "89bbead32451cc36f8ed642675afa72b",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 10280
+		},
+		"6.2.1.GA/iphone/Classes/UIImage+RoundedCorner.h": {
+			"hash": "189564548aa9be94fa6971f9aba81b7e",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 497
+		},
+		"6.2.1.GA/iphone/Classes/UIImage+RoundedCorner.m": {
+			"hash": "46932bf1e348316af6136d53f3ddb9ff",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 3367
+		},
+		"6.2.1.GA/iphone/Classes/UIModule.h": {
+			"hash": "44e2b8675c9496b53d8c0c7bab800aaf",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 13776
+		},
+		"6.2.1.GA/iphone/Classes/UIModule.m": {
+			"hash": "93b5a2249986f89c0b1ad02e70d65a59",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 21692
+		},
+		"6.2.1.GA/iphone/Classes/UtilsModule.h": {
+			"hash": "8ac3901bae9817b35b82f75987ba2a21",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 345
+		},
+		"6.2.1.GA/iphone/Classes/UtilsModule.m": {
+			"hash": "ba64259ca6d97329c4609c04fe59ceef",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 3446
+		},
+		"6.2.1.GA/iphone/Classes/WatchSessionModule.h": {
+			"hash": "59780820f57d2ee503078fdff2454493",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 624
+		},
+		"6.2.1.GA/iphone/Classes/WatchSessionModule.m": {
+			"hash": "420ee0c9df97b443f09d1f0decf9dac7",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 16090
+		},
+		"6.2.1.GA/iphone/Classes/WebFont.h": {
+			"hash": "bcd1bb3a10a5234601f8cab7ffa4015c",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 2850
+		},
+		"6.2.1.GA/iphone/Classes/WebFont.m": {
+			"hash": "3da4cf9ab8f29de2d3839978962c806a",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 16655
+		},
+		"6.2.1.GA/iphone/Classes/Webcolor.h": {
+			"hash": "8949bbdccfc46c5e007a79e28905b430",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 1383
+		},
+		"6.2.1.GA/iphone/Classes/Webcolor.m": {
+			"hash": "0765131cedd266b280eb6939492b152c",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 7322
+		},
+		"6.2.1.GA/iphone/Classes/XHRBridge.h": {
+			"hash": "07891461ff5685be108f84cc9b9faf37",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 475
+		},
+		"6.2.1.GA/iphone/Classes/XHRBridge.m": {
+			"hash": "57a62c2aba16a7bcea6a1949b0149bec",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 6169
+		},
+		"6.2.1.GA/iphone/Classes/XMLModule.h": {
+			"hash": "d0b67d7846b295b62e3e3c50870ef496",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 331
+		},
+		"6.2.1.GA/iphone/Classes/XMLModule.m": {
+			"hash": "d0a32a108a02bf11d427a80c8936c8bd",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 3652
+		},
+		"6.2.1.GA/iphone/Classes/YahooModule.h": {
+			"hash": "a15cc69fdfbfabd3b3e40b0ff33d52dd",
+			"mtime": "2017-09-20T16:51:29.000Z",
+			"size": 598
+		},
+		"6.2.1.GA/iphone/Classes/YahooModule.m": {
+			"hash": "d5c7172b5b166d3d68a84df9b3d37496",
+			"mtime": "2017-09-20T16:51:30.000Z",
+			"size": 6350
+		},
+		"6.2.1.GA/iphone/headers/JavaScriptCore/Ti.h": {
+			"hash": "9c75639db60c4db02fbe16dbd65ce343",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 1865
+		},
+		"6.2.1.GA/iphone/headers/JavaScriptCore/TiBase.h": {
+			"hash": "9a39e6c14997d51ee7c19592117db148",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 7264
+		},
+		"6.2.1.GA/iphone/headers/JavaScriptCore/TiContext.h": {
+			"hash": "95dfbfb3baf17ed4a85ebf0c1f66212d",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 8165
+		},
+		"6.2.1.GA/iphone/headers/JavaScriptCore/TiContextRef.h": {
+			"hash": "004a93e80cc5e9366b68fe8cd274ff2b",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 6323
+		},
+		"6.2.1.GA/iphone/headers/JavaScriptCore/TiCore.h": {
+			"hash": "b8b870c2793e4f03c073a7f424351817",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 1887
+		},
+		"6.2.1.GA/iphone/headers/JavaScriptCore/TiExport.h": {
+			"hash": "6c9e1c333510e952571ce60284495555",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 6965
+		},
+		"6.2.1.GA/iphone/headers/JavaScriptCore/TiManagedValue.h": {
+			"hash": "1d4ffef2e2b94496c496b222e71dc0eb",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 3224
+		},
+		"6.2.1.GA/iphone/headers/JavaScriptCore/TiObjectRef.h": {
+			"hash": "8fce6a9c34cb602dbe430ef35c28186a",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 38174
+		},
+		"6.2.1.GA/iphone/headers/JavaScriptCore/TiStringRef.h": {
+			"hash": "49c85b5184347ef2f858e3fbb4e117c4",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 5927
+		},
+		"6.2.1.GA/iphone/headers/JavaScriptCore/TiStringRefCF.h": {
+			"hash": "1ada11bb90c323f60d9cadd814df1111",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 2660
+		},
+		"6.2.1.GA/iphone/headers/JavaScriptCore/TiValue.h": {
+			"hash": "c92c639efb821a4ef449184e7c2199f9",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 22902
+		},
+		"6.2.1.GA/iphone/headers/JavaScriptCore/TiValueRef.h": {
+			"hash": "66f80f5738ed013e6ccd5de9307a9aef",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 13063
+		},
+		"6.2.1.GA/iphone/headers/JavaScriptCore/TiVirtualMachine.h": {
+			"hash": "e8c7210a4763d94cf441038a0846ee49",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 3461
+		},
+		"6.2.1.GA/iphone/headers/JavaScriptCore/WebKitAvailability.h": {
+			"hash": "f75025d17d081e4e279859684e074106",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 33468
+		},
+		"6.2.1.GA/iphone/iphone/Titanium_Prefix.pch": {
+			"hash": "ae87f9bb079bc5b6d80e4ac9b6cfe9c9",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 375
+		},
+		"6.2.1.GA/iphone/iphone/Titanium.xcodeproj/xcshareddata/xcschemes/Titanium.xcscheme": {
+			"hash": "637d1bb8a200e9a6e2320e92901f6497",
+			"mtime": "2017-09-20T16:51:28.000Z",
+			"size": 3315
+		},
+		"DefaultIcon.png": {
+			"hash": "e08f3554af6af929c26e1df6ba4ee578",
+			"mtime": "2018-04-09T14:24:52.878Z",
+			"size": 247311
+		},
+		"KS_nav_ui.png": {
+			"hash": "44b858efb4281fd3445f546578c0416e",
+			"mtime": "2018-02-24T21:02:45.997Z",
+			"size": 1158
+		},
+		"KS_nav_views.png": {
+			"hash": "255898b8828b2933109ae3964c07bace",
+			"mtime": "2018-02-24T21:02:45.998Z",
+			"size": 1074
+		},
+		"assets/Areas/Bathroom/Bathroom/aleeliikaani.mp3": {
+			"hash": "8195a8b21e2dc7e51d80ce16c9cf4278",
+			"mtime": "2018-03-28T02:29:41.596Z",
+			"size": 44720
+		},
+		"assets/Areas/Bathroom/Bathroom/aleeliikaaninki$i_iiyaayaani.mp3": {
+			"hash": "e83cc51571948b1b51e7bacb15512dcd",
+			"mtime": "2018-03-01T20:48:17.784Z",
+			"size": 58095
+		},
+		"assets/Areas/Bathroom/Bathroom/bathroom.png": {
+			"hash": "acff13f70eee0e091933a91d2c425cac",
+			"mtime": "2018-02-24T21:02:46.429Z",
+			"size": 113664
+		},
+		"assets/Areas/Bathroom/Bathroom/bathroom00_bathroom.mp3": {
+			"hash": "49fc478d8e9a61e73afc208b3603d2de",
+			"mtime": "2018-02-24T21:02:46.430Z",
+			"size": 24371
+		},
+		"assets/Areas/Bathroom/Bathroom/bathroom01_go_look_in_the_bathroom.mp3": {
+			"hash": "44861763926384ba83e74ee15d60bfee",
+			"mtime": "2018-02-24T21:02:46.432Z",
+			"size": 63442
+		},
+		"assets/Areas/Bathroom/Bathroom/bathroom02_she_is_in_the_bathroom.mp3": {
+			"hash": "d9cbfcfd118230265016efe18a899962",
+			"mtime": "2018-02-24T21:02:46.427Z",
+			"size": 57695
+		},
+		"assets/Areas/Bathroom/Bathroom/bathroom_translation.txt": {
+			"hash": "24bf0424bdee9f7c2c09f4d5754c4cd9",
+			"mtime": "2018-02-24T21:02:46.434Z",
+			"size": 94
+		},
+		"assets/Areas/Bathroom/Bathroom/kiisimitiwiaani.mp3": {
+			"hash": "2f034d43de2e0b53cfa18cca5e69c76c",
+			"mtime": "2018-03-01T20:48:33.866Z",
+			"size": 44720
+		},
+		"assets/Areas/Bathroom/Bathtub/aleeliihaakani.mp3": {
+			"hash": "866fad8c3c8234610e258e069804ab67",
+			"mtime": "2018-03-01T20:50:00.411Z",
+			"size": 40123
+		},
+		"assets/Areas/Bathroom/Bathtub/bathtub.png": {
+			"hash": "4ae48360e2023070ae2c1b50f0ba0f52",
+			"mtime": "2018-02-24T21:02:46.479Z",
+			"size": 55644
+		},
+		"assets/Areas/Bathroom/Bathtub/bathtub_translation.txt": {
+			"hash": "3a01fe5cb74c3b53e74555d0c49a1ccf",
+			"mtime": "2018-02-24T21:02:46.484Z",
+			"size": 92
+		},
+		"assets/Areas/Bathroom/Bathtub/kisahanto_aleeliihaakani.mp3": {
+			"hash": "b590e5f2dc8773c423a026adc072ac30",
+			"mtime": "2018-03-01T20:50:00.418Z",
+			"size": 50572
+		},
+		"assets/Areas/Bathroom/Bathtub/moohkinatoolo_aleeliihaakani.mp3": {
+			"hash": "b8be7e9c0e71c60af8d3d52fb0d3e1a9",
+			"mtime": "2018-03-01T20:50:00.425Z",
+			"size": 56423
+		},
+		"assets/Areas/Bathroom/ColdWater/ayoolo_tahkinkami.mp3": {
+			"hash": "074a76c634daddb97f480704ff64f5e8",
+			"mtime": "2018-03-01T20:50:59.535Z",
+			"size": 40123
+		},
+		"assets/Areas/Bathroom/ColdWater/cold_water.png": {
+			"hash": "a53c68c8e2b67bd3a559aaeb083c275b",
+			"mtime": "2018-02-24T21:02:46.413Z",
+			"size": 20645
+		},
+		"assets/Areas/Bathroom/ColdWater/cold_water_translation.txt": {
+			"hash": "9cb98b4750644672b37a2010647c2213",
+			"mtime": "2018-02-24T21:02:46.411Z",
+			"size": 98
+		},
+		"assets/Areas/Bathroom/ColdWater/maalami_teehkinkamiiki.mp3": {
+			"hash": "b8112ba66c1f50b276495c3adb46daf9",
+			"mtime": "2018-03-01T20:50:59.542Z",
+			"size": 45974
+		},
+		"assets/Areas/Bathroom/ColdWater/teehkinkamiiki.mp3": {
+			"hash": "ec040504657e9d35fa48340aa1f18a6d",
+			"mtime": "2018-03-01T20:50:59.549Z",
+			"size": 31346
+		},
+		"assets/Areas/Bathroom/Comb/comb.png": {
+			"hash": "79ff25fc6df794d2e1f97186c86747fa",
+			"mtime": "2018-02-24T21:02:46.454Z",
+			"size": 185111
+		},
+		"assets/Areas/Bathroom/Comb/comb_translation.txt": {
+			"hash": "b47429d5aa16ea4382c907ce26834f1d",
+			"mtime": "2018-02-24T21:02:46.457Z",
+			"size": 94
+		},
+		"assets/Areas/Bathroom/Comb/ooniini_pinahkwaani_neekaaniwiki.mp3": {
+			"hash": "8423a36722febf21b46a258b6f10f76e",
+			"mtime": "2018-03-01T20:52:39.465Z",
+			"size": 59349
+		},
+		"assets/Areas/Bathroom/Comb/pimpaalitaawi.mp3": {
+			"hash": "d0ee7f4997683b33e148dbb04a303244",
+			"mtime": "2018-03-01T20:52:39.467Z",
+			"size": 22728
+		},
+		"assets/Areas/Bathroom/Comb/pinahkwaani.mp3": {
+			"hash": "e7b544f71de61af0db7f2a3d68b5ffc3",
+			"mtime": "2018-03-28T02:31:02.923Z",
+			"size": 29674
+		},
+		"assets/Areas/Bathroom/Comb/pinahkwaani_keehkinamaani.mp3": {
+			"hash": "624395ccbcc72ffad802740355ba808b",
+			"mtime": "2018-03-01T20:52:39.469Z",
+			"size": 53497
+		},
+		"assets/Areas/Bathroom/Hairbrush/hairbrush.png": {
+			"hash": "0842d43f4410a33e874a514f952a2397",
+			"mtime": "2018-02-24T21:02:46.423Z",
+			"size": 156537
+		},
+		"assets/Areas/Bathroom/Hairbrush/hairbrush_translation.txt": {
+			"hash": "9662a795e01d39ed37330e87fa39df5d",
+			"mtime": "2018-02-24T21:02:46.424Z",
+			"size": 94
+		},
+		"assets/Areas/Bathroom/Hairbrush/piiwahaakani.mp3": {
+			"hash": "66f7ce114b3e1b6daed9fb3210b9c486",
+			"mtime": "2018-03-01T20:53:23.166Z",
+			"size": 35525
+		},
+		"assets/Areas/Bathroom/Hairbrush/piiwahaakani_keehpahki.mp3": {
+			"hash": "eed40ac4c9f868e9f4fc81dc836f36fb",
+			"mtime": "2018-03-01T20:53:23.164Z",
+			"size": 48900
+		},
+		"assets/Areas/Bathroom/Hairbrush/tatankonanto_piiwahaakani.mp3": {
+			"hash": "3ed9acc07e12bf495a7515a0308836f9",
+			"mtime": "2018-03-01T20:53:23.168Z",
+			"size": 54751
+		},
+		"assets/Areas/Bathroom/HotWater/hot_water.png": {
+			"hash": "192171c95436b85c19b213ac1e2b8257",
+			"mtime": "2018-02-24T21:02:46.472Z",
+			"size": 17546
+		},
+		"assets/Areas/Bathroom/HotWater/hot_water_translation.txt": {
+			"hash": "3b6ef80b50e6a86c74b2950375bb6d91",
+			"mtime": "2018-02-24T21:02:46.476Z",
+			"size": 103
+		},
+		"assets/Areas/Bathroom/HotWater/ki$aaphkamiiwi-nko.mp3": {
+			"hash": "620b93c043d2d3184363c37286b71d0d",
+			"mtime": "2018-03-01T20:55:10.275Z",
+			"size": 40123
+		},
+		"assets/Areas/Bathroom/HotWater/kii$aaphkami.mp3": {
+			"hash": "6e643fc0a750f6a0c089455c12deb6b1",
+			"mtime": "2018-03-01T23:25:17.935Z",
+			"size": 35525
+		},
+		"assets/Areas/Bathroom/HotWater/kii$aaphkamiiki.mp3": {
+			"hash": "8e792a1b42ae888737572961abb54612",
+			"mtime": "2018-03-28T02:52:20.220Z",
+			"size": 112848
+		},
+		"assets/Areas/Bathroom/HotWater/maalami_kii$aaphkamiiki.mp3": {
+			"hash": "ba359c718c2d17b3d7dc1c347dda57a0",
+			"mtime": "2018-03-01T20:55:10.276Z",
+			"size": 51826
+		},
+		"assets/Areas/Bathroom/Mirror/keehpahki_waapamooni.mp3": {
+			"hash": "50fd4ebce38f0b7fc1562c4e043d586f",
+			"mtime": "2018-03-01T20:56:10.691Z",
+			"size": 43048
+		},
+		"assets/Areas/Bathroom/Mirror/kisahanto_waapamooni.mp3": {
+			"hash": "54cce56f699f8b17d3a46a35ec316d22",
+			"mtime": "2018-03-01T20:56:10.694Z",
+			"size": 38451
+		},
+		"assets/Areas/Bathroom/Mirror/mirror.png": {
+			"hash": "c915026839487b903d361a8bcdb6e1e9",
+			"mtime": "2018-02-24T21:02:46.508Z",
+			"size": 86845
+		},
+		"assets/Areas/Bathroom/Mirror/mirror_translation.txt": {
+			"hash": "bca53b7c3fbf5ab5b37a797f5253c09f",
+			"mtime": "2018-02-24T21:02:46.515Z",
+			"size": 79
+		},
+		"assets/Areas/Bathroom/Mirror/waapamooni.mp3": {
+			"hash": "760d989c2153c986f18e14ff53fbe265",
+			"mtime": "2018-03-01T20:56:10.696Z",
+			"size": 25076
+		},
+		"assets/Areas/Bathroom/Sink/kisihsiinkweekani.mp3": {
+			"hash": "e6f516af5baa65fed080981697d4ff4b",
+			"mtime": "2018-03-01T20:56:57.341Z",
+			"size": 41377
+		},
+		"assets/Areas/Bathroom/Sink/kisihsinehkiilo.mp3": {
+			"hash": "4d49f958a44cad1e2293c35650f85666",
+			"mtime": "2018-03-01T20:56:57.345Z",
+			"size": 37197
+		},
+		"assets/Areas/Bathroom/Sink/kisihsinehkiilo_eehkwi_wiihsinihsiiwani.mp3": {
+			"hash": "6f16bd738e653cfda354534fcec4f2c3",
+			"mtime": "2018-03-01T20:56:57.343Z",
+			"size": 59349
+		},
+		"assets/Areas/Bathroom/Sink/sink.png": {
+			"hash": "abc92912ff3a5932fafd7dc417ee4758",
+			"mtime": "2018-02-24T21:02:46.442Z",
+			"size": 74259
+		},
+		"assets/Areas/Bathroom/Sink/sink_translation.txt": {
+			"hash": "b2f1954022fcdad31bbe655b0ae58789",
+			"mtime": "2018-02-24T21:02:46.439Z",
+			"size": 114
+		},
+		"assets/Areas/Bathroom/Soap/soap.png": {
+			"hash": "0f2a19fcdba19caf2c394b0be0cce451",
+			"mtime": "2018-02-24T21:02:46.448Z",
+			"size": 100831
+		},
+		"assets/Areas/Bathroom/Soap/soap_translation.txt": {
+			"hash": "37d5166e5311c7418208f573f10eb950",
+			"mtime": "2018-02-24T21:02:46.445Z",
+			"size": 78
+		},
+		"assets/Areas/Bathroom/Soap/taanaaha_waapahaakani.mp3": {
+			"hash": "2d76f8bbff7fccef4d7f81a293b00de1",
+			"mtime": "2018-03-01T20:57:46.834Z",
+			"size": 50572
+		},
+		"assets/Areas/Bathroom/Soap/waapahaakani.mp3": {
+			"hash": "bd6246b42d6c7e82616c293c0644041d",
+			"mtime": "2018-03-01T20:57:46.848Z",
+			"size": 35525
+		},
+		"assets/Areas/Bathroom/Soap/waapahaakani_meeneehki.mp3": {
+			"hash": "5c9c5e3c0b618f96cbc9efbdd2e21953",
+			"mtime": "2018-03-01T20:57:46.842Z",
+			"size": 51826
+		},
+		"assets/Areas/Bathroom/Toilet/$eekiaani.mp3": {
+			"hash": "841ee528b330fbccb06771a201525895",
+			"mtime": "2018-03-01T23:00:54.270Z",
+			"size": 34271
+		},
+		"assets/Areas/Bathroom/Toilet/meesiaani.mp3": {
+			"hash": "465685c7b8bb458d73acaf13cf3ee09e",
+			"mtime": "2018-03-01T20:58:45.707Z",
+			"size": 31346
+		},
+		"assets/Areas/Bathroom/Toilet/miisaakani.mp3": {
+			"hash": "5efe057a252b88b9749c0f6a1044aa15",
+			"mtime": "2018-03-01T20:58:45.708Z",
+			"size": 30462
+		},
+		"assets/Areas/Bathroom/Toilet/toilet.png": {
+			"hash": "f9f1dee9fcb4a14e3a69b3062f1810bb",
+			"mtime": "2018-02-24T21:02:46.467Z",
+			"size": 100684
+		},
+		"assets/Areas/Bathroom/Toilet/toilet_translation.txt": {
+			"hash": "f554f385e2513c648c4be73de49af28b",
+			"mtime": "2018-02-24T21:02:46.465Z",
+			"size": 100
+		},
+		"assets/Areas/Bathroom/Toothbrush/kisaapiteehaakani.mp3": {
+			"hash": "35fc9e389efa98796181663da8f34230",
+			"mtime": "2018-03-01T21:00:32.000Z",
+			"size": 47646
+		},
+		"assets/Areas/Bathroom/Toothbrush/kisihsaapiteehikolo.mp3": {
+			"hash": "4b83ae9a388a90ed7668895449e301fb",
+			"mtime": "2018-03-05T14:17:12.792Z",
+			"size": 41377
+		},
+		"assets/Areas/Bathroom/Toothbrush/taanaaha_ninkisaapiteehaakanemi.mp3": {
+			"hash": "9af436af0fa7e18223237d912688abb9",
+			"mtime": "2018-03-01T21:00:32.005Z",
+			"size": 66872
+		},
+		"assets/Areas/Bathroom/Toothbrush/toothbrush.png": {
+			"hash": "587d07150ab4cbb0ab7a873fdb4801af",
+			"mtime": "2018-02-24T21:02:46.501Z",
+			"size": 138646
+		},
+		"assets/Areas/Bathroom/Toothbrush/toothbrush_translation.txt": {
+			"hash": "6409cbda314d3cf3039d6e022f70d857",
+			"mtime": "2018-02-24T21:02:46.503Z",
+			"size": 129
+		},
+		"assets/Areas/Bathroom/Toothpaste/awiipiti_waapahaakani.mp3": {
+			"hash": "24b01e6bec3f4c6334688abc9ed2ee4b",
+			"mtime": "2018-03-01T21:03:13.071Z",
+			"size": 36939
+		},
+		"assets/Areas/Bathroom/Toothpaste/awiipiti_waapahaakani_meeneehwiki.mp3": {
+			"hash": "4685543263d14cafe64a5fa4f3444da4",
+			"mtime": "2018-03-01T21:03:13.069Z",
+			"size": 61021
+		},
+		"assets/Areas/Bathroom/Toothpaste/ayoolhka-nko_ahtooyani_awiipiti_waapahaakani.mp3": {
+			"hash": "b4430cc206787f17aa4e50e2c67f5ef9",
+			"mtime": "2018-03-01T21:03:13.074Z",
+			"size": 71470
+		},
+		"assets/Areas/Bathroom/Toothpaste/toothpaste.png": {
+			"hash": "5c5f719cb1120108c407bfdbff2aa3d9",
+			"mtime": "2018-02-24T21:02:46.496Z",
+			"size": 85640
+		},
+		"assets/Areas/Bathroom/Toothpaste/toothpaste_translation.txt": {
+			"hash": "ace460c1272b4d3f18733a6dcc3b0f28",
+			"mtime": "2018-02-24T21:02:46.489Z",
+			"size": 139
+		},
+		"assets/Areas/Bedroom/Bed/aakwaahkwe_apinayi_aalaapilo.mp3": {
+			"hash": "4800992cd1fbcdc1e7ecfa473926d845",
+			"mtime": "2018-03-01T21:27:06.034Z",
+			"size": 59349
+		},
+		"assets/Areas/Bedroom/Bed/apinayi.mp3": {
+			"hash": "a89e5278b6c86a457d5154e52cf05038",
+			"mtime": "2018-03-01T21:27:06.040Z",
+			"size": 32599
+		},
+		"assets/Areas/Bedroom/Bed/bed.png": {
+			"hash": "b084952b1a39d6c85bd3077278bfefd1",
+			"mtime": "2018-02-24T21:02:46.226Z",
+			"size": 127520
+		},
+		"assets/Areas/Bedroom/Bed/bed_translation.txt": {
+			"hash": "8c96d2d4f0857b817273c70c0fb1add7",
+			"mtime": "2018-02-24T21:02:46.221Z",
+			"size": 75
+		},
+		"assets/Areas/Bedroom/Bed/waahseeki_pasekwiilo.mp3": {
+			"hash": "74e7044a25d7bbfc66d7f6a3b6cc9e1f",
+			"mtime": "2018-03-01T21:27:06.049Z",
+			"size": 50572
+		},
+		"assets/Areas/Bedroom/Bedroom/bedroom.png": {
+			"hash": "28f53049e227dd7e762860ee05ca9fdc",
+			"mtime": "2018-02-24T21:02:46.204Z",
+			"size": 122046
+		},
+		"assets/Areas/Bedroom/Bedroom/bedroom_translation.txt": {
+			"hash": "c6259de31b74b17a8b8e0583e0818985",
+			"mtime": "2018-02-24T21:02:46.209Z",
+			"size": 88
+		},
+		"assets/Areas/Bedroom/Bedroom/nipaakaani.mp3": {
+			"hash": "6469db57f69fbd905e10307edcb04d0d",
+			"mtime": "2018-03-01T21:28:09.319Z",
+			"size": 38451
+		},
+		"assets/Areas/Bedroom/Bedroom/nipaakaaninki_aalaapilo.mp3": {
+			"hash": "bcacf676c7c82dd5f10352d5be0501f8",
+			"mtime": "2018-03-01T21:28:09.322Z",
+			"size": 44720
+		},
+		"assets/Areas/Bedroom/Bedroom/nipaakaaninki_eepici.mp3": {
+			"hash": "1d97bd2b6aafb0b34f6997810037ebf3",
+			"mtime": "2018-03-01T21:28:09.324Z",
+			"size": 37197
+		},
+		"assets/Areas/Bedroom/Blanket/blanket.png": {
+			"hash": "4595b6be6262aefbedf3c4c63b00bd8a",
+			"mtime": "2018-02-24T21:02:46.214Z",
+			"size": 127427
+		},
+		"assets/Areas/Bedroom/Blanket/blanket_translation.txt": {
+			"hash": "24e86aedb6b359e396bae7b3bc75bf1c",
+			"mtime": "2018-02-24T21:02:46.216Z",
+			"size": 100
+		},
+		"assets/Areas/Bedroom/Blanket/waapimotayi.mp3": {
+			"hash": "95d531822d58a172ebb8317d6ea70c37",
+			"mtime": "2018-03-01T21:28:58.995Z",
+			"size": 28580
+		},
+		"assets/Areas/Bedroom/Blanket/waapimotayi_keehpeekinki.mp3": {
+			"hash": "3d9814a8cb7c3d5e2a74f6a397ea906c",
+			"mtime": "2018-03-01T21:28:58.981Z",
+			"size": 50572
+		},
+		"assets/Areas/Bedroom/Blanket/waapimotayi_miililo_$aakwaciaani.mp3": {
+			"hash": "cf5a96e247adb7c46698d1f39b54ebde",
+			"mtime": "2018-03-01T21:28:58.988Z",
+			"size": 63946
+		},
+		"assets/Areas/Bedroom/Book/book.png": {
+			"hash": "16932eb6cd6aca032d6e68f86e9ecb61",
+			"mtime": "2018-02-24T21:02:46.266Z",
+			"size": 106515
+		},
+		"assets/Areas/Bedroom/Book/book_translation.txt": {
+			"hash": "474902066de8983ee9d3dcee0a9fa984",
+			"mtime": "2018-02-24T21:02:46.294Z",
+			"size": 104
+		},
+		"assets/Areas/Bedroom/Book/meehkamaani.mp3": {
+			"hash": "0ffbb1b56d787cc6721ea13aa571f635",
+			"mtime": "2018-03-01T21:30:08.820Z",
+			"size": 38451
+		},
+		"assets/Areas/Bedroom/Book/taanaaha_nimenihkwaakanemi.mp3": {
+			"hash": "52371ae3d09e29bf7397557502dad8ae",
+			"mtime": "2018-03-01T21:30:08.827Z",
+			"size": 48984
+		},
+		"assets/Areas/Bedroom/Book/wiintaakani.mp3": {
+			"hash": "36ae44f391f5f323de70fdd8820e3ee8",
+			"mtime": "2018-03-01T21:30:08.834Z",
+			"size": 18942
+		},
+		"assets/Areas/Bedroom/Carpet/carpet.png": {
+			"hash": "d5b1dddafb690dc2adcb66f95c460067",
+			"mtime": "2018-02-24T21:02:46.245Z",
+			"size": 165547
+		},
+		"assets/Areas/Bedroom/Carpet/carpet_translation.txt": {
+			"hash": "ee9ac16d243f998495632eea5e9ee7bf",
+			"mtime": "2018-02-24T21:02:46.247Z",
+			"size": 111
+		},
+		"assets/Areas/Bedroom/Carpet/keehpeekinki_wilenaahkhtaakani.mp3": {
+			"hash": "a6e1cbee00c780066b188bc29bd5493a",
+			"mtime": "2018-03-01T21:31:12.758Z",
+			"size": 66872
+		},
+		"assets/Areas/Bedroom/Carpet/seekhkaaki_wilenaahkhtaakanenki.mp3": {
+			"hash": "57b04e9bfd0160c587201446703748dd",
+			"mtime": "2018-03-01T21:31:12.771Z",
+			"size": 75649
+		},
+		"assets/Areas/Bedroom/Carpet/wilenaahkhtaakani.mp3": {
+			"hash": "abf86399033ece3608c1de9d78641a95",
+			"mtime": "2018-03-01T21:31:12.773Z",
+			"size": 45974
+		},
+		"assets/Areas/Bedroom/Chair/chair.png": {
+			"hash": "a638cf2f096169e883468e3e5c2a47b6",
+			"mtime": "2018-02-24T21:02:46.236Z",
+			"size": 104959
+		},
+		"assets/Areas/Bedroom/Chair/chair00_chair.mp3": {
+			"hash": "2d544fdc0735fcbb94807db16a334802",
+			"mtime": "2018-02-24T21:02:46.233Z",
+			"size": 18163
+		},
+		"assets/Areas/Bedroom/Chair/chair_translation.txt": {
+			"hash": "7c16b27c939161acdebf173c92bf1017",
+			"mtime": "2018-02-24T21:02:46.228Z",
+			"size": 92
+		},
+		"assets/Areas/Bedroom/Chair/iiniini_naahkiipioni_ciinkweepilo.mp3": {
+			"hash": "42eede584b343be0af4a940bf4ff21a2",
+			"mtime": "2018-03-01T21:32:16.323Z",
+			"size": 58095
+		},
+		"assets/Areas/Bedroom/Chair/kotaki_naatilo_naahkiipioni.mp3": {
+			"hash": "ac969a2b888efeafaff186e9a46844c2",
+			"mtime": "2018-03-01T21:32:16.330Z",
+			"size": 56423
+		},
+		"assets/Areas/Bedroom/Chair/naahkiipioni.mp3": {
+			"hash": "a5276de10c29512421b9334091254efd",
+			"mtime": "2018-03-01T21:32:16.337Z",
+			"size": 29674
+		},
+		"assets/Areas/Bedroom/Door/ahkwaanteemi.mp3": {
+			"hash": "4866de5e0a3d569d68ab0654e3f19f19",
+			"mtime": "2018-03-01T21:33:12.660Z",
+			"size": 72723
+		},
+		"assets/Areas/Bedroom/Door/ahkwaanteemi_kipahanto.mp3": {
+			"hash": "62ca1807c5b08c35cfc8ac25c038e3de",
+			"mtime": "2018-03-01T21:33:12.658Z",
+			"size": 100546
+		},
+		"assets/Areas/Bedroom/Door/door.png": {
+			"hash": "57a54e60301ee872d6450303baa5bd68",
+			"mtime": "2018-02-24T21:02:46.316Z",
+			"size": 84182
+		},
+		"assets/Areas/Bedroom/Door/door_translation.txt": {
+			"hash": "0eea729f5b4efcc1653cb693e2572d1e",
+			"mtime": "2018-02-24T21:02:46.311Z",
+			"size": 83
+		},
+		"assets/Areas/Bedroom/Door/paahkhsence_ahkwaanteemi.mp3": {
+			"hash": "52b20542c788d889dfc7f8851dad174c",
+			"mtime": "2018-03-01T21:33:12.662Z",
+			"size": 47646
+		},
+		"assets/Areas/Bedroom/Floor/eenaahkiikameni.mp3": {
+			"hash": "0d00fae5337173d5fa75d9b2d204d0a2",
+			"mtime": "2018-03-01T21:34:09.818Z",
+			"size": 33595
+		},
+		"assets/Areas/Bedroom/Floor/floor.png": {
+			"hash": "2593e10d042fe0a7f971b8dad071a1e1",
+			"mtime": "2018-02-24T21:02:46.303Z",
+			"size": 175706
+		},
+		"assets/Areas/Bedroom/Floor/floor_translation.txt": {
+			"hash": "b27046676dca53ae8ff4cae340d096ac",
+			"mtime": "2018-02-24T21:02:46.300Z",
+			"size": 102
+		},
+		"assets/Areas/Bedroom/Floor/nipaalo_eenaahkiikameninki.mp3": {
+			"hash": "e93c0fbac1d9da3552557fb187000b5d",
+			"mtime": "2018-03-01T21:34:09.821Z",
+			"size": 50572
+		},
+		"assets/Areas/Bedroom/Floor/taahtakiih$into_eenaahkiikameninki.mp3": {
+			"hash": "ac73036fb3eac3136c7711c1da8fbb59",
+			"mtime": "2018-03-01T21:34:09.823Z",
+			"size": 68126
+		},
+		"assets/Areas/Bedroom/Lamp/aahteeleentanto.mp3": {
+			"hash": "9254f3b791dc7a03c797f221e3234267",
+			"mtime": "2018-03-01T21:34:59.614Z",
+			"size": 37197
+		},
+		"assets/Areas/Bedroom/Lamp/lamp.png": {
+			"hash": "059e3b8ffa5e9fc07787e7d1de9b7863",
+			"mtime": "2018-02-24T21:02:46.200Z",
+			"size": 88284
+		},
+		"assets/Areas/Bedroom/Lamp/lamp_translation.txt": {
+			"hash": "3056519140994313161fc027363d5ac9",
+			"mtime": "2018-02-24T21:02:46.198Z",
+			"size": 100
+		},
+		"assets/Areas/Bedroom/Lamp/waapantenaakani.mp3": {
+			"hash": "f9001613e591965fa288bd37a3ca5a2e",
+			"mtime": "2018-03-01T21:34:59.621Z",
+			"size": 34271
+		},
+		"assets/Areas/Bedroom/Lamp/waapantenanto.mp3": {
+			"hash": "7a2e51ed9364205806d5a6e3cac0e41d",
+			"mtime": "2018-03-01T21:34:59.627Z",
+			"size": 31346
+		},
+		"assets/Areas/Bedroom/Pants/kiihpeekinaakanenki_ahtoolo_kiwiihkweetionemi.mp3": {
+			"hash": "34ca30b4ad2558e0851215214c109443",
+			"mtime": "2018-03-01T21:35:56.954Z",
+			"size": 74395
+		},
+		"assets/Areas/Bedroom/Pants/pants.png": {
+			"hash": "05f3815616d9444dd05c4838a34d2092",
+			"mtime": "2018-02-24T21:02:46.257Z",
+			"size": 158184
+		},
+		"assets/Areas/Bedroom/Pants/pants_translation.txt": {
+			"hash": "c86d8d2710d69d2277b140bfc8cf319b",
+			"mtime": "2018-02-24T21:02:46.254Z",
+			"size": 95
+		},
+		"assets/Areas/Bedroom/Pants/wiihkweetiilo.mp3": {
+			"hash": "98d77988a84386acfbc3583b6a337b36",
+			"mtime": "2018-03-01T21:35:56.955Z",
+			"size": 29674
+		},
+		"assets/Areas/Bedroom/Pants/wiihkweetioni.mp3": {
+			"hash": "5fb12a50cc8e68da4875062ba4128ae5",
+			"mtime": "2018-03-01T21:35:56.957Z",
+			"size": 28002
+		},
+		"assets/Areas/Bedroom/Pillow/maalami_soonkanki_mihkintaakani.mp3": {
+			"hash": "ea8576f157b02ce85c0dab0a231ae7f5",
+			"mtime": "2018-03-01T21:37:09.547Z",
+			"size": 61021
+		},
+		"assets/Areas/Bedroom/Pillow/mihkintaakani.mp3": {
+			"hash": "87c99a69e886ac3e5fef1a4100323868",
+			"mtime": "2018-03-01T21:37:09.548Z",
+			"size": 34271
+		},
+		"assets/Areas/Bedroom/Pillow/neepaani_nii$wi_mihkintaakana.mp3": {
+			"hash": "e02d7b98a4d86b02836ad08682feca5a",
+			"mtime": "2018-03-01T21:37:09.550Z",
+			"size": 53497
+		},
+		"assets/Areas/Bedroom/Pillow/pillow.png": {
+			"hash": "19f70f8e6050517ec357e21877fc31cb",
+			"mtime": "2018-02-24T21:02:46.259Z",
+			"size": 121771
+		},
+		"assets/Areas/Bedroom/Pillow/pillow_translation.txt": {
+			"hash": "75b481ff76ccd2b85652f8146b5217b8",
+			"mtime": "2018-02-24T21:02:46.264Z",
+			"size": 110
+		},
+		"assets/Areas/Bedroom/Shirt/ceeleelintamaani_ooniini_naapinaakani.mp3": {
+			"hash": "e9f4a4395e9bd88945d4c9ae447ef489",
+			"mtime": "2018-03-01T21:37:57.572Z",
+			"size": 65200
+		},
+		"assets/Areas/Bedroom/Shirt/naapinaakani.mp3": {
+			"hash": "10a1571a5974e52dbc4e2b6567b5db2b",
+			"mtime": "2018-03-01T21:37:57.580Z",
+			"size": 26490
+		},
+		"assets/Areas/Bedroom/Shirt/ninaapinaakani_keehpeekinki.mp3": {
+			"hash": "bda6e1ced80c065463fa7223b601e575",
+			"mtime": "2018-03-01T21:37:57.586Z",
+			"size": 53497
+		},
+		"assets/Areas/Bedroom/Shirt/shirt.png": {
+			"hash": "d3f828dc301cdb07e01f62ee4a55a491",
+			"mtime": "2018-02-24T21:02:46.305Z",
+			"size": 101178
+		},
+		"assets/Areas/Bedroom/Shirt/shirt_translation.txt": {
+			"hash": "2b5fedcfb0909ef7991d9acab0e1a406",
+			"mtime": "2018-02-24T21:02:46.307Z",
+			"size": 102
+		},
+		"assets/Areas/DiningRoom/Chair/chair.png": {
+			"hash": "a638cf2f096169e883468e3e5c2a47b6",
+			"mtime": "2018-02-24T21:02:46.376Z",
+			"size": 104959
+		},
+		"assets/Areas/DiningRoom/Chair/chair_translation.txt": {
+			"hash": "0386582061bed5f9f451eb418996257b",
+			"mtime": "2018-02-24T21:02:46.365Z",
+			"size": 101
+		},
+		"assets/Areas/DiningRoom/Chair/kotaki_naatilo_naahkiipioni.mp3": {
+			"hash": "ac969a2b888efeafaff186e9a46844c2",
+			"mtime": "2018-03-01T21:39:33.166Z",
+			"size": 56423
+		},
+		"assets/Areas/DiningRoom/Chair/naahkiipioni.mp3": {
+			"hash": "a5276de10c29512421b9334091254efd",
+			"mtime": "2018-03-01T21:39:33.167Z",
+			"size": 29674
+		},
+		"assets/Areas/DiningRoom/Cup/ayooyani-nko_ooniini_minehkwaakani.mp3": {
+			"hash": "92d74ff17caf41884222d517ade029af",
+			"mtime": "2018-03-01T21:41:06.576Z",
+			"size": 65200
+		},
+		"assets/Areas/DiningRoom/Cup/cup.png": {
+			"hash": "290e9519141f0160602d473fb6d7ad4e",
+			"mtime": "2018-02-24T21:02:46.339Z",
+			"size": 107504
+		},
+		"assets/Areas/DiningRoom/Cup/cup_translation.txt": {
+			"hash": "090dab07ff14461df5523e7653d6ba02",
+			"mtime": "2018-02-24T21:02:46.334Z",
+			"size": 93
+		},
+		"assets/Areas/DiningRoom/Cup/minehkwaakani.mp3": {
+			"hash": "9f797ab7e96be29bf4742faeabd12d33",
+			"mtime": "2018-03-01T21:41:06.577Z",
+			"size": 37712
+		},
+		"assets/Areas/DiningRoom/Cup/taanaaha_nimenihkwaakanemi.mp3": {
+			"hash": "52371ae3d09e29bf7397557502dad8ae",
+			"mtime": "2018-03-01T21:41:06.579Z",
+			"size": 48984
+		},
+		"assets/Areas/DiningRoom/DiningRoom/dining_room.png": {
+			"hash": "acf105bcc89d61c727ed85f685daad79",
+			"mtime": "2018-02-24T21:02:46.328Z",
+			"size": 89110
+		},
+		"assets/Areas/DiningRoom/DiningRoom/dining_room_translation.txt": {
+			"hash": "47575e7baa7fe06914ed26808f8b6ae1",
+			"mtime": "2018-02-24T21:02:46.332Z",
+			"size": 27
+		},
+		"assets/Areas/DiningRoom/DiningRoom/wiihsinikaani.mp3": {
+			"hash": "f17e9570dd613f723063b39d38ae1168",
+			"mtime": "2018-03-01T21:41:49.635Z",
+			"size": 34271
+		},
+		"assets/Areas/DiningRoom/DiningRoom/wiihsinitaawi.mp3": {
+			"hash": "dc97d4d32f45513c218b28a98b8b8139",
+			"mtime": "2018-03-01T21:41:49.637Z",
+			"size": 23146
+		},
+		"assets/Areas/DiningRoom/Fork/fork.png": {
+			"hash": "b3967b3a8283d02bc4ff57f5b500d43a",
+			"mtime": "2018-02-24T21:02:46.325Z",
+			"size": 134739
+		},
+		"assets/Areas/DiningRoom/Fork/fork_translation.txt": {
+			"hash": "fe157e39b7b927563ea49d19af55c339",
+			"mtime": "2018-02-24T21:02:46.323Z",
+			"size": 90
+		},
+		"assets/Areas/DiningRoom/Fork/keehpahki_neewikoleeki.mp3": {
+			"hash": "0be27a52f2e6e084a703e1f068e9328f",
+			"mtime": "2018-03-01T21:42:52.279Z",
+			"size": 44720
+		},
+		"assets/Areas/DiningRoom/Fork/kotaki_naatawilo_neewikoleeki.mp3": {
+			"hash": "f134c1693bdd6a587bf40cc474dc53af",
+			"mtime": "2018-03-01T21:42:52.281Z",
+			"size": 58095
+		},
+		"assets/Areas/DiningRoom/Fork/neewikoleeki.mp3": {
+			"hash": "a1872562f3fa2fd06eb2be33ae235288",
+			"mtime": "2018-03-01T21:42:52.283Z",
+			"size": 28002
+		},
+		"assets/Areas/DiningRoom/Knife/knife.png": {
+			"hash": "ca6f4e964aa16e569798f8a56e432d52",
+			"mtime": "2018-02-24T21:02:46.405Z",
+			"size": 137639
+		},
+		"assets/Areas/DiningRoom/Knife/knife_translation.txt": {
+			"hash": "39224a8621551f33aa8b6e4353abddc2",
+			"mtime": "2018-02-24T21:02:46.400Z",
+			"size": 78
+		},
+		"assets/Areas/DiningRoom/Knife/maalhsi.mp3": {
+			"hash": "3dafa72c92b5cd0adde6357ce5b52e06",
+			"mtime": "2018-03-28T02:45:35.051Z",
+			"size": 18131
+		},
+		"assets/Areas/DiningRoom/Knife/nimaalhsemi_meehkankweeki.mp3": {
+			"hash": "90d82051468864d242d492812990091f",
+			"mtime": "2018-03-01T21:43:39.898Z",
+			"size": 45974
+		},
+		"assets/Areas/DiningRoom/Knife/pimi_maalhsa_ayootaawi.mp3": {
+			"hash": "01d44e01fa32b696888d35964cb6a50e",
+			"mtime": "2018-03-01T21:43:39.901Z",
+			"size": 48900
+		},
+		"assets/Areas/DiningRoom/Milk/kilekaapoohkiiyani-nko_noonaakanaapowi_kociihsaapoonki.mp3": {
+			"hash": "9cd87919371aa1e3c47f0f1d03a0a719",
+			"mtime": "2018-03-01T21:44:26.287Z",
+			"size": 118089
+		},
+		"assets/Areas/DiningRoom/Milk/milk.png": {
+			"hash": "998b08e033436c8ead44309137c29ecb",
+			"mtime": "2018-02-24T21:02:46.359Z",
+			"size": 55416
+		},
+		"assets/Areas/DiningRoom/Milk/milk_translation.txt": {
+			"hash": "b730b893f994e2042f7e89f61555d3cb",
+			"mtime": "2018-02-24T21:02:46.362Z",
+			"size": 133
+		},
+		"assets/Areas/DiningRoom/Milk/noonaakanaapowi.mp3": {
+			"hash": "c20191c28e01e3b3b1fdb48efc90e7ed",
+			"mtime": "2018-03-01T21:44:26.302Z",
+			"size": 56241
+		},
+		"assets/Areas/DiningRoom/Milk/noonaakanaapowi_mamoohkani_ataaweekaaninki.mp3": {
+			"hash": "fb05b6cab5b828855f6995335852eab6",
+			"mtime": "2018-03-01T21:44:26.294Z",
+			"size": 74395
+		},
+		"assets/Areas/DiningRoom/Plate/alaakani.mp3": {
+			"hash": "26de187e1995be00c5e6b7a050ef97fa",
+			"mtime": "2018-03-01T21:45:35.488Z",
+			"size": 21892
+		},
+		"assets/Areas/DiningRoom/Plate/atoohpooninki_ahtoolo_kitoolaakanemi.mp3": {
+			"hash": "18ee0cad8d65bfc2e237212265e177c7",
+			"mtime": "2018-03-01T21:45:35.490Z",
+			"size": 59349
+		},
+		"assets/Areas/DiningRoom/Plate/eeyoowaani_iiniini_alaakani.mp3": {
+			"hash": "d111de628f56ba331872faf50bf50236",
+			"mtime": "2018-03-01T21:45:35.492Z",
+			"size": 54751
+		},
+		"assets/Areas/DiningRoom/Plate/plate.png": {
+			"hash": "6efbbfbb85856f680974c5fd076dbc82",
+			"mtime": "2018-02-24T21:02:46.382Z",
+			"size": 161484
+		},
+		"assets/Areas/DiningRoom/Plate/plate_translation.txt": {
+			"hash": "56b11aa175d562bc0a7658706ed3428d",
+			"mtime": "2018-02-24T21:02:46.385Z",
+			"size": 97
+		},
+		"assets/Areas/DiningRoom/SoupBowl/ceeki-nko_nipoopilaakana_kiihpatwi.mp3": {
+			"hash": "5a7e880b913b88543ccbfff41afae91d",
+			"mtime": "2018-03-01T21:46:26.370Z",
+			"size": 63946
+		},
+		"assets/Areas/DiningRoom/SoupBowl/kotaki_miililo_nipoopilaakani.mp3": {
+			"hash": "bfdb581e12e44adbb653d3fc40a8fa80",
+			"mtime": "2018-03-01T21:46:26.372Z",
+			"size": 51826
+		},
+		"assets/Areas/DiningRoom/SoupBowl/nipoopilaakani.mp3": {
+			"hash": "cf292501dde2e19250cba941a4700718",
+			"mtime": "2018-03-01T21:46:26.373Z",
+			"size": 31346
+		},
+		"assets/Areas/DiningRoom/SoupBowl/soup_bowl.png": {
+			"hash": "52d094e0acddc62894fe7cb8831fb1ac",
+			"mtime": "2018-02-24T21:02:46.355Z",
+			"size": 109484
+		},
+		"assets/Areas/DiningRoom/SoupBowl/soup_bowl_translation.txt": {
+			"hash": "0e71e10ee6c1d62f42441dbeac88e386",
+			"mtime": "2018-02-24T21:02:46.356Z",
+			"size": 117
+		},
+		"assets/Areas/DiningRoom/Spoon/ayoolhka_meeh$aaki_kookaani_ayoolo.mp3": {
+			"hash": "e0994bda69e276ecf536df46f2667753",
+			"mtime": "2018-03-01T21:47:10.648Z",
+			"size": 61021
+		},
+		"assets/Areas/DiningRoom/Spoon/kaakaathswi_piitoolo_kookaana.mp3": {
+			"hash": "104388a294ed4a8ab2cdd28149275fe9",
+			"mtime": "2018-03-01T21:47:10.651Z",
+			"size": 48900
+		},
+		"assets/Areas/DiningRoom/Spoon/kookaani.mp3": {
+			"hash": "c89b084c4c032118c7b8bb8db5c87f0f",
+			"mtime": "2018-03-01T21:47:10.652Z",
+			"size": 28002
+		},
+		"assets/Areas/DiningRoom/Spoon/spoon.png": {
+			"hash": "5c7499e6904b0a4b7e26b128e462faee",
+			"mtime": "2018-02-24T21:02:46.395Z",
+			"size": 127591
+		},
+		"assets/Areas/DiningRoom/Spoon/spoon_translation.txt": {
+			"hash": "13fc38f7f3bac2d4092c089d9b487332",
+			"mtime": "2018-02-24T21:02:46.397Z",
+			"size": 96
+		},
+		"assets/Areas/DiningRoom/Table/atoohpooni.mp3": {
+			"hash": "04413adde4c809c975c1f166ea4da082",
+			"mtime": "2018-03-01T21:48:17.750Z",
+			"size": 31088
+		},
+		"assets/Areas/DiningRoom/Table/atoohpooni_weelahtoonki.mp3": {
+			"hash": "2885ca2506b9c542fda9d7cd86a53d24",
+			"mtime": "2018-03-01T21:48:17.744Z",
+			"size": 50572
+		},
+		"assets/Areas/DiningRoom/Table/table.png": {
+			"hash": "31268405e4e0da14e6bb3d4fd07319d9",
+			"mtime": "2018-02-24T21:02:46.392Z",
+			"size": 122627
+		},
+		"assets/Areas/DiningRoom/Table/table_translation.txt": {
+			"hash": "66b19a23823183c9085dbaff24998317",
+			"mtime": "2018-02-24T21:02:46.386Z",
+			"size": 104
+		},
+		"assets/Areas/DiningRoom/Table/wilahtootaawi_atoohpooni.mp3": {
+			"hash": "d70348a724d7be2c96c70ad9d4d63901",
+			"mtime": "2018-03-01T21:48:17.758Z",
+			"size": 54751
+		},
+		"assets/Areas/DiningRoom/Water/iiniini_naahkiipioni_ciinkweepilo.mp3": {
+			"hash": "42eede584b343be0af4a940bf4ff21a2",
+			"mtime": "2018-03-28T02:18:03.922Z",
+			"size": 58095
+		},
+		"assets/Areas/DiningRoom/Water/kiikoo-nko_kati_minahilaani.mp3": {
+			"hash": "6afc5ed38e58805664ce18e1afd6c54c",
+			"mtime": "2018-03-28T02:13:38.876Z",
+			"size": 53497
+		},
+		"assets/Areas/DiningRoom/Water/kilekaapoohkiiyani-nko_noonaakanaapowi_kociihsaapoonki.mp3": {
+			"hash": "9cd87919371aa1e3c47f0f1d03a0a719",
+			"mtime": "2018-03-01T21:49:05.154Z",
+			"size": 118089
+		},
+		"assets/Areas/DiningRoom/Water/neehtawi_meenaani_nipi.mp3": {
+			"hash": "7ccf0716acbd0f84580c20d7c5d6ab82",
+			"mtime": "2018-03-01T21:49:05.167Z",
+			"size": 50572
+		},
+		"assets/Areas/DiningRoom/Water/nipi.mp3": {
+			"hash": "ce51420d014314ee4480a4768f226df4",
+			"mtime": "2018-03-01T21:49:05.174Z",
+			"size": 16459
+		},
+		"assets/Areas/DiningRoom/Water/water.png": {
+			"hash": "01ff69f02ecff6c6840fd2153d354c9f",
+			"mtime": "2018-02-24T21:02:46.344Z",
+			"size": 13004
+		},
+		"assets/Areas/DiningRoom/Water/water_translation.txt": {
+			"hash": "96def07872b148d4fc91e6745691f9d3",
+			"mtime": "2018-02-24T21:02:46.348Z",
+			"size": 79
+		},
+		"assets/Areas/Kitchen/Chair/chair.png": {
+			"hash": "a638cf2f096169e883468e3e5c2a47b6",
+			"mtime": "2018-02-24T21:02:47.274Z",
+			"size": 104959
+		},
+		"assets/Areas/Kitchen/Chair/chair_translation.txt": {
+			"hash": "a8b0d14e2a8923731d60ae65b8c12a65",
+			"mtime": "2018-02-24T21:02:47.181Z",
+			"size": 98
+		},
+		"assets/Areas/Kitchen/Chair/kotaki_naatilo_naahkiipioni.mp3": {
+			"hash": "ac969a2b888efeafaff186e9a46844c2",
+			"mtime": "2018-03-01T21:51:08.365Z",
+			"size": 56423
+		},
+		"assets/Areas/Kitchen/Chair/naahkiipioni.mp3": {
+			"hash": "a5276de10c29512421b9334091254efd",
+			"mtime": "2018-03-01T21:51:08.372Z",
+			"size": 29674
+		},
+		"assets/Areas/Kitchen/Coffee/aalimiihtooyani-nko_kociihsaapowi.mp3": {
+			"hash": "a357ec65a7aa535b95b9bb8d0d25c6ed",
+			"mtime": "2018-03-01T21:52:03.444Z",
+			"size": 62274
+		},
+		"assets/Areas/Kitchen/Coffee/coffee.png": {
+			"hash": "354318124fba9068041def63a4a16580",
+			"mtime": "2018-02-24T21:02:47.524Z",
+			"size": 138962
+		},
+		"assets/Areas/Kitchen/Coffee/coffee_translation.txt": {
+			"hash": "8c10023fca5b98823b3f412ea3be14db",
+			"mtime": "2018-02-24T21:02:47.525Z",
+			"size": 102
+		},
+		"assets/Areas/Kitchen/Coffee/kociihsaapowi.mp3": {
+			"hash": "263257cd3fd9580f5055a8be6ac8b006",
+			"mtime": "2018-03-01T21:52:03.447Z",
+			"size": 29834
+		},
+		"assets/Areas/Kitchen/Coffee/kociihsaapowi_meehtiteeki.mp3": {
+			"hash": "18c90db69b52374610849cc19aad6dca",
+			"mtime": "2018-03-01T21:52:03.446Z",
+			"size": 54751
+		},
+		"assets/Areas/Kitchen/CookingPot/ahkihkwi.mp3": {
+			"hash": "b3cf86fa16bce9643ea78b215e6c0f28",
+			"mtime": "2018-03-01T21:52:44.977Z",
+			"size": 25236
+		},
+		"assets/Areas/Kitchen/CookingPot/cooking_pot.png": {
+			"hash": "ea5d13afd4b4c81600530f1c583effa9",
+			"mtime": "2018-02-24T21:02:47.484Z",
+			"size": 113328
+		},
+		"assets/Areas/Kitchen/CookingPot/cooking_pot_translation.txt": {
+			"hash": "c36d48706ab4cc5dc7aefd7fd2860016",
+			"mtime": "2018-02-24T21:02:47.519Z",
+			"size": 109
+		},
+		"assets/Areas/Kitchen/CookingPot/taanaaha_ahkihkwi_kati_ayoowaani.mp3": {
+			"hash": "56a55509f00a5b28c83741296e79a046",
+			"mtime": "2018-03-01T21:52:44.985Z",
+			"size": 65200
+		},
+		"assets/Areas/Kitchen/CookingPot/wilahtoolo_ahkihkwa.mp3": {
+			"hash": "3e3ab62a845a2fcf1dce2f14ed61edc0",
+			"mtime": "2018-03-01T21:52:44.992Z",
+			"size": 43048
+		},
+		"assets/Areas/Kitchen/Kitchen/aalimiihtwikaani.mp3": {
+			"hash": "83e1eaf54fe924884894403a1b828dfe",
+			"mtime": "2018-03-01T21:53:33.128Z",
+			"size": 44720
+		},
+		"assets/Areas/Kitchen/Kitchen/aalimiihtwikaaninki_eehteeki.mp3": {
+			"hash": "0bb032316ff498fb0a9d050660dc5021",
+			"mtime": "2018-03-01T21:53:33.130Z",
+			"size": 58095
+		},
+		"assets/Areas/Kitchen/Kitchen/aalimiihtwikaaninki_eepiaani.mp3": {
+			"hash": "6df526696565ece0353b76e1c9ce6c6f",
+			"mtime": "2018-03-01T21:53:33.132Z",
+			"size": 59349
+		},
+		"assets/Areas/Kitchen/Kitchen/kitchen.png": {
+			"hash": "3d26d55210b08f89329a4d1ef7648117",
+			"mtime": "2018-02-24T21:02:47.531Z",
+			"size": 154408
+		},
+		"assets/Areas/Kitchen/Kitchen/kitchen_translation.txt": {
+			"hash": "8ef7792c899c06621d15956500eadd92",
+			"mtime": "2018-02-24T21:02:47.527Z",
+			"size": 104
+		},
+		"assets/Areas/Kitchen/KitchenSink/kisihsalaakanaakanenki_ahtoolo.mp3": {
+			"hash": "bc3979b6689e21a1b782ebfd971b18bc",
+			"mtime": "2018-03-01T21:54:13.693Z",
+			"size": 71470
+		},
+		"assets/Areas/Kitchen/KitchenSink/kisihsalaakanaakanenki_ahtoolo_kitoolaakanemi.mp3": {
+			"hash": "1d91c7e02c47bf0e58dcd056d826ead2",
+			"mtime": "2018-03-01T21:54:13.685Z",
+			"size": 81501
+		},
+		"assets/Areas/Kitchen/KitchenSink/kisihsalaakanaakani.mp3": {
+			"hash": "7d50a9b14dbffbf6e693989cae9e171f",
+			"mtime": "2018-03-01T21:54:13.695Z",
+			"size": 54751
+		},
+		"assets/Areas/Kitchen/KitchenSink/kitchen_sink.png": {
+			"hash": "7967d2e81ae28211c0f118dd7068ec6b",
+			"mtime": "2018-02-24T21:02:47.538Z",
+			"size": 134426
+		},
+		"assets/Areas/Kitchen/KitchenSink/kitchen_sink_translation.txt": {
+			"hash": "499168b470478bdd7efee46bec63ed85",
+			"mtime": "2018-02-24T21:02:47.537Z",
+			"size": 146
+		},
+		"assets/Areas/Kitchen/Pepper/pepper.png": {
+			"hash": "40487a31f1192d414ccc95ef56c4cb2e",
+			"mtime": "2018-02-24T21:02:47.536Z",
+			"size": 108105
+		},
+		"assets/Areas/Kitchen/Pepper/pepper_translation.txt": {
+			"hash": "3ccc491df29583e91fde0ea20936e6e6",
+			"mtime": "2018-02-24T21:02:47.534Z",
+			"size": 53
+		},
+		"assets/Areas/Kitchen/Pepper/wiihsakaakani.mp3": {
+			"hash": "ef9110c284e89ffd432a67d1e5480df0",
+			"mtime": "2018-03-01T21:55:14.006Z",
+			"size": 33177
+		},
+		"assets/Areas/Kitchen/Pepper/wiihsakaakani_miililo.mp3": {
+			"hash": "efc6e81cdc126bf931341f2d6a05de39",
+			"mtime": "2018-03-01T21:55:14.000Z",
+			"size": 43048
+		},
+		"assets/Areas/Kitchen/Salt/salt.png": {
+			"hash": "9f79a8fba634745944111dd0e7a80c23",
+			"mtime": "2018-02-24T21:02:47.447Z",
+			"size": 105247
+		},
+		"assets/Areas/Kitchen/Salt/salt_translation.txt": {
+			"hash": "b3144743e29f2269288586b599eadea9",
+			"mtime": "2018-02-24T21:02:47.445Z",
+			"size": 49
+		},
+		"assets/Areas/Kitchen/Salt/wiihkapaakani.mp3": {
+			"hash": "82b0cb3766b1713be257290a40b6139a",
+			"mtime": "2018-03-28T03:24:14.528Z",
+			"size": 29416
+		},
+		"assets/Areas/Kitchen/Salt/wiihkapaakani_miililo.mp3": {
+			"hash": "f1041fa8056680cc1905d7516edaa3a7",
+			"mtime": "2018-03-01T21:56:06.285Z",
+			"size": 50572
+		},
+		"assets/Areas/Kitchen/Soap/soap.png": {
+			"hash": "0f2a19fcdba19caf2c394b0be0cce451",
+			"mtime": "2018-02-24T21:02:47.381Z",
+			"size": 100831
+		},
+		"assets/Areas/Kitchen/Soap/soap00_soap.mp3": {
+			"hash": "cae18ad4193e3358fae5e1ede179d49a",
+			"mtime": "2018-02-24T21:02:47.000Z",
+			"size": 19985
+		},
+		"assets/Areas/Kitchen/Soap/soap_translation.txt": {
+			"hash": "37d5166e5311c7418208f573f10eb950",
+			"mtime": "2018-02-24T21:02:47.320Z",
+			"size": 78
+		},
+		"assets/Areas/Kitchen/Soap/taanaaha_waapahaakani.mp3": {
+			"hash": "2d76f8bbff7fccef4d7f81a293b00de1",
+			"mtime": "2018-03-01T21:57:31.214Z",
+			"size": 50572
+		},
+		"assets/Areas/Kitchen/Soap/waapahaakani.mp3": {
+			"hash": "bd6246b42d6c7e82616c293c0644041d",
+			"mtime": "2018-03-01T23:09:18.142Z",
+			"size": 35525
+		},
+		"assets/Areas/Kitchen/Soap/waapahaakani_meeneehki.mp3": {
+			"hash": "5c9c5e3c0b618f96cbc9efbdd2e21953",
+			"mtime": "2018-03-01T21:57:31.216Z",
+			"size": 51826
+		},
+		"assets/Areas/Kitchen/Stove/ki$aaphkaahkosaakani.mp3": {
+			"hash": "415337daa79e714b8130b22228954646",
+			"mtime": "2018-03-01T21:58:05.462Z",
+			"size": 54751
+		},
+		"assets/Areas/Kitchen/Stove/ki$aaphkisanto_ki$aaphkaahkosaakani.mp3": {
+			"hash": "c088462f7a7adbcadac1d15c2e5dc372",
+			"mtime": "2018-03-01T21:58:05.464Z",
+			"size": 69798
+		},
+		"assets/Areas/Kitchen/Stove/stove.png": {
+			"hash": "2ef9f58f4305cfccc020d0947500e6a9",
+			"mtime": "2018-02-24T21:02:47.444Z",
+			"size": 107007
+		},
+		"assets/Areas/Kitchen/Stove/stove_translation.txt": {
+			"hash": "a06c668be84c87e550357982cb0b249b",
+			"mtime": "2018-02-24T21:02:47.432Z",
+			"size": 126
+		},
+		"assets/Areas/Kitchen/Table/atoohpooni.mp3": {
+			"hash": "04413adde4c809c975c1f166ea4da082",
+			"mtime": "2018-03-01T21:59:06.150Z",
+			"size": 31088
+		},
+		"assets/Areas/Kitchen/Table/atoohpooni_weelahtoonki.mp3": {
+			"hash": "2885ca2506b9c542fda9d7cd86a53d24",
+			"mtime": "2018-03-01T21:59:06.144Z",
+			"size": 50572
+		},
+		"assets/Areas/Kitchen/Table/table.png": {
+			"hash": "31268405e4e0da14e6bb3d4fd07319d9",
+			"mtime": "2018-02-24T21:02:47.459Z",
+			"size": 122627
+		},
+		"assets/Areas/Kitchen/Table/table_translation.txt": {
+			"hash": "bc8925cd778dfb54524fb828c1698042",
+			"mtime": "2018-02-24T21:02:47.455Z",
+			"size": 101
+		},
+		"assets/Areas/Kitchen/Table/wilahtoolo_atoohpooni.mp3": {
+			"hash": "d2202aea2be97390e438c4d1cbd7a6e5",
+			"mtime": "2018-03-28T01:58:14.782Z",
+			"size": 51826
+		},
+		"assets/Areas/Kitchen/Table/wilahtootaawi_atoohpooni.mp3": {
+			"hash": "d70348a724d7be2c96c70ad9d4d63901",
+			"mtime": "2018-03-01T21:59:06.157Z",
+			"size": 54751
+		},
+		"assets/Areas/Kitchen/Tea/mih$ipakwaapowi-nko_minani.mp3": {
+			"hash": "68a1dab2d1c0a5c24072c5f52bee19d3",
+			"mtime": "2018-03-01T21:59:47.587Z",
+			"size": 48900
+		},
+		"assets/Areas/Kitchen/Tea/mih$ipakwaapowi.mp3": {
+			"hash": "fa55a3ee6ecaa79edb46dcecb45a0286",
+			"mtime": "2018-03-01T21:59:47.589Z",
+			"size": 57495
+		},
+		"assets/Areas/Kitchen/Tea/mih$ipakwaapowi_kii$aaphkisamaani.mp3": {
+			"hash": "70d2097bbf6573a42b21ac8cfe54d0b8",
+			"mtime": "2018-03-01T21:59:47.585Z",
+			"size": 69798
+		},
+		"assets/Areas/Kitchen/Tea/tea.png": {
+			"hash": "a7c4e20482a59cdf5222481316e909eb",
+			"mtime": "2018-02-24T21:02:47.425Z",
+			"size": 111462
+		},
+		"assets/Areas/Kitchen/Tea/tea_translation.txt": {
+			"hash": "97ca22dedcc27ce1cadd70018a7640ea",
+			"mtime": "2018-02-24T21:02:47.398Z",
+			"size": 102
+		},
+		"assets/Areas/Kitchen/TeaKettle/ki$aaphkisanto_mih$ipakwaapowahkhkwi.mp3": {
+			"hash": "aa30d9a905882c9300f4db0dd8486e46",
+			"mtime": "2018-03-01T22:00:48.846Z",
+			"size": 81501
+		},
+		"assets/Areas/Kitchen/TeaKettle/mih$ipakwaapowahkhkwi.mp3": {
+			"hash": "220f237bdb6c4b50bbc3db41856a2a1f",
+			"mtime": "2018-03-01T22:00:48.848Z",
+			"size": 56423
+		},
+		"assets/Areas/Kitchen/TeaKettle/moohkinatoolo_mih$ipakwaapowahkhkwi.mp3": {
+			"hash": "61e214dd9c85c377de20a1f604abd5fe",
+			"mtime": "2018-03-01T22:00:48.850Z",
+			"size": 77321
+		},
+		"assets/Areas/Kitchen/TeaKettle/tea_kettle.png": {
+			"hash": "2055834ffb15fcffe818c6d0f4d5565d",
+			"mtime": "2018-02-24T21:02:47.314Z",
+			"size": 134278
+		},
+		"assets/Areas/Kitchen/TeaKettle/tea_kettle_translation.txt": {
+			"hash": "36e534a448e5ab2a27238af17eb6d9cf",
+			"mtime": "2018-02-24T21:02:47.283Z",
+			"size": 129
+		},
+		"assets/Areas/LivingRoom/Book/book.png": {
+			"hash": "16932eb6cd6aca032d6e68f86e9ecb61",
+			"mtime": "2018-02-24T21:02:46.786Z",
+			"size": 106515
+		},
+		"assets/Areas/LivingRoom/Book/book_translation.txt": {
+			"hash": "3dcadea70b89ed58fb2c9019d564d60f",
+			"mtime": "2018-02-24T21:02:46.793Z",
+			"size": 91
+		},
+		"assets/Areas/LivingRoom/Book/taanaaha_niwiintaakanemi.mp3": {
+			"hash": "279750b9d85eb6a70bbb73ff65b4935a",
+			"mtime": "2018-03-28T02:39:00.284Z",
+			"size": 48900
+		},
+		"assets/Areas/LivingRoom/Book/teehsooninki_eehteeki_wiintaakani.mp3": {
+			"hash": "c5def491426349e77d6b8ef41dac5929",
+			"mtime": "2018-03-01T22:03:52.008Z",
+			"size": 59349
+		},
+		"assets/Areas/LivingRoom/Book/wiintaakani.mp3": {
+			"hash": "36ae44f391f5f323de70fdd8820e3ee8",
+			"mtime": "2018-03-01T22:03:52.009Z",
+			"size": 18942
+		},
+		"assets/Areas/LivingRoom/Books/books.png": {
+			"hash": "3c6fa796f33ca3139798da8f65c3df88",
+			"mtime": "2018-02-24T21:02:46.767Z",
+			"size": 106390
+		},
+		"assets/Areas/LivingRoom/Books/books_translation.txt": {
+			"hash": "b9224ff67f01eda662c7303b329a6dc0",
+			"mtime": "2018-02-24T21:02:46.771Z",
+			"size": 19
+		},
+		"assets/Areas/LivingRoom/Books/wiintaakana.mp3": {
+			"hash": "e9e2ef29c02d914858edc248776f7ff5",
+			"mtime": "2018-03-01T22:04:41.663Z",
+			"size": 19440
+		},
+		"assets/Areas/LivingRoom/Books/wiintaakani-nko_ahtooyani_kati_wiintamaani.mp3": {
+			"hash": "6356cce02e588e3a809819436ee81933",
+			"mtime": "2018-03-01T22:04:41.665Z",
+			"size": 68126
+		},
+		"assets/Areas/LivingRoom/Books/wiintanto.mp3": {
+			"hash": "da10c24c6907024e04c0b8d7c3965e82",
+			"mtime": "2018-03-01T22:04:41.666Z",
+			"size": 13621
+		},
+		"assets/Areas/LivingRoom/Bookshelf/bookshelf.png": {
+			"hash": "ff60523f631f58d46d33359287f97771",
+			"mtime": "2018-02-24T21:02:46.752Z",
+			"size": 156136
+		},
+		"assets/Areas/LivingRoom/Bookshelf/bookshelf_translation.txt": {
+			"hash": "857de9323b6807c8a89812a59dd65588",
+			"mtime": "2018-02-24T21:02:46.749Z",
+			"size": 112
+		},
+		"assets/Areas/LivingRoom/Bookshelf/teehsooninki_ahtoolo_wiintaakani_09.mp3": {
+			"hash": "787a80eae81085f2d474a5bedeebc0a3",
+			"mtime": "2018-03-01T22:06:41.775Z",
+			"size": 61021
+		},
+		"assets/Areas/LivingRoom/Bookshelf/wiintaakani_teehsooni.mp3": {
+			"hash": "eaaa9fc349cd0f20af4682538fe3cceb",
+			"mtime": "2018-03-01T22:06:41.782Z",
+			"size": 45974
+		},
+		"assets/Areas/LivingRoom/Bookshelf/wiintaakani_teehsooninki_eehteeki.mp3": {
+			"hash": "8136878ac9a54d27beaf0d1794e426a2",
+			"mtime": "2018-03-01T22:06:41.790Z",
+			"size": 63946
+		},
+		"assets/Areas/LivingRoom/Bookshelves/bookshelves.png": {
+			"hash": "ff60523f631f58d46d33359287f97771",
+			"mtime": "2018-02-24T21:02:46.802Z",
+			"size": 156136
+		},
+		"assets/Areas/LivingRoom/Bookshelves/bookshelves_translation.txt": {
+			"hash": "de8893ad69161d55068c5ad9f31e4bc1",
+			"mtime": "2018-02-24T21:02:46.803Z",
+			"size": 35
+		},
+		"assets/Areas/LivingRoom/Bookshelves/teehsooninki_ahtoolo_wiintaakani_09.mp3": {
+			"hash": "787a80eae81085f2d474a5bedeebc0a3",
+			"mtime": "2018-03-01T22:06:41.000Z",
+			"size": 61021
+		},
+		"assets/Areas/LivingRoom/Bookshelves/wiintaakani_teehsooni.mp3": {
+			"hash": "eaaa9fc349cd0f20af4682538fe3cceb",
+			"mtime": "2018-03-01T22:06:41.000Z",
+			"size": 45974
+		},
+		"assets/Areas/LivingRoom/Bookshelves/wiintaakani_teehsooninki_eehteeki.mp3": {
+			"hash": "8136878ac9a54d27beaf0d1794e426a2",
+			"mtime": "2018-03-01T22:06:41.000Z",
+			"size": 63946
+		},
+		"assets/Areas/LivingRoom/Carpet/carpet.png": {
+			"hash": "d5b1dddafb690dc2adcb66f95c460067",
+			"mtime": "2018-02-24T21:02:46.779Z",
+			"size": 165547
+		},
+		"assets/Areas/LivingRoom/Carpet/carpet_translation.txt": {
+			"hash": "ee9ac16d243f998495632eea5e9ee7bf",
+			"mtime": "2018-02-24T21:02:46.780Z",
+			"size": 111
+		},
+		"assets/Areas/LivingRoom/Carpet/keehpeekinki_wilenaahkhtaakani.mp3": {
+			"hash": "a6e1cbee00c780066b188bc29bd5493a",
+			"mtime": "2018-03-01T22:08:26.028Z",
+			"size": 66872
+		},
+		"assets/Areas/LivingRoom/Carpet/seekhkaaki_wilenaahkhtaakanenki.mp3": {
+			"hash": "57b04e9bfd0160c587201446703748dd",
+			"mtime": "2018-03-01T22:08:26.030Z",
+			"size": 75649
+		},
+		"assets/Areas/LivingRoom/Carpet/wilenaahkhtaakani.mp3": {
+			"hash": "abf86399033ece3608c1de9d78641a95",
+			"mtime": "2018-03-28T02:40:27.531Z",
+			"size": 45974
+		},
+		"assets/Areas/LivingRoom/Chair/chair.png": {
+			"hash": "85be3c0bce3d09e7858fea22737f5c75",
+			"mtime": "2018-02-24T21:02:46.744Z",
+			"size": 125646
+		},
+		"assets/Areas/LivingRoom/Chair/chair_translation.txt": {
+			"hash": "1982bc7d978bd0fa50727a5f4e5106d4",
+			"mtime": "2018-02-24T21:02:46.736Z",
+			"size": 100
+		},
+		"assets/Areas/LivingRoom/Chair/iiniini_naahkiipioni_ciinkweepilo.mp3": {
+			"hash": "42eede584b343be0af4a940bf4ff21a2",
+			"mtime": "2018-03-28T02:03:43.517Z",
+			"size": 58095
+		},
+		"assets/Areas/LivingRoom/Chair/kotaki_naatilo_naahkiipioni.mp3": {
+			"hash": "ac969a2b888efeafaff186e9a46844c2",
+			"mtime": "2018-03-01T22:09:29.589Z",
+			"size": 56423
+		},
+		"assets/Areas/LivingRoom/Chair/naahkiipioni.mp3": {
+			"hash": "a5276de10c29512421b9334091254efd",
+			"mtime": "2018-03-01T22:09:29.591Z",
+			"size": 29674
+		},
+		"assets/Areas/LivingRoom/CoffeeTable/coffee_table.png": {
+			"hash": "6b4f17b801797417d9e48019e6c22143",
+			"mtime": "2018-02-24T21:02:46.719Z",
+			"size": 147871
+		},
+		"assets/Areas/LivingRoom/CoffeeTable/coffee_table_translation.txt": {
+			"hash": "c36ee2092d4862094906f906eb7238e3",
+			"mtime": "2018-02-24T21:02:46.710Z",
+			"size": 133
+		},
+		"assets/Areas/LivingRoom/CoffeeTable/pinekaateelo_weelhpiki_atoohpooninkonci.mp3": {
+			"hash": "e4099254f8033a14cfc44ea2421d2d22",
+			"mtime": "2018-03-01T22:10:14.625Z",
+			"size": 71470
+		},
+		"assets/Areas/LivingRoom/CoffeeTable/weelhpiki_atoohpooni.mp3": {
+			"hash": "19bcb4d1460f436a7fa2ccce85e344df",
+			"mtime": "2018-03-01T22:10:14.638Z",
+			"size": 45974
+		},
+		"assets/Areas/LivingRoom/CoffeeTable/weelhpiki_atoohpooni_ayoolo.mp3": {
+			"hash": "ac4e5c5e132bec6116d4293c56661541",
+			"mtime": "2018-03-01T22:10:14.632Z",
+			"size": 50572
+		},
+		"assets/Areas/LivingRoom/Computer/aahteeleentanto_kiinteelintaakani.mp3": {
+			"hash": "a927315200ca705aaade0f19560c33a3",
+			"mtime": "2018-03-01T22:11:20.423Z",
+			"size": 68126
+		},
+		"assets/Areas/LivingRoom/Computer/computer.png": {
+			"hash": "2eaabbcfe5a188f1c21c5c5b6686d6b0",
+			"mtime": "2018-02-24T21:02:46.814Z",
+			"size": 124221
+		},
+		"assets/Areas/LivingRoom/Computer/computer_translation.txt": {
+			"hash": "ee2d7af312162d2524752cb6078ad9cb",
+			"mtime": "2018-02-24T21:02:46.804Z",
+			"size": 130
+		},
+		"assets/Areas/LivingRoom/Computer/kiinteelintaakani.mp3": {
+			"hash": "30fa4bfbc1573b7317de93bbc8e5ec7c",
+			"mtime": "2018-03-01T22:11:20.425Z",
+			"size": 48708
+		},
+		"assets/Areas/LivingRoom/Computer/teepi-nko-hka_ayoowaani_kikiinteelintaakanemi.mp3": {
+			"hash": "438221e50adaaf885f2218a50783aef0",
+			"mtime": "2018-03-01T22:11:20.427Z",
+			"size": 84844
+		},
+		"assets/Areas/LivingRoom/Couch/apineensi.mp3": {
+			"hash": "ebe29b85bfb3c1804c3d786411298510",
+			"mtime": "2018-03-01T22:12:30.340Z",
+			"size": 21892
+		},
+		"assets/Areas/LivingRoom/Couch/couch.png": {
+			"hash": "97426342791c50890f2d03675c42cf18",
+			"mtime": "2018-02-24T21:02:46.727Z",
+			"size": 152962
+		},
+		"assets/Areas/LivingRoom/Couch/couch_translation.txt": {
+			"hash": "567954a0f00194d651dd0dee021d2b4a",
+			"mtime": "2018-02-24T21:02:46.721Z",
+			"size": 80
+		},
+		"assets/Areas/LivingRoom/Couch/neekaaniwiki_apineensi.mp3": {
+			"hash": "bf77fbbd5087719377a2f077f7a26d3e",
+			"mtime": "2018-03-01T22:12:30.342Z",
+			"size": 53497
+		},
+		"assets/Areas/LivingRoom/Couch/nipaahkani_apineensinki.mp3": {
+			"hash": "51a7f85942b4db3ca40467d987946e8f",
+			"mtime": "2018-03-01T22:12:30.344Z",
+			"size": 56423
+		},
+		"assets/Areas/LivingRoom/EndTable/atoohpooneensi.mp3": {
+			"hash": "503d1a98415b4c59aa147a3070fa4d0a",
+			"mtime": "2018-03-01T22:13:23.179Z",
+			"size": 43048
+		},
+		"assets/Areas/LivingRoom/EndTable/atoohpooneensinki_ahtoolo_kimenihkwaakanemi.mp3": {
+			"hash": "94750a2ce69fa5124f4d0b78335a8634",
+			"mtime": "2018-03-01T22:13:23.181Z",
+			"size": 83172
+		},
+		"assets/Areas/LivingRoom/EndTable/end_table.png": {
+			"hash": "b321b87f558c268247438eb246eb3fac",
+			"mtime": "2018-02-24T21:02:46.761Z",
+			"size": 56816
+		},
+		"assets/Areas/LivingRoom/EndTable/end_table_translation.txt": {
+			"hash": "9b90d8d1e285edfbc92db4d08302f298",
+			"mtime": "2018-02-24T21:02:46.760Z",
+			"size": 129
+		},
+		"assets/Areas/LivingRoom/EndTable/oowaaha_aantahtoolo_atoohpooneensi.mp3": {
+			"hash": "02c8612f0eb38bfb9310fc9077552845",
+			"mtime": "2018-03-01T22:13:23.184Z",
+			"size": 69798
+		},
+		"assets/Areas/LivingRoom/Fireplace/fireplace.png": {
+			"hash": "f53ab95cfd47cff76b188a205f3139c6",
+			"mtime": "2018-02-24T21:02:46.701Z",
+			"size": 142803
+		},
+		"assets/Areas/LivingRoom/Fireplace/fireplace_translation.txt": {
+			"hash": "932489401c72c8a6ef00fe4435213add",
+			"mtime": "2018-02-24T21:02:46.698Z",
+			"size": 106
+		},
+		"assets/Areas/LivingRoom/Fireplace/kii$aaphkiteeki_ki$aaphkaahkosaakani.mp3": {
+			"hash": "000fb0859373e67d0a973d3c719d4052",
+			"mtime": "2018-03-01T22:16:03.695Z",
+			"size": 72723
+		},
+		"assets/Areas/LivingRoom/Fireplace/kii$aaphkiteeki_koteewikaani.mp3": {
+			"hash": "bd87311faaaa2fb9c2c5c29019708caf",
+			"mtime": "2018-03-28T02:00:48.820Z",
+			"size": 61021
+		},
+		"assets/Areas/LivingRoom/Fireplace/koteewikaani.mp3": {
+			"hash": "eeed9966936e095e011d5ad8046ebefe",
+			"mtime": "2018-03-01T22:16:03.696Z",
+			"size": 29416
+		},
+		"assets/Areas/LivingRoom/Fireplace/tatankonanto_koteewikaani.mp3": {
+			"hash": "9a3ec33e9d4fa8c609879bdcf749fec4",
+			"mtime": "2018-03-01T22:16:03.698Z",
+			"size": 51826
+		},
+		"assets/Areas/LivingRoom/Lamp/aahteeleentanto.mp3": {
+			"hash": "9254f3b791dc7a03c797f221e3234267",
+			"mtime": "2018-03-01T22:16:40.399Z",
+			"size": 37197
+		},
+		"assets/Areas/LivingRoom/Lamp/lamp.png": {
+			"hash": "059e3b8ffa5e9fc07787e7d1de9b7863",
+			"mtime": "2018-02-24T21:02:46.692Z",
+			"size": 88284
+		},
+		"assets/Areas/LivingRoom/Lamp/lamp_translation.txt": {
+			"hash": "3056519140994313161fc027363d5ac9",
+			"mtime": "2018-02-24T21:02:46.691Z",
+			"size": 100
+		},
+		"assets/Areas/LivingRoom/Lamp/waapantenaakani.mp3": {
+			"hash": "f9001613e591965fa288bd37a3ca5a2e",
+			"mtime": "2018-03-01T22:16:40.400Z",
+			"size": 34271
+		},
+		"assets/Areas/LivingRoom/Lamp/waapantenanto.mp3": {
+			"hash": "7a2e51ed9364205806d5a6e3cac0e41d",
+			"mtime": "2018-03-01T22:16:40.402Z",
+			"size": 31346
+		},
+		"assets/Areas/LivingRoom/LivingRoom/ciinkweepikaani.mp3": {
+			"hash": "9d3da8ea1de914f494e2a205eee4387e",
+			"mtime": "2018-03-01T22:17:14.033Z",
+			"size": 45974
+		},
+		"assets/Areas/LivingRoom/LivingRoom/ciinkweepilo.mp3": {
+			"hash": "a2fb54512b8bec9879c13c15887b1cc6",
+			"mtime": "2018-03-01T22:17:14.040Z",
+			"size": 17295
+		},
+		"assets/Areas/LivingRoom/LivingRoom/living_room.png": {
+			"hash": "c65c968cc95b82b04bee23495ea5f7be",
+			"mtime": "2018-02-24T21:02:46.797Z",
+			"size": 86092
+		},
+		"assets/Areas/LivingRoom/LivingRoom/living_room_translation.txt": {
+			"hash": "95660eaaf1e61aec5c47e1ea9f1e96cb",
+			"mtime": "2018-02-24T21:02:46.796Z",
+			"size": 29
+		},
+		"assets/Areas/Nursery/Blanket/blanket.png": {
+			"hash": "77125295527f903e85654587d144c8ad",
+			"mtime": "2018-02-24T21:02:46.913Z",
+			"size": 126326
+		},
+		"assets/Areas/Nursery/Blanket/taani_waapimotayi.mp3": {
+			"hash": "2db44fdcfc748de27541e1dfa4d7b36c",
+			"mtime": "2018-03-01T22:27:17.799Z",
+			"size": 43048
+		},
+		"assets/Areas/Nursery/Blanket/waapimotayi.mp3": {
+			"hash": "95d531822d58a172ebb8317d6ea70c37",
+			"mtime": "2018-03-01T22:27:17.800Z",
+			"size": 28580
+		},
+		"assets/Areas/Nursery/Book/book.png": {
+			"hash": "f8256bc5446169684030a63e62c2b4d0",
+			"mtime": "2018-02-24T21:02:46.971Z",
+			"size": 77751
+		},
+		"assets/Areas/Nursery/Book/wiintaakani.mp3": {
+			"hash": "36ae44f391f5f323de70fdd8820e3ee8",
+			"mtime": "2018-02-24T21:02:47.016Z",
+			"size": 18942
+		},
+		"assets/Areas/Nursery/Book/wiintaakani_manto.mp3": {
+			"hash": "7cae3681dd2d416f0fe224a19010e5d0",
+			"mtime": "2018-02-24T21:02:46.999Z",
+			"size": 37197
+		},
+		"assets/Areas/Nursery/Book/wiintantaawi.mp3": {
+			"hash": "689caee63eef7fc4901121c0e5ce7aa8",
+			"mtime": "2018-02-24T21:02:46.978Z",
+			"size": 16544
+		},
+		"assets/Areas/Nursery/Bookshelf/bookshelf.png": {
+			"hash": "ff60523f631f58d46d33359287f97771",
+			"mtime": "2018-02-24T21:02:46.935Z",
+			"size": 156136
+		},
+		"assets/Areas/Nursery/Bookshelf/wiintaakani_ahtwaakani.mp3": {
+			"hash": "165ab3fe0f4184d1484395c03ea35bef",
+			"mtime": "2018-02-24T21:02:46.930Z",
+			"size": 58095
+		},
+		"assets/Areas/Nursery/Bookshelf/wiintaakani_teehsooni.mp3": {
+			"hash": "eaaa9fc349cd0f20af4682538fe3cceb",
+			"mtime": "2018-03-28T02:44:15.711Z",
+			"size": 45974
+		},
+		"assets/Areas/Nursery/Bookshelf/wiintaakani_wilahtoolo.mp3": {
+			"hash": "858fe3492206f130e9bcc50979c9a8a1",
+			"mtime": "2018-02-24T21:02:46.932Z",
+			"size": 45974
+		},
+		"assets/Areas/Nursery/Bottle/bottle.png": {
+			"hash": "22a530b278e7b1a7c2365d6c3d9827a3",
+			"mtime": "2018-02-24T21:02:47.088Z",
+			"size": 82011
+		},
+		"assets/Areas/Nursery/Bottle/minto.mp3": {
+			"hash": "77cb88f513816faef12cf57a8d6e4cd8",
+			"mtime": "2018-02-24T21:02:47.103Z",
+			"size": 17923
+		},
+		"assets/Areas/Nursery/Bottle/sakinteewi.mp3": {
+			"hash": "ed68b6ab8aaa977cc7cd966ce65604a7",
+			"mtime": "2018-02-24T21:02:47.095Z",
+			"size": 23146
+		},
+		"assets/Areas/Nursery/Bottle/taani_sakinteewi.mp3": {
+			"hash": "493912abbc747c3d3aea2baa74f4afa7",
+			"mtime": "2018-02-24T21:02:47.076Z",
+			"size": 38451
+		},
+		"assets/Areas/Nursery/ChangingTable/changing-table.png": {
+			"hash": "9ce644f54d0e08d0fcab5e11683c643a",
+			"mtime": "2018-02-24T21:02:46.839Z",
+			"size": 112101
+		},
+		"assets/Areas/Nursery/ChangingTable/eehi_aancimotayinki.mp3": {
+			"hash": "ce0e6a8263cb18c42e4763a73a0a12b9",
+			"mtime": "2018-03-01T22:26:19.346Z",
+			"size": 53497
+		},
+		"assets/Areas/Nursery/ChangingTable/paankonelaani.mp3": {
+			"hash": "a83ab67e216cadb452207042261d3e44",
+			"mtime": "2018-03-01T22:26:19.348Z",
+			"size": 40123
+		},
+		"assets/Areas/Nursery/Crib/crib.png": {
+			"hash": "97c2324d13de9ff6e25701f06f1c2d98",
+			"mtime": "2018-02-24T21:02:47.163Z",
+			"size": 113797
+		},
+		"assets/Areas/Nursery/Crib/nipaalo.mp3": {
+			"hash": "4d79a7322dc0bffaebf76f2c6977b87a",
+			"mtime": "2018-03-01T22:21:20.232Z",
+			"size": 30746
+		},
+		"assets/Areas/Nursery/Crib/piloohsa_apineensi.mp3": {
+			"hash": "b7244f8292dbfac6f3cf5b1092c5b8f0",
+			"mtime": "2018-03-01T22:21:20.234Z",
+			"size": 45974
+		},
+		"assets/Areas/Nursery/Crib/wi$ih$into.mp3": {
+			"hash": "9d4b5f61578632fb4788bdfe11d7114c",
+			"mtime": "2018-03-01T22:21:20.236Z",
+			"size": 38298
+		},
+		"assets/Areas/Nursery/Diaper/diaper.png": {
+			"hash": "6f08d71e673f42b5cf216cf50b7bf915",
+			"mtime": "2018-02-24T21:02:47.032Z",
+			"size": 136907
+		},
+		"assets/Areas/Nursery/Diaper/paankonaakani.mp3": {
+			"hash": "96c3d079794d1bf076a4422f545bb39d",
+			"mtime": "2018-02-24T21:02:47.024Z",
+			"size": 38451
+		},
+		"assets/Areas/Nursery/DiaperBag/diaper-bag.png": {
+			"hash": "c6107df1c1e057eff3b458a8a6a8b7f6",
+			"mtime": "2018-02-24T21:02:46.927Z",
+			"size": 129803
+		},
+		"assets/Areas/Nursery/DiaperBag/kii$aani.mp3": {
+			"hash": "a1453aded7c547140dbd6919e4453b5e",
+			"mtime": "2018-02-24T21:02:46.925Z",
+			"size": 37253
+		},
+		"assets/Areas/Nursery/DiaperBag/kii$aani_piitoolo.mp3": {
+			"hash": "9ced8e2dc215872c9de4465c7164047f",
+			"mtime": "2018-02-24T21:02:46.923Z",
+			"size": 44720
+		},
+		"assets/Areas/Nursery/DiaperBag/kii$aaninki_ahtoolo.mp3": {
+			"hash": "7efeb28d2b97fde9fc1bbd6b6ea02371",
+			"mtime": "2018-02-24T21:02:46.928Z",
+			"size": 47180
+		},
+		"assets/Areas/Nursery/Doll/doll.png": {
+			"hash": "742b4780a8fd0211b231f0cbaa1ef628",
+			"mtime": "2018-02-24T21:02:46.945Z",
+			"size": 104459
+		},
+		"assets/Areas/Nursery/Doll/oohsemima.mp3": {
+			"hash": "7901d3d8abfbdd00198db9c518c18e8e",
+			"mtime": "2018-02-24T21:02:46.947Z",
+			"size": 40123
+		},
+		"assets/Areas/Nursery/Doll/taana_oohsemima.mp3": {
+			"hash": "58e88a850f8b6c5b9a92bcbdc439e6fa",
+			"mtime": "2018-02-24T21:02:46.943Z",
+			"size": 41377
+		},
+		"assets/Areas/Nursery/Nursery/nahi_nipaalo.mp3": {
+			"hash": "44573154684138d7e7ae63efc7ea570e",
+			"mtime": "2018-03-01T22:19:48.188Z",
+			"size": 29939
+		},
+		"assets/Areas/Nursery/Nursery/nursery.png": {
+			"hash": "7d664ca8c1b1b8cf34528932b8b5804f",
+			"mtime": "2018-02-24T21:02:47.042Z",
+			"size": 118631
+		},
+		"assets/Areas/Nursery/Nursery/piloohsikaani.mp3": {
+			"hash": "02a36f9127dd5c2d42eb1b16980a3ece",
+			"mtime": "2018-03-01T22:19:48.189Z",
+			"size": 40123
+		},
+		"assets/Areas/Nursery/Nursery/seenitikoleenaki.mp3": {
+			"hash": "b99de7f13dcf9ddf44e6bf03e56cc1e0",
+			"mtime": "2018-03-01T22:19:48.190Z",
+			"size": 43048
+		},
+		"assets/Areas/Nursery/Plaything/paahphtoonki.mp3": {
+			"hash": "1807433ca458d95037084e03842c5e8b",
+			"mtime": "2018-02-24T21:02:46.949Z",
+			"size": 40123
+		},
+		"assets/Areas/Nursery/Plaything/paahphtoonkia_wilahtoolo.mp3": {
+			"hash": "5bd600cf022e5ca0a4c0127c6bba15d9",
+			"mtime": "2018-02-24T21:02:46.953Z",
+			"size": 48900
+		},
+		"assets/Areas/Nursery/Plaything/plaything-toy.png": {
+			"hash": "6026b771f97a1dc94ad7cf42520750cf",
+			"mtime": "2018-02-24T21:02:46.951Z",
+			"size": 112337
+		},
+		"assets/Areas/Nursery/Rattle/$iih$iikwani.mp3": {
+			"hash": "5e6882df7052b85479743d43cd39cf3f",
+			"mtime": "2018-02-24T21:02:46.964Z",
+			"size": 28162
+		},
+		"assets/Areas/Nursery/Rattle/rattle.png": {
+			"hash": "e75f01ead166cc1c6991a9f1b1674f15",
+			"mtime": "2018-02-24T21:02:46.962Z",
+			"size": 84881
+		},
+		"assets/Areas/Nursery/RockingChair/maamawi_weeweephsaataawi.mp3": {
+			"hash": "efc20b1a026293a99586647a5121f29c",
+			"mtime": "2018-03-01T22:22:15.101Z",
+			"size": 56423
+		},
+		"assets/Areas/Nursery/RockingChair/rocking-chair.png": {
+			"hash": "ef58990d9b539ae7b82225c8243139f3",
+			"mtime": "2018-02-24T21:02:46.955Z",
+			"size": 125515
+		},
+		"assets/Areas/Nursery/RockingChair/weeweephsaaki_naahkiipioni.mp3": {
+			"hash": "16fd03da062350da01e779323f274dd0",
+			"mtime": "2018-03-01T22:22:15.102Z",
+			"size": 56423
+		},
+		"assets/Areas/Nursery/Shirt/aancimotayilo.mp3": {
+			"hash": "76b33ac5c501753433b5a577760ad4fa",
+			"mtime": "2018-02-24T21:02:47.000Z",
+			"size": 29112
+		},
+		"assets/Areas/Nursery/Shirt/naapinaakani.mp3": {
+			"hash": "10a1571a5974e52dbc4e2b6567b5db2b",
+			"mtime": "2018-02-24T21:02:47.000Z",
+			"size": 26490
+		},
+		"assets/Areas/Nursery/Shirt/naapinamohelaani.mp3": {
+			"hash": "077ffc9b839aee1827b6af95b83e4dce",
+			"mtime": "2018-02-24T21:02:47.000Z",
+			"size": 54564
+		},
+		"assets/Areas/Nursery/Shirt/shirt.png": {
+			"hash": "c65cf648f6be681b28e410d839bc3418",
+			"mtime": "2018-02-24T21:02:47.129Z",
+			"size": 85341
+		},
+		"assets/Areas/Nursery/Skirt/aancimotayilo.mp3": {
+			"hash": "76b33ac5c501753433b5a577760ad4fa",
+			"mtime": "2018-02-24T21:02:46.881Z",
+			"size": 29112
+		},
+		"assets/Areas/Nursery/Skirt/akootayi.mp3": {
+			"hash": "bed84359b1a408ebe91e529b67525e88",
+			"mtime": "2018-02-24T21:02:46.874Z",
+			"size": 26748
+		},
+		"assets/Areas/Nursery/Skirt/naapinamohelaani.mp3": {
+			"hash": "077ffc9b839aee1827b6af95b83e4dce",
+			"mtime": "2018-02-24T21:02:46.887Z",
+			"size": 54564
+		},
+		"assets/Areas/Nursery/Skirt/skirt.png": {
+			"hash": "dd07f74079656f70758c6cdfa30faabc",
+			"mtime": "2018-02-24T21:02:46.902Z",
+			"size": 131945
+		},
+		"assets/Areas/Outside/Coat/coat.png": {
+			"hash": "f167b19cb55d9c57de9cff50a1a0968d",
+			"mtime": "2018-02-24T21:02:46.650Z",
+			"size": 100056
+		},
+		"assets/Areas/Outside/Coat/kikinwaakwaanimi_naapinanto.mp3": {
+			"hash": "aff816961285fbc4baf4cdcd17778540",
+			"mtime": "2018-03-01T22:43:20.000Z",
+			"size": 59349
+		},
+		"assets/Areas/Outside/Coat/kinwaakwaani.mp3": {
+			"hash": "91551b3958f094e8df1957e807ed9ea1",
+			"mtime": "2018-03-01T22:44:12.436Z",
+			"size": 35525
+		},
+		"assets/Areas/Outside/Coat/taani_kikinwaakwaanimi.mp3": {
+			"hash": "8c0f9bde39536995ad568eb3da8ce0f8",
+			"mtime": "2018-03-01T22:43:20.000Z",
+			"size": 51826
+		},
+		"assets/Areas/Outside/Dog/alemwa.mp3": {
+			"hash": "697a2b0c6bff11be2f133b8a7ad0866f",
+			"mtime": "2018-03-01T22:46:39.422Z",
+			"size": 21580
+		},
+		"assets/Areas/Outside/Dog/dog.png": {
+			"hash": "faadf74b2d5910b8c8d7b5911edf6d6a",
+			"mtime": "2018-02-24T21:02:46.594Z",
+			"size": 186628
+		},
+		"assets/Areas/Outside/Dog/dog_translation.txt": {
+			"hash": "338ff2d22f4f502de121040beed724ca",
+			"mtime": "2018-02-24T21:02:46.599Z",
+			"size": 61
+		},
+		"assets/Areas/Outside/Dog/natomi_alemwa.mp3": {
+			"hash": "7fc157ee018c84f10011f39ce63cc144",
+			"mtime": "2018-03-01T22:46:39.429Z",
+			"size": 34271
+		},
+		"assets/Areas/Outside/Dog/taanaaha_alemwaapiikwi.mp3": {
+			"hash": "dbe7ef7488fc04f931b94ec9ff58c218",
+			"mtime": "2018-03-01T22:46:39.437Z",
+			"size": 44720
+		},
+		"assets/Areas/Outside/DownyWoodpecker/downy_woodpecker.png": {
+			"hash": "2497d2039908489a370c5a30b8f3f78b",
+			"mtime": "2018-02-24T21:02:46.672Z",
+			"size": 134793
+		},
+		"assets/Areas/Outside/DownyWoodpecker/downy_woodpecker_translation.txt": {
+			"hash": "d71591fbba2c075d74a8c451d634775f",
+			"mtime": "2018-02-24T21:02:46.673Z",
+			"size": 134
+		},
+		"assets/Areas/Outside/DownyWoodpecker/kalaakalaala.mp3": {
+			"hash": "e42d2a0b77dfdfda9cb8a45fb92e2e72",
+			"mtime": "2018-03-01T22:48:12.828Z",
+			"size": 29834
+		},
+		"assets/Areas/Outside/DownyWoodpecker/kalaakalaalaki_meeh$iiliciiki.mp3": {
+			"hash": "a4bea777b89dba54036e0f62b8c5574f",
+			"mtime": "2018-03-01T22:48:12.835Z",
+			"size": 59349
+		},
+		"assets/Areas/Outside/DownyWoodpecker/pin$iwa_seekiinaaci_kalaakalaalali.mp3": {
+			"hash": "1bb753a56134a49d92a567611e96e700",
+			"mtime": "2018-03-01T22:48:12.842Z",
+			"size": 69798
+		},
+		"assets/Areas/Outside/Fence/aanchtwaani_niimhkikantaakani.mp3": {
+			"hash": "89425b3037eee14220f0b4bb89ce6e96",
+			"mtime": "2018-03-01T22:49:24.258Z",
+			"size": 61021
+		},
+		"assets/Areas/Outside/Fence/fence.png": {
+			"hash": "7d349a567987cf6d5ebc8bc92c48532e",
+			"mtime": "2018-02-24T21:02:46.660Z",
+			"size": 102510
+		},
+		"assets/Areas/Outside/Fence/fence_translation.txt": {
+			"hash": "fcde64917a29732c3acd284401eef1d7",
+			"mtime": "2018-02-24T21:02:46.663Z",
+			"size": 105
+		},
+		"assets/Areas/Outside/Fence/niimhkikantaakani.mp3": {
+			"hash": "801d5e8f02f1f4f3128b443bde4daa52",
+			"mtime": "2018-03-01T22:49:24.261Z",
+			"size": 48900
+		},
+		"assets/Areas/Outside/Fence/niimhkikantaakani_paapintenki.mp3": {
+			"hash": "1a0422e25fa2f0809ff9e2bb011809a8",
+			"mtime": "2018-03-01T22:49:24.260Z",
+			"size": 56423
+		},
+		"assets/Areas/Outside/Garden/ahkeenki_eepici.mp3": {
+			"hash": "4e64b03db02c981de48cda0ed256078a",
+			"mtime": "2018-03-01T22:50:08.782Z",
+			"size": 35525
+		},
+		"assets/Areas/Outside/Garden/ahki.mp3": {
+			"hash": "17531640d9a585f34edd37dc1422e9bf",
+			"mtime": "2018-03-01T22:50:08.784Z",
+			"size": 48900
+		},
+		"assets/Areas/Outside/Garden/garden.png": {
+			"hash": "a7315c58a6149a9b1cf62c38cf67150e",
+			"mtime": "2018-02-24T21:02:46.618Z",
+			"size": 106725
+		},
+		"assets/Areas/Outside/Garden/garden_translation.txt": {
+			"hash": "b66e3e9b74717d228c7b8ec42c5fc911",
+			"mtime": "2018-02-24T21:02:46.616Z",
+			"size": 75
+		},
+		"assets/Areas/Outside/Garden/noohkapi$anki_ahkeenki.mp3": {
+			"hash": "a3f0cb1f3d7c7c1c28a8f3e07e3e00a3",
+			"mtime": "2018-03-01T22:50:08.786Z",
+			"size": 43048
+		},
+		"assets/Areas/Outside/Grass/aalime_kiihki$ahkiaani.mp3": {
+			"hash": "e546d52940d02f77cbb69e3f585b2f8e",
+			"mtime": "2018-03-01T22:50:49.317Z",
+			"size": 50572
+		},
+		"assets/Areas/Outside/Grass/grass.png": {
+			"hash": "ba39d24a9b1e85f7ffeabeb2ef072d42",
+			"mtime": "2018-02-24T21:02:46.625Z",
+			"size": 170414
+		},
+		"assets/Areas/Outside/Grass/grass_translation.txt": {
+			"hash": "f39bed630464c3386de1f20839e30e1b",
+			"mtime": "2018-02-24T21:02:46.619Z",
+			"size": 86
+		},
+		"assets/Areas/Outside/Grass/ihkipakahkatwi.mp3": {
+			"hash": "5c27c873a5661fd71f3617e64f17f422",
+			"mtime": "2018-03-01T22:50:49.321Z",
+			"size": 50572
+		},
+		"assets/Areas/Outside/Grass/ihkipakahkatwi_iihpiiki.mp3": {
+			"hash": "4e314cea0d6eed114ddc50ed7419169c",
+			"mtime": "2018-03-01T22:50:49.319Z",
+			"size": 48900
+		},
+		"assets/Areas/Outside/LargeBird/large_bird.png": {
+			"hash": "8229f6a284f8ccbe222527ebad42f310",
+			"mtime": "2018-02-24T21:02:46.573Z",
+			"size": 160338
+		},
+		"assets/Areas/Outside/LargeBird/large_bird00_large_bird.mp3": {
+			"hash": "1c9c5fdb0f8a2bdd7252b4e7a932f2bf",
+			"mtime": "2018-02-24T21:02:46.000Z",
+			"size": 17273
+		},
+		"assets/Areas/Outside/LargeBird/large_bird01_the_dog_is_chasing_the_bird.mp3": {
+			"hash": "690e1ad2acac94bfd244742121c35bd9",
+			"mtime": "2018-02-24T21:02:46.000Z",
+			"size": 75452
+		},
+		"assets/Areas/Outside/LargeBird/large_bird02_the_bird_is_making_its_nest.mp3": {
+			"hash": "6b927b6c6b2b11971ec228c1981fea30",
+			"mtime": "2018-02-24T21:02:46.000Z",
+			"size": 61346
+		},
+		"assets/Areas/Outside/LargeBird/large_bird_translation.txt": {
+			"hash": "024130f4b0a0f15207190786dceb3bf8",
+			"mtime": "2018-02-24T21:02:46.575Z",
+			"size": 109
+		},
+		"assets/Areas/Outside/Leaves/leaves.png": {
+			"hash": "433805f224e5f82c8adf3658ba214113",
+			"mtime": "2018-02-24T21:02:46.644Z",
+			"size": 206671
+		},
+		"assets/Areas/Outside/Leaves/leaves_translation.txt": {
+			"hash": "67fb8a38a1dac74f944fa8b72507d434",
+			"mtime": "2018-02-24T21:02:46.636Z",
+			"size": 66
+		},
+		"assets/Areas/Outside/Leaves/mih$ipakooki.mp3": {
+			"hash": "fd8bfc5e20786a892eef70d7dbbde2b3",
+			"mtime": "2018-03-01T22:51:52.503Z",
+			"size": 29674
+		},
+		"assets/Areas/Outside/Leaves/peenipakahki.mp3": {
+			"hash": "f196f4f101606b5239c73533c6f5f1f0",
+			"mtime": "2018-03-01T22:51:52.510Z",
+			"size": 38451
+		},
+		"assets/Areas/Outside/Leaves/saakipakahki.mp3": {
+			"hash": "d0e8e4a231419d9548f09cdee8be01fe",
+			"mtime": "2018-03-01T22:51:52.516Z",
+			"size": 37197
+		},
+		"assets/Areas/Outside/Outside/ahkinki.mp3": {
+			"hash": "87142d027f0ebce46c40b0001c9cabae",
+			"mtime": "2018-03-01T23:25:49.164Z",
+			"size": 13332
+		},
+		"assets/Areas/Outside/Outside/mimekwiitaawi.mp3": {
+			"hash": "736e21860e0f703e008e123f037a9e81",
+			"mtime": "2018-03-01T22:52:58.395Z",
+			"size": 24400
+		},
+		"assets/Areas/Outside/Outside/outside.png": {
+			"hash": "c26837381d4926b5553dde67083a909d",
+			"mtime": "2018-02-24T21:02:46.653Z",
+			"size": 54921
+		},
+		"assets/Areas/Outside/Outside/outside_translation.txt": {
+			"hash": "4b79c7b705e6e02c96715781f86ff15e",
+			"mtime": "2018-02-24T21:02:46.653Z",
+			"size": 17
+		},
+		"assets/Areas/Outside/Outside/pimpaalitaawi.mp3": {
+			"hash": "d0ee7f4997683b33e148dbb04a303244",
+			"mtime": "2018-03-01T22:52:58.396Z",
+			"size": 22728
+		},
+		"assets/Areas/Outside/PileatedWoodpecker/kwaahkwa.mp3": {
+			"hash": "24c6361869aeb8d22a1ab560f266dabe",
+			"mtime": "2018-03-01T22:53:59.744Z",
+			"size": 21493
+		},
+		"assets/Areas/Outside/PileatedWoodpecker/kwaahkwa_noontawaki.mp3": {
+			"hash": "6c322ac0dcd870bb469f8f97b6ba328f",
+			"mtime": "2018-03-01T22:53:59.742Z",
+			"size": 40123
+		},
+		"assets/Areas/Outside/PileatedWoodpecker/kwaahkwaki_ee$ihseeciki.mp3": {
+			"hash": "ce5102adc56097830af60030c308aa93",
+			"mtime": "2018-03-01T22:53:59.746Z",
+			"size": 54751
+		},
+		"assets/Areas/Outside/PileatedWoodpecker/pileated_woodpecker.png": {
+			"hash": "8229f6a284f8ccbe222527ebad42f310",
+			"mtime": "2018-02-24T21:02:46.610Z",
+			"size": 160338
+		},
+		"assets/Areas/Outside/PileatedWoodpecker/pileated_woodpecker_translation.txt": {
+			"hash": "39f5b5e5faf7c4b12f6ae19bc1d52263",
+			"mtime": "2018-02-24T21:02:46.602Z",
+			"size": 119
+		},
+		"assets/Areas/Outside/Shed/natawaapantanto_teehsikaaninki.mp3": {
+			"hash": "978d89d783c60ee9ab097495f584ad13",
+			"mtime": "2018-03-01T22:55:26.067Z",
+			"size": 61021
+		},
+		"assets/Areas/Outside/Shed/shed.png": {
+			"hash": "92575a87dcb28c72d00b5511b9c451a6",
+			"mtime": "2018-02-24T21:02:46.631Z",
+			"size": 84774
+		},
+		"assets/Areas/Outside/Shed/shed_translation.txt": {
+			"hash": "d8e1ac6f399cbf36a9ef5164b1f1c875",
+			"mtime": "2018-02-24T21:02:46.634Z",
+			"size": 89
+		},
+		"assets/Areas/Outside/Shed/teehsikaani.mp3": {
+			"hash": "024f8d5a0071c7a924a287b5eb861278",
+			"mtime": "2018-03-01T22:55:26.068Z",
+			"size": 27326
+		},
+		"assets/Areas/Outside/Shed/teehsikaaninki_akootinki.mp3": {
+			"hash": "d743210f91edef6ff027750b5a32e8da",
+			"mtime": "2018-03-01T22:55:26.070Z",
+			"size": 48900
+		},
+		"assets/Areas/Outside/Shoes/mahkisina.mp3": {
+			"hash": "236bcadcf0c0da33318ab05ac7d9fa9b",
+			"mtime": "2018-03-01T22:56:18.154Z",
+			"size": 31346
+		},
+		"assets/Areas/Outside/Shoes/pisehkanto.mp3": {
+			"hash": "ae01842831c5116653ce8fc08f2cf039",
+			"mtime": "2018-03-28T02:02:12.975Z",
+			"size": 28002
+		},
+		"assets/Areas/Outside/Shoes/shoes.png": {
+			"hash": "51ee55b78279fc4ce366e25a8de83096",
+			"mtime": "2018-02-24T21:02:46.677Z",
+			"size": 135549
+		},
+		"assets/Areas/Outside/Shoes/taani_kimahkisina.mp3": {
+			"hash": "8cb7d716237e6abe7cf0228bfdbce527",
+			"mtime": "2018-03-01T22:56:18.158Z",
+			"size": 45974
+		},
+		"assets/Areas/Outside/SmallBird/small_bird.png": {
+			"hash": "2497d2039908489a370c5a30b8f3f78b",
+			"mtime": "2018-02-24T21:02:46.588Z",
+			"size": 134793
+		},
+		"assets/Areas/Outside/SmallBird/small_bird_translation.txt": {
+			"hash": "d95cce8c34a1337aa363abd63f1cc932",
+			"mtime": "2018-02-24T21:02:46.581Z",
+			"size": 101
+		},
+		"assets/Areas/Outside/Squirrel/anikwa.mp3": {
+			"hash": "cc616d19037572079512bc263e6f8a33",
+			"mtime": "2018-03-01T22:57:45.192Z",
+			"size": 20221
+		},
+		"assets/Areas/Outside/Squirrel/anikwa_ee$ihseeci_ahtawaaninki.mp3": {
+			"hash": "0537a32d9c3d2ae934bd4458dcfa3fde",
+			"mtime": "2018-03-01T22:57:45.191Z",
+			"size": 54751
+		},
+		"assets/Areas/Outside/Squirrel/squirrel.png": {
+			"hash": "a567015138924409695c4e158c1a35d5",
+			"mtime": "2018-02-24T21:02:46.684Z",
+			"size": 96573
+		},
+		"assets/Areas/Outside/Squirrel/squirrel00_squirrel.mp3": {
+			"hash": "7eb15137404a2346885741b266102ea9",
+			"mtime": "2018-02-24T21:02:46.000Z",
+			"size": 12212
+		},
+		"assets/Areas/Outside/Squirrel/squirrel01_the_squirrel_is_climbing_the_tree.mp3": {
+			"hash": "da2b7d08a086827c367b2c57182f850a",
+			"mtime": "2018-02-24T21:02:46.000Z",
+			"size": 63958
+		},
+		"assets/Areas/Outside/Squirrel/squirrel02_there_is_a_squirrel_nest_in_the_tree.mp3": {
+			"hash": "692639f93b112063b01607163ab205cf",
+			"mtime": "2018-02-24T21:02:46.000Z",
+			"size": 97918
+		},
+		"assets/Areas/Outside/Squirrel/squirrel_translation.txt": {
+			"hash": "55e77a1285ed2411cc8fdfa46fe2cb9d",
+			"mtime": "2018-02-24T21:02:46.681Z",
+			"size": 100
+		},
+		"assets/Areas/Outside/Tree/ahkwaamaahkweetaawi.mp3": {
+			"hash": "695d28be0b84e4de54ade22fe9493ca8",
+			"mtime": "2018-03-01T22:58:32.558Z",
+			"size": 53497
+		},
+		"assets/Areas/Outside/Tree/ahtawaani.mp3": {
+			"hash": "86c7fe8d5e576419eb496348fc61ebb6",
+			"mtime": "2018-03-01T22:58:32.564Z",
+			"size": 26490
+		},
+		"assets/Areas/Outside/Tree/peehkaahkwahki_ahtawaani.mp3": {
+			"hash": "528aee03b62f4ad3bec1df60b0c49db4",
+			"mtime": "2018-03-01T22:58:32.571Z",
+			"size": 50572
+		},
+		"assets/Areas/Outside/Tree/tree.png": {
+			"hash": "ea4e0554240d5e1e332ee3a1ff415f3d",
+			"mtime": "2018-02-24T21:02:46.560Z",
+			"size": 172909
+		},
+		"assets/Areas/Outside/Tree/tree_translation.txt": {
+			"hash": "fc5ff0903b99ba5459badc10139f9830",
+			"mtime": "2018-02-24T21:02:46.557Z",
+			"size": 80
+		},
+		"assets/Images/Icons/Bathroom.png": {
+			"hash": "a521153d994f7fa8ccb128f9a219d7e6",
+			"mtime": "2018-02-24T21:02:46.177Z",
+			"size": 31647
+		},
+		"assets/Images/Icons/Bathroom_invert.png": {
+			"hash": "14c3f6cb00be3ed04ca1aaa6d6b1a039",
+			"mtime": "2018-02-24T21:02:46.140Z",
+			"size": 14101
+		},
+		"assets/Images/Icons/Bedroom.png": {
+			"hash": "19a58730b7790cf9f3b295f2e1e89de8",
+			"mtime": "2018-02-24T21:02:46.171Z",
+			"size": 30870
+		},
+		"assets/Images/Icons/Bedroom_invert.png": {
+			"hash": "79a05af9afe9349abfbeb380e8a44d43",
+			"mtime": "2018-02-24T21:02:46.178Z",
+			"size": 8363
+		},
+		"assets/Images/Icons/Dining_Room.png": {
+			"hash": "32ea462112bec46c068fb9eac5cdcbc4",
+			"mtime": "2018-02-24T21:02:46.146Z",
+			"size": 38365
+		},
+		"assets/Images/Icons/Dining_Room_invert.png": {
+			"hash": "ed498f76d887b9f7a1897aa43e9f0a92",
+			"mtime": "2018-02-24T21:02:46.169Z",
+			"size": 11411
+		},
+		"assets/Images/Icons/Kitchen.png": {
+			"hash": "806a1c6ee7ff75b878df37966b006291",
+			"mtime": "2018-02-24T21:02:46.180Z",
+			"size": 34309
+		},
+		"assets/Images/Icons/Kitchen_invert.png": {
+			"hash": "01c465c3407c59e672b5ecd75882f5ad",
+			"mtime": "2018-02-24T21:02:46.179Z",
+			"size": 10285
+		},
+		"assets/Images/Icons/Living_Room.png": {
+			"hash": "46424b886f3bc930c3ff8f17825a9023",
+			"mtime": "2018-02-24T21:02:46.174Z",
+			"size": 42515
+		},
+		"assets/Images/Icons/Living_Room_invert.png": {
+			"hash": "8dcc0c228b0ddc2e06bd90889894ff8b",
+			"mtime": "2018-02-24T21:02:46.176Z",
+			"size": 16560
+		},
+		"assets/Images/Icons/Nursery.png": {
+			"hash": "68ff7718343dc621078d5fc9e3632fbb",
+			"mtime": "2018-02-24T21:02:46.139Z",
+			"size": 35540
+		},
+		"assets/Images/Icons/Nursery_invert.png": {
+			"hash": "0e45594ae1d46dea3d16777ad44859be",
+			"mtime": "2018-02-24T21:02:46.170Z",
+			"size": 14643
+		},
+		"assets/Images/Icons/Outside.png": {
+			"hash": "bd7cd7c1c7d40805b46f687782e60db0",
+			"mtime": "2018-02-24T21:02:46.172Z",
+			"size": 30433
+		},
+		"assets/Images/Icons/Outside_invert.png": {
+			"hash": "ff93e8e3398a3198510b281ad038c988",
+			"mtime": "2018-02-24T21:02:46.173Z",
+			"size": 19347
+		},
+		"assets/Images/Storybook/Myaamia_Coming_Out_Story.mp3": {
+			"hash": "4517139f2619cedce246ad7edfcfb5dd",
+			"mtime": "2018-02-24T21:02:46.075Z",
+			"size": 1136768
+		},
+		"assets/Images/Storybook/pro1.png": {
+			"hash": "382057db054a1d3a0a10b4d03954ac43",
+			"mtime": "2018-02-24T21:02:46.087Z",
+			"size": 186045
+		},
+		"assets/Images/Storybook/pro2.png": {
+			"hash": "a2bf6d11b87e1a4afa47c460ff7ef992",
+			"mtime": "2018-02-24T21:02:46.083Z",
+			"size": 199626
+		},
+		"assets/Images/Storybook/story_english.png": {
+			"hash": "ac36ac50e044b5d50646962a6e0eabef",
+			"mtime": "2018-02-24T21:02:46.079Z",
+			"size": 177577
+		},
+		"assets/Images/Storybook/story_myammian.png": {
+			"hash": "39d2a35df554cc32413b0ca38997524d",
+			"mtime": "2018-02-24T21:02:46.089Z",
+			"size": 206950
+		},
+		"assets/Images/arrow_crane.png": {
+			"hash": "f3d0f9196d126126a153ff656176fa98",
+			"mtime": "2018-02-24T21:02:46.095Z",
+			"size": 60014
+		},
+		"assets/Images/arrow_flag.png": {
+			"hash": "e3f782200e7fcec5d2735b7ca1be9434",
+			"mtime": "2018-02-24T21:02:46.183Z",
+			"size": 85760
+		},
+		"assets/Images/check.png": {
+			"hash": "ee36eab74caa5f10a97eabdff66c52e0",
+			"mtime": "2018-02-24T21:02:46.059Z",
+			"size": 7930
+		},
+		"assets/Images/contentBackground.png": {
+			"hash": "e54443f42e8d61be3372a2379da53e59",
+			"mtime": "2018-02-24T21:02:46.190Z",
+			"size": 94547
+		},
+		"assets/Images/crane_icon.png": {
+			"hash": "01171b679da68b88e099ab9283233bf5",
+			"mtime": "2018-02-24T21:02:46.100Z",
+			"size": 43476
+		},
+		"assets/Images/cube_background_h.png": {
+			"hash": "2ea58f0232ce6c9b68144a365431d9ef",
+			"mtime": "2018-02-24T21:02:46.093Z",
+			"size": 320749
+		},
+		"assets/Images/filler_icon.png": {
+			"hash": "6c25c5a5e430c96ee7f28d737ba327c1",
+			"mtime": "2018-02-24T21:02:46.105Z",
+			"size": 14866
+		},
+		"assets/Images/flag_icon.png": {
+			"hash": "2584677a1dc3c49260a4e8dc33d0bbab",
+			"mtime": "2018-02-24T21:02:46.132Z",
+			"size": 55281
+		},
+		"assets/Images/game_icon.png": {
+			"hash": "68809cd17f947ba4248542d5db4132f9",
+			"mtime": "2018-02-24T21:02:46.192Z",
+			"size": 33713
+		},
+		"assets/Images/glossary_white.png": {
+			"hash": "e642aca15da423432796862883122794",
+			"mtime": "2018-02-24T21:02:46.112Z",
+			"size": 19583
+		},
+		"assets/Images/graphics/button-exit-red.png": {
+			"hash": "24d43cae6b5968db03d45b585a4e247c",
+			"mtime": "2018-02-24T21:02:46.188Z",
+			"size": 24675
+		},
+		"assets/Images/graphics/button-help-red.png": {
+			"hash": "79f50165bcb66e3bbab3d6916e1a3a67",
+			"mtime": "2018-02-24T21:02:46.187Z",
+			"size": 25069
+		},
+		"assets/Images/graphics/button-play-red.png": {
+			"hash": "a55bbebffa80719dfabcd49639d192c9",
+			"mtime": "2018-02-24T21:02:46.188Z",
+			"size": 25791
+		},
+		"assets/Images/graphics/button-reload-red.png": {
+			"hash": "a96debb95a1d4ba0b5e5cdd9692ffd8e",
+			"mtime": "2018-02-24T21:02:46.185Z",
+			"size": 30185
+		},
+		"assets/Images/help_grey.png": {
+			"hash": "8d2c7af27a45ea255a453b4e933b8428",
+			"mtime": "2018-02-24T21:02:46.191Z",
+			"size": 2776
+		},
+		"assets/Images/house.png": {
+			"hash": "89250254230585f510c220d18ca87105",
+			"mtime": "2018-02-24T21:02:46.104Z",
+			"size": 35766
+		},
+		"assets/Images/house_background.png": {
+			"hash": "30052b385a0d4542f0a72c57d030e81c",
+			"mtime": "2018-02-24T21:02:46.098Z",
+			"size": 90525
+		},
+		"assets/Images/practice_background.png": {
+			"hash": "ffc2b30ef638e4c9974b703e409076af",
+			"mtime": "2018-03-20T15:20:11.187Z",
+			"size": 39203
+		},
+		"assets/Images/practice_background2.png": {
+			"hash": "8fa462d52005e6d47fe0af173c66fd26",
+			"mtime": "2018-02-24T21:02:46.119Z",
+			"size": 36762
+		},
+		"assets/Images/pro_0.png": {
+			"hash": "413555184de4dd5cc0c6a2926961f495",
+			"mtime": "2018-03-20T18:10:40.600Z",
+			"size": 311892
+		},
+		"assets/Images/pro_1.png": {
+			"hash": "33673b7c042cc38a4737fa021763f9a6",
+			"mtime": "2018-03-20T18:03:43.035Z",
+			"size": 200756
+		},
+		"assets/Images/pro_2.png": {
+			"hash": "d6fccb979a2b89ba18f3a41a7c507ad3",
+			"mtime": "2018-03-20T18:03:52.023Z",
+			"size": 161674
+		},
+		"assets/Images/pro_3.png": {
+			"hash": "1399fc93db1f554e5d25cde38c0fcbd2",
+			"mtime": "2018-03-21T20:03:51.031Z",
+			"size": 45123
+		},
+		"assets/Images/progressBackground.png": {
+			"hash": "a380161c0c50610bbe187fe7badb6fa4",
+			"mtime": "2018-02-24T21:02:46.102Z",
+			"size": 37218
+		},
+		"assets/Images/pronunciationGuide.png": {
+			"hash": "560d7f5a2f1b0bcae4a3a4a90856c63a",
+			"mtime": "2018-02-24T21:02:46.063Z",
+			"size": 223086
+		},
+		"assets/Images/qr_icon.png": {
+			"hash": "9cbac8af9a9e0710f497f5716cb04530",
+			"mtime": "2018-02-24T21:02:46.184Z",
+			"size": 61047
+		},
+		"assets/Images/tab1.png": {
+			"hash": "101b7e0edb0f6eaaf8496a794a5c1c2c",
+			"mtime": "2018-03-23T00:13:47.154Z",
+			"size": 15964
+		},
+		"assets/Images/tab1@2x.png": {
+			"hash": "6ef3b5c1bfd31e18e47e6f29fed89e88",
+			"mtime": "2018-03-23T00:13:47.157Z",
+			"size": 16615
+		},
+		"assets/Images/tab1@3x.png": {
+			"hash": "0899727d89c3fb4ea0da6df8902e342f",
+			"mtime": "2018-03-23T00:13:47.158Z",
+			"size": 17262
+		},
+		"assets/Images/tab2.png": {
+			"hash": "cef4e7908540c8843b2a304cbe987d06",
+			"mtime": "2018-03-23T00:13:47.160Z",
+			"size": 16310
+		},
+		"assets/Images/tab2@2x.png": {
+			"hash": "5b112d264901d5ea8db5e4c0b5cf83eb",
+			"mtime": "2018-03-23T00:13:47.161Z",
+			"size": 17730
+		},
+		"assets/Images/tab2@3x.png": {
+			"hash": "ba6cfe1b8504e256c70a743da44b2bcb",
+			"mtime": "2018-03-23T00:13:47.162Z",
+			"size": 19376
+		},
+		"assets/Images/wrong.png": {
+			"hash": "1eefcaf69a9841051e188f4ec24df19f",
+			"mtime": "2018-02-24T21:02:46.058Z",
+			"size": 9656
+		},
+		"assets/Sounds/bing.mp3": {
+			"hash": "6afe62aec0b44dad2c7e58721032a273",
+			"mtime": "2018-02-24T21:02:47.546Z",
+			"size": 15072
+		},
+		"assets/Sounds/rattlesound.mp3": {
+			"hash": "78b38bfde52346c6a5a2ed0a9aceb1fe",
+			"mtime": "2018-02-24T21:02:47.547Z",
+			"size": 13817
+		},
+		"assets/Sounds/silence.mp3": {
+			"hash": "f07c24409145a5dc78ae1ae29318adc8",
+			"mtime": "2018-02-24T21:02:47.546Z",
+			"size": 2649
+		},
+		"assets/dictionary.json": {
+			"hash": "41c9d4984c93ef1d81577e0702671278",
+			"mtime": "2018-03-28T03:27:06.679Z",
+			"size": 47717
+		},
+		"config.json": {
+			"hash": "c88d53191ece19bb005abbfb0c3e59f3",
+			"mtime": "2018-03-29T17:02:08.790Z",
+			"size": 62
+		},
+		"Default_2.png": {
+			"hash": "78e8b2933b9b93a87c5ff4dd7bcd5e6f",
+			"mtime": "2018-02-24T21:02:46.048Z",
+			"size": 68721
+		},
+		"Default-568h@2x.png": {
+			"hash": "8d34a05813fd11efc792904707e0e1f9",
+			"mtime": "2018-02-24T21:02:46.043Z",
+			"size": 78866
+		},
+		"Default-667h@2x.png": {
+			"hash": "cd720a317ac99489153461875e284c48",
+			"mtime": "2018-03-23T00:13:47.175Z",
+			"size": 513122
+		},
+		"Default-Landscape-736h@3x.png": {
+			"hash": "d169ee386c84d555e7d20bacf62a10ef",
+			"mtime": "2018-03-23T00:13:47.192Z",
+			"size": 1754751
+		},
+		"Default-Landscape.png": {
+			"hash": "0f45083a37b743713c290bbe152bf8ec",
+			"mtime": "2018-02-24T21:02:46.039Z",
+			"size": 517419
+		},
+		"Default-Landscape@2x.png": {
+			"hash": "0a0292fb2d3807fba384be3e20bca8a7",
+			"mtime": "2018-03-23T00:13:47.214Z",
+			"size": 2197000
+		},
+		"Default-Portrait-736h@3x.png": {
+			"hash": "2f066e1e962c31135a251b38f6393225",
+			"mtime": "2018-03-23T00:13:47.219Z",
+			"size": 1039854
+		},
+		"Default-Portrait.png": {
+			"hash": "c73fbea451ca2c13f2a81c1a2481eacc",
+			"mtime": "2018-02-24T21:02:46.031Z",
+			"size": 83009
+		},
+		"Default-Portrait@2x.png": {
+			"hash": "1b7ff9c56988f3d396295e1dfb21ede9",
+			"mtime": "2018-03-23T00:13:47.225Z",
+			"size": 2228874
+		},
+		"Default@2x.png": {
+			"hash": "c816e7213b3eb6af98a359b6613ff20c",
+			"mtime": "2018-02-24T21:02:46.033Z",
+			"size": 68253
+		},
+		"Classes/ApplicationRouting.m": {
+			"hash": "875decc2f5b3a9d990cb1621b400b38b",
+			"mtime": "2018-04-09T14:24:58.892Z",
+			"size": 277166
+		},
+		"en.lproj/Localizable.strings": {
+			"hash": "caab80eb336e755b58cb1d197e4af4bd",
+			"mtime": 0,
+			"size": 204
+		},
+		"modules/ui/images/badge.png": {
+			"hash": "4c5e51e328d337a135f513bc1e958c82",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 1130
+		},
+		"modules/ui/images/closeButton.png": {
+			"hash": "42c0b164d75b1e55247eac49060147df",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 361
+		},
+		"modules/ui/images/photoDefault.png": {
+			"hash": "31576aa458a06e3d95621cc924bc5725",
+			"mtime": "2017-09-20T16:51:27.000Z",
+			"size": 3126
+		}
+	},
+	"target": "simulator",
+	"deployType": "development",
+	"sdkVersion": "6.2.1.GA",
+	"iosSdkVersion": "11.3",
+	"deviceFamily": "universal",
+	"iosSdkPath": "/Users/elizabeth/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/iphone",
+	"tiCoreHash": "5710cda7b179a3c8391cc94011e308de",
+	"modulesHash": "d41d8cd98f00b204e9800998ecf8427e",
+	"modulesNativeHash": "d41d8cd98f00b204e9800998ecf8427e",
+	"gitHash": "301ffa4",
+	"forceCopy": false,
+	"forceCopyAll": false,
+	"name": "Niiki",
+	"id": "com.miamination.2017Niiki",
+	"analytics": true,
+	"publisher": "Miami Tribe of Oklahoma",
+	"url": "http://myaamiacenter.org/",
+	"version": "2.2.1",
+	"description": "niiki",
+	"copyright": "2013 by Miami Tribe of Oklahoma",
+	"guid": "7ef858f4-d71b-412c-9222-6335d9625a18",
+	"useAppThinning": false,
+	"skipJSMinification": false,
+	"encryptJS": false,
+	"showErrorController": true,
+	"useJSCore": false,
+	"runOnMainThread": false,
+	"useAutoLayout": false
+}

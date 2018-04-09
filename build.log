@@ -1,0 +1,490 @@
+Logfile initialized
+[INFO] logfile = /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build.log
+[DEBUG] /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/builder.py distribute Niiki /Users/greinedt/Android SDK /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki com.miamination.homelearningkit /Users/greinedt/Desktop/niiki-key 12wiikiaami34 niiki2-key /Users/greinedt/Desktop
+[INFO] Titanium SDK version: 3.1.3 (09/18/13 12:00 222f4d1)
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[DEBUG] LiveView not enabled
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[INFO] Copying platform-specific files for 'scanditsdk' module
+[DEBUG] found special platform files dir = /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/platform/android
+[DEBUG] copying app icon: /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/bin/assets/Resources/appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] copying /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-long-land-hdpi/default.png splash screen to /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] copying /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-long-land-ldpi/default.png splash screen to /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] copying /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-long-port-hdpi/default.png splash screen to /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] copying /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-long-port-ldpi/default.png splash screen to /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] copying /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-notlong-land-hdpi/default.png splash screen to /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] copying /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-notlong-land-ldpi/default.png splash screen to /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] copying /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-notlong-land-mdpi/default.png splash screen to /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] copying /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-notlong-port-hdpi/default.png splash screen to /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] copying /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-notlong-port-ldpi/default.png splash screen to /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] copying /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/Resources/android/images/res-notlong-port-mdpi/default.png splash screen to /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG] found splash screen at /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/bin/assets/Resources/default.png
+[INFO] Detected custom ApplicationManifest.xml -- no Titanium version migration supported
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/gen/com/miamination/homelearningkit/AssetCryptImpl.java to javac build list
+[DEBUG] adding /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/gen/com/miamination/homelearningkit/NiikiActivity.java to javac build list
+[DEBUG] adding /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/gen/com/miamination/homelearningkit/NiikiAppInfo.java to javac build list
+[DEBUG] adding /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/gen/com/miamination/homelearningkit/NiikiApplication.java to javac build list
+[DEBUG] adding /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/gen/com/miamination/homelearningkit/R.java to javac build list
+[DEBUG] Building Java Sources: "/Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/gen/com/miamination/homelearningkit/AssetCryptImpl.java" "/Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/gen/com/miamination/homelearningkit/NiikiActivity.java" "/Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/gen/com/miamination/homelearningkit/NiikiAppInfo.java" "/Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/gen/com/miamination/homelearningkit/NiikiApplication.java" "/Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/gen/com/miamination/homelearningkit/R.java"
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/build/android/bin/app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Bathroom/bathroom.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Bathroom/bathroom00_bathroom.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Bathroom/bathroom01_go_look_in_the_bathroom.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Bathroom/bathroom02_she_is_in_the_bathroom.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Bathroom/bathroom_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Bathtub/bathtub.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Bathtub/bathtub00_bathtub.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Bathtub/bathtub01_fill_the_bathtub.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Bathtub/bathtub02_wipe_out_the_bathtub.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Bathtub/bathtub_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/ColdWater/cold_water.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/ColdWater/cold_water00_cold_water.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/ColdWater/cold_water01_the_water_is_too_cold.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/ColdWater/cold_water02_use_cold_water.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/ColdWater/cold_water_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Comb/comb.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Comb/comb00_comb.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Comb/comb01_I_broke_the_comb.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Comb/comb02_this_comb_is_worn_out.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Comb/comb_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Hairbrush/hairbrush.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Hairbrush/hairbrush00_hairbrush.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Hairbrush/hairbrush01_the_brush_is_dirty.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Hairbrush/hairbrush02_clean_out_the_brush.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Hairbrush/hairbrush_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/HotWater/hot_water.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/HotWater/hot_water00_hot_water.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/HotWater/hot_water01_the_water_is_too_hot.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/HotWater/hot_water02_there_is_no_hot_water.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/HotWater/hot_water_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Mirror/mirror.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Mirror/mirror00_mirror.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Mirror/mirror01_the_mirror_is_dirty.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Mirror/mirror02_the_mirror_is_dirty.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Mirror/mirror02_wash_the_mirror.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Mirror/mirror_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Sink/sink.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Sink/sink00_sink.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Sink/sink01_put_it_near_the_sink.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Sink/sink02_it_is_in_the_sink.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Sink/sink_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Soap/soap.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Soap/soap00_soap.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Soap/soap01_where_is_the_soap.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Soap/soap02_the_soap_is_gone.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Soap/soap_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Toilet/toilet.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Toilet/toilet00_toilet.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Toilet/toilet01_put_the_toilet_lid_down.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Toilet/toilet02_its_time_for_me_to_clean_the_toilet.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Toilet/toilet_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Toothbrush/toothbrush.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Toothbrush/toothbrush00_toothbrush.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Toothbrush/toothbrush01_where_is_my_toothbrush.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Toothbrush/toothbrush02_my_toothbrush_is_worn_out.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Toothbrush/toothbrush_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Toothpaste/toothpaste.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Toothpaste/toothpaste00_toothpaste.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Toothpaste/toothpaste01_the_toothpaste_is_gone.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Toothpaste/toothpaste02_you_have_more_toothpaste.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bathroom/Toothpaste/toothpaste_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Bed/bed.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Bed/bed00_bed.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Bed/bed01_look_under_the_bed.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Bed/bed02_get_up_its_morning.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Bed/bed_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Bedroom/bedroom.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Bedroom/bedroom00_bedroom.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Bedroom/bedroom01_she_is_in_the_bedroom.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Bedroom/bedroom02_go_look_in_the_bedroom.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Bedroom/bedroom_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Blanket/blanket.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Blanket/blanket00_blanket.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Blanket/blanket01_give_me_a_blanket_I_am_cold.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Blanket/blanket02_the_blanket_is_dirty.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Blanket/blanket_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Book/book.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Book/book00_book.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Book/book01_where_is_my_book.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Book/book02_I_found_your_book_under_the_bed.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Book/book_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Carpet/carpet.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Carpet/carpet00_carpet.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Carpet/carpet01_the_carpet_is_dirty.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Carpet/carpet02_it_spilled_on_the_carpet.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Carpet/carpet_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Chair/chair.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Chair/chair00_chair.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Chair/chair01_get_another_chair.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Chair/chair02_you_can_sit_in_that_chair.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Chair/chair_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Door/door.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Door/door00_door.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Door/door01_shut_the_door.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Door/door02_leave_the_door_open.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Door/door_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Floor/floor.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Floor/floor00_floor.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Floor/floor01_lay_down_on_the_floor.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Floor/floor02_you_can_sleep_on_the_floor.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Floor/floor_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Lamp/lamp.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Lamp/lamp00_lamp.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Lamp/lamp01_who_broke_the_lamp.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Lamp/lamp02_the_light_is_broken_the_light_is_out.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Lamp/lamp_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Pants/pants.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Pants/pants00_pants.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Pants/pants01_put_on_your_pants.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Pants/pants02_put_your_pants_in_the_clothes_hamper.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Pants/pants_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Pillow/pillow.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Pillow/pillow00_pillow.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Pillow/pillow01_the_pillow_is_too_hard.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Pillow/pillow02_I_sleep_with_two_pillows.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Pillow/pillow_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Shirt/shirt.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Shirt/shirt00_shirt.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Shirt/shirt01_I_like_this_shirt.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Shirt/shirt02_my_shirt_is_dirty.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Bedroom/Shirt/shirt_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Chair/chair.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Chair/chair00_chair.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Chair/chair01_get_another_chair.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Chair/chair02_sit_in_that_chair.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Chair/chair_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Cup/cup.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Cup/cup00_cup.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Cup/cup01_are_you_using_this_cup.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Cup/cup02_where_is_my_cup.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Cup/cup_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/DiningRoom/dining_room.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/DiningRoom/dining_room00_dining_room.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/DiningRoom/dining_room_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Fork/fork.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Fork/fork00_fork.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Fork/fork01_get_me_another_fork.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Fork/fork02_my_fork_is_dirty.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Fork/fork_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Knife/knife.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Knife/knife00_knife.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Knife/knife01_my_knife_is_dull.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Knife/knife02_let's_use_butter_knives.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Knife/knife_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Milk/milk.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Milk/milk00_milk.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Milk/milk01_do_you_mix_milk_with_your_coffee.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Milk/milk02_you_should_buy_some_milk_at_the_store.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Milk/milk_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Plate/plate.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Plate/plate00_plate.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Plate/plate01_I_am_using_that_plate.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Plate/plate02_put_your_plate_on_the_table.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Plate/plate_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/SoupBowl/soup_bowl.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/SoupBowl/soup_bowl00_soup_bowl.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/SoupBowl/soup_bowl01_are_all_the_soup_bowls_dirty.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/SoupBowl/soup_bowl02_give_me_another_soup_bowl.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/SoupBowl/soup_bowl_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Spoon/spoon.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Spoon/spoon00_spoon.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Spoon/spoon01_use_a_bigger_spoon.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Spoon/spoon02_bring_six_spoons.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Spoon/spoon_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Table/table.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Table/table00_table.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Table/table01_set_the_table.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Table/table02_everything_is_on_the_table.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Table/table_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Water/water.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Water/water00_water.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Water/water01_I_will_only_drink_water.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Water/water02_can_I_get_something_for_you_to_drink.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/DiningRoom/Water/water_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Chair/chair.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Chair/chair00_chair.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Chair/chair01_get_another_chair.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Chair/chair02_sit_in_that_chair.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Chair/chair_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Coffee/coffee.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Coffee/coffee00_coffee.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Coffee/coffee01_coffee_is_ready.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Coffee/coffee02_are_you_making_coffee.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Coffee/coffee_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/CookingPot/cooking_pot.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/CookingPot/cooking_pot00_cooking_pot.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/CookingPot/cooking_pot01_put_the_pans_away.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/CookingPot/cooking_pot02_where_is_a_pan_I_can_use.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/CookingPot/cooking_pot_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Kitchen/kitchen.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Kitchen/kitchen00_kitchen.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Kitchen/kitchen01_i_am_in_the_kitchen.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Kitchen/kitchen02_it_is_in_the_kitchen.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Kitchen/kitchen_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/KitchenSink/kitchen_sink.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/KitchenSink/kitchen_sink00_kitchen_sink.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/KitchenSink/kitchen_sink01_put_it_in_the_sink.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/KitchenSink/kitchen_sink02_put_your_plate_in_the_sink.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/KitchenSink/kitchen_sink_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Pepper/pepper.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Pepper/pepper00_pepper.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Pepper/pepper01_pass_me_the_pepper.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Pepper/pepper_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Salt/salt.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Salt/salt00_salt.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Salt/salt01_pass_me_the_salt.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Salt/salt_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Soap/soap.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Soap/soap00_soap.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Soap/soap01_where_is_the_soap.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Soap/soap02_the_soap_is_gone.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Soap/soap_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Stove/stove.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Stove/stove00_stove.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Stove/stove01_heat_up_the_oven.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Stove/stove02_the_oven_is_hot.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Stove/stove_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Table/table.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Table/table00_table.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Table/table01_put_plates_on_the_table_set_the_table.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Table/table02_everything_is_on_the_table.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Table/table_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Tea/tea.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Tea/tea00_tea.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Tea/tea01_do_you_drink_tea.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Tea/tea02_I_am_warming_up_some_tea.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/Tea/tea_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/TeaKettle/tea_kettle.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/TeaKettle/tea_kettle00_tea_kettle.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/TeaKettle/tea_kettle01_warm_up_the_tea_kettle.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/TeaKettle/tea_kettle02_fill_up_the_tea_kettle.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Kitchen/TeaKettle/tea_kettle_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Book/book.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Book/book00_book.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Book/book01_where_is_my_book.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Book/book02_the_book_is_on_the_shelf.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Book/book_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Books/books.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Books/books00_books.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Books/books_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Bookshelf/bookshelf.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Bookshelf/bookshelf00_bookshelf.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Bookshelf/bookshelf01_put_the_book_on_the_bookshelf.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Bookshelf/bookshelf02_its_on_the_bookshelf.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Bookshelf/bookshelf_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Bookshelves/bookshelves.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Bookshelves/bookshelves00_bookshelves.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Bookshelves/bookshelves_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Carpet/carpet.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Carpet/carpet00_carpet.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Carpet/carpet01_the_carpet_is_dirty.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Carpet/carpet02_it_spilled_on_the_carpet.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Carpet/carpet_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Chair/chair.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Chair/chair00_chair.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Chair/chair01_get_another_chair.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Chair/chair02_sit_in_that_chair.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Chair/chair_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/CoffeeTable/coffee_table.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/CoffeeTable/coffee_table00_coffee_table.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/CoffeeTable/coffee_table01_take_your_feet_off_the_coffee_table.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/CoffeeTable/coffee_table02_use_the_coffee_table.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/CoffeeTable/coffee_table_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Computer/computer.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Computer/computer00_computer.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Computer/computer01_turn_off_the_computer.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Computer/computer02_can_I_use_your_computer.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Computer/computer_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Couch/couch.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Couch/couch00_couch.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Couch/couch01_the_couch_is_worn_out_(is_old).mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Couch/couch02_you_must_sleep_on_the_couch.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Couch/couch_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/EndTable/end_table.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/EndTable/end_table00_end_table.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/EndTable/end_table01_put_your_cup_on_the_end_table.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/EndTable/end_table02_move_the_end_table_here.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/EndTable/end_table_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Fireplace/fireplace.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Fireplace/fireplace00_fireplace.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Fireplace/fireplace01_the_fireplace_is_hot.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Fireplace/fireplace02_clean_out_the_fireplace.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Fireplace/fireplace_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Lamp/lamp.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Lamp/lamp00_lamp.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Lamp/lamp01_who_broke_the_lamp.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Lamp/lamp02_the_light_is_broken_the_light_is_out.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/Lamp/lamp_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/LivingRoom/living_room.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/LivingRoom/living_room00_living_room.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/LivingRoom/LivingRoom/living_room_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Dog/dog.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Dog/dog00_dog.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Dog/dog01_call_the_dog.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Dog/dog02_where_is_the_dog_leash.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Dog/dog_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/DownyWoodpecker/downy_woodpecker.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/DownyWoodpecker/downy_woodpecker00_downy_woodpecker.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/DownyWoodpecker/downy_woodpecker01_there_are_lots_of_downy_woodpeckers.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/DownyWoodpecker/downy_woodpecker02_the_cat_caught_the_bird.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/DownyWoodpecker/downy_woodpecker_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Fence/fence.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Fence/fence00_fence.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Fence/fence01_the_fence_broke_fell_down.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Fence/fence02_I_repaired_the_fence.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Fence/fence_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Garden/garden.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Garden/garden00_garden.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Garden/garden01_she_is_in_the_garden.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Garden/garden02_she_is_rototilling_the_garden.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Garden/garden_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Grass/grass.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Grass/grass00_grass.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Grass/grass01_the_grass_is_tall_high.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Grass/grass02_I_must_cut_the_grass.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Grass/grass_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/LargeBird/large_bird.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/LargeBird/large_bird00_large_bird.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/LargeBird/large_bird01_the_dog_is_chasing_the_bird.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/LargeBird/large_bird02_the_bird_is_making_its_nest.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/LargeBird/large_bird_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Leaves/leaves.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Leaves/leaves00_leaves.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Leaves/leaves01_the_leaves_are_falling.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Leaves/leaves02_the_leaves_are_budding.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Leaves/leaves_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Outside/outside.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Outside/outside00_outside.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Outside/outside_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/PileatedWoodpecker/pileated_woodpecker.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/PileatedWoodpecker/pileated_woodpecker00_pileated_woodpecker.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/PileatedWoodpecker/pileated_woodpecker01_i_hear_a_pileated_woodpecker.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/PileatedWoodpecker/pileated_woodpecker02_the_pileated_woodpeckers_are_making_a_nest.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/PileatedWoodpecker/pileated_woodpecker_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Shed/shed.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Shed/shed00_shed.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Shed/shed01_its_hanging_in_the_garage.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Shed/shed02_look_in_the_garage.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Shed/shed_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/SmallBird/small_bird.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/SmallBird/small_bird00_small_bird.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/SmallBird/small_bird01_there_are_a_lot_of_birds.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/SmallBird/small_bird02_the_cat_caught_the_bird.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/SmallBird/small_bird_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Squirrel/squirrel.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Squirrel/squirrel00_squirrel.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Squirrel/squirrel01_the_squirrel_is_climbing_the_tree.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Squirrel/squirrel02_there_is_a_squirrel_nest_in_the_tree.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Squirrel/squirrel_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Tree/tree.png
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Tree/tree00_tree.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Tree/tree01_a_pretty_nice_looking_tree.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Tree/tree02_that_tree_was_blown_over.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Areas/Outside/Tree/tree_translation.txt
+[DEBUG] from resource zip => assets/Resources/assets/Images/Icons/Bathroom.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/Icons/Bathroom_invert.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/Icons/Bedroom.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/Icons/Bedroom_invert.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/Icons/Dining_Room.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/Icons/Dining_Room_invert.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/Icons/Kitchen.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/Icons/Kitchen_invert.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/Icons/Living_Room.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/Icons/Living_Room_invert.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/Icons/Outside.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/Icons/Outside_invert.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/graphics/button-exit-red.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/graphics/button-help-red.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/graphics/button-play-red.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/graphics/button-reload-red.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/check.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/contentBackground.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/crane_icon.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/cube_background_h.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/filler_icon.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/flag_icon.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/game_icon.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/glossary_white.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/house.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/progressBackground.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/qr_icon.png
+[DEBUG] from resource zip => assets/Resources/assets/Images/wrong.png
+[DEBUG] from resource zip => assets/Resources/assets/Sounds/bing.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Sounds/rattlesound.mp3
+[DEBUG] from resource zip => assets/Resources/assets/Sounds/silence.mp3
+[DEBUG] from resource zip => assets/Resources/assets/config.json
+[DEBUG] from resource zip => assets/Resources/assets/dictionary.json
+[DEBUG] from resource zip => assets/Resources/KS_nav_ui.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/drawable/btn_check_buttonless_on_64.png
+[DEBUG] from resource zip => res/drawable/btn_more_64.png
+[DEBUG] from resource zip => res/drawable/disclosure_64.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => res/layout/titanium_ui_list_header_or_footer.xml
+[DEBUG] from resource zip => res/layout/titanium_ui_list_item.xml
+[DEBUG] from resource zip => res/raw/beep.wav
+[DEBUG] from resource zip => res/raw/flashlight_turn_off_icon.png
+[DEBUG] from resource zip => res/raw/flashlight_turn_on_icon.png
+[DEBUG] from resource zip => res/raw/ic_btn_search.png
+[DEBUG] from resource zip => res/raw/poweredby2x.png
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-long-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_64.png
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_64.png
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR /Users/greinedt/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] installing native lib: /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/modules/android/com.mirasense.scanditsdk/1.0.0/libs/armeabi/libcom.mirasense.scanditsdk.so
+[DEBUG] installing native lib: /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/modules/android/com.mirasense.scanditsdk/1.0.0/libs/armeabi/libscanditsdk-android-3.1.17.so
+[DEBUG] installing native lib: /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/modules/android/com.mirasense.scanditsdk/1.0.0/libs/armeabi-v7a/libcom.mirasense.scanditsdk.so
+[DEBUG] installing native lib: /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/modules/android/com.mirasense.scanditsdk/1.0.0/libs/armeabi-v7a/libscanditsdk-android-3.1.17.so
+[DEBUG] installing native lib: /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/modules/android/com.mirasense.scanditsdk/1.0.0/libs/x86/libcom.mirasense.scanditsdk.so
+[DEBUG] installing native lib: /Users/greinedt/Documents/WorkSpaces/Titanium_Studio_Workspace/Niiki/modules/android/com.mirasense.scanditsdk/1.0.0/libs/x86/libscanditsdk-android-3.1.17.so
+[DEBUG] installing native SDK libs
